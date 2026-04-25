@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Large generated data files (regenerate with python main.py)
+data/final/all_professors_embedded.json
+data/final/all_professors_arxiv.json
+data/final/arxiv_cache.json
+
+# NOT ignored — keep these for reproducibility:
+# data/final/all_professors.json       (source of truth, 1.4MB)
+# data/final/comparison_results.json
+# data/final/ablation_results.json
+# data/final/ltr_results.json
+# data/final/clusters.json
+# data/final/relevance_labels.json
+
+# Sentence transformer model cache
+.cache/
+*.bin
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+
+# LaTeX build artifacts (compile locally or via Overleaf — do not commit)
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.blg
+*.bbl
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
