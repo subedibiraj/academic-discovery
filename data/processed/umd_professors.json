@@ -1,0 +1,2477 @@
+[
+  {
+    "name": "Daniel Abadi",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Darnell-Kanal Professor of Computer Science",
+    "email": "",
+    "phone": "(301) 405-9695",
+    "office": "IRB 5156",
+    "profile_url": "https://www.cs.umd.edu/people/abadi",
+    "personal_website": "https://www.cs.umd.edu/~abadi/",
+    "google_scholar": "https://scholar.google.com/citations?user=zxeEF2gAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Databases and Big Data",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Databases and Big Data, Systems, Networking, and Architecture",
+    "education": [
+      "Ph.D.,MIT 2008"
+    ],
+    "biography": "Prof. Abadi performs research on database system architecture and implementation, especially at the intersection with scalable and distributed systems. He is best-known for the development of the storage and query execution engines of the C-Store (column-oriented database) prototype, which was commercialized by Vertica and eventually acquired by Hewlett-Packard and for his HadoopDB research on fault tolerant scalable analytical database systems which was commercialized by Hadapt and acquired by Teradata in 2014, and deterministic, scalable, transactional, distributed systems such as Calvin which is currently being commercialized by Fauna. Abadi has been a recipient of a Churchill Scholarship, a NSF CAREER Award, a Sloan Research Fellowship, a VLDB Best Paper Award, two VLDB \"Test of Time\" Awards (one for C-Store and one for HadoopDB), the 2008 SIGMOD Jim Gray Doctoral Dissertation Award, the 2013-2014 Yale Provost's Teaching Prize, and the 2013 VLDB Early Career Researcher Award. He was the PhD dissertation advisor of Alexander Thomson's and Jose Falerio's PhD dissertations, both of which won SIGMOD Jim Gray Doctoral Dissertation Awards (in 2015 and 2020 respectively). To join my research of group you must have taken CMSC 624 at UMD. I do not work with non-UMD students, and I do not work with UMD students who have not taken CMSC 624. I never send unsoliciated emails to students trying to recruit people to my research group and I never do UMD business with a non-UMD email address. If you receive an email from me from a non-UMD email address regarding UMD business, or trying to recruit you to do a reseach project, it is an impersonator and a scam.",
+    "awards": [
+      "2025 - Award - CIDR: Test of Time Award",
+      "2020 - Fellow - ACM: ACM Fellow",
+      "2019 - Award: VLDB Test of Time Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Ashok Agrawala",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-2525",
+    "office": "IRB 5204",
+    "profile_url": "https://www.cs.umd.edu/people/agrawala",
+    "personal_website": "http://www.cs.umd.edu/~agrawala/",
+    "google_scholar": "https://scholar.google.com/citations?user=Ytr5Y78AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Systems, Networking, and Architecture",
+      "Machine Learning and Data Science",
+      "IoT and Wearables Technology"
+    ],
+    "research_text": "Systems, Networking, and Architecture, Machine Learning and Data Science, IoT and Wearables Technology",
+    "education": [
+      "Ph.D., Harvard University, 1970"
+    ],
+    "biography": "Visit the webpage honoring Professor Agrawala's 50th anniversary here .",
+    "awards": [
+      "2021 - Degree: Honorary Degree",
+      "2005 - Fellow - AAAS: AAAS Fellow",
+      "1991 - Fellow - IEEE: IEEE Fellow"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Fardina Alam",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer, Faculty Director, Data Science MS Program",
+    "email": "",
+    "phone": "",
+    "office": "IRB 2222",
+    "profile_url": "https://www.cs.umd.edu/people/fardina",
+    "personal_website": "https://www.cs.umd.edu/~fardina/",
+    "google_scholar": "https://scholar.google.com/citations?user=pZw9Q6gAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Bioinformatics and Computational Biology",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Bioinformatics and Computational Biology, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., George Mason University, 2023",
+      "M.S., George Mason University, 2018",
+      "B.S, Military Institute of Science and Technology, Dhaka, 2013"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "John Aloimonos",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-1743",
+    "office": "IRB 4214",
+    "profile_url": "https://www.cs.umd.edu/people/jyaloimo",
+    "personal_website": "http://www.cfar.umd.edu/~yiannis/",
+    "google_scholar": "https://scholar.google.com/citations?user=7QmEsOwAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Computer Vision and Machine Perception",
+      "Graphics Visualization and VR AR"
+    ],
+    "research_text": "AI and Robotics, Computer Vision and Machine Perception, Graphics Visualization and VR AR",
+    "education": [
+      "Ph.D., University of Rochester, 1987"
+    ],
+    "biography": "",
+    "awards": [
+      "1990 - Award - NSF: NSF National Young Investigator"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Bahar Asgari",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5148",
+    "profile_url": "https://www.cs.umd.edu/people/bahar",
+    "personal_website": "https://casl.cs.umd.edu/",
+    "google_scholar": "https://scholar.google.com/citations?user=19grMJMAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Systems, Networking, and Architecture",
+      "High Performance and Scientific Computing"
+    ],
+    "research_text": "Systems, Networking, and Architecture, High Performance and Scientific Computing",
+    "education": [
+      "Ph.D., Georgia Institute of Technology, 2021"
+    ],
+    "biography": "Bahar Asgari is an assistant professor in the Department of Computer Science, and the director of the Computer Architecture and Systems Lab ( CASL ) at the University of Maryland, College Park. Before joining UMD, she spent a year at Google, contributing to improving the performance of systems developed in Google and setting roadmaps across various tradeoffs to shape the next generation of systems, with a focus on optimizing memory utilization and improving reliability. Her research interests include but are not limited to domain-specific architecture design, near memory processing, and reconfigurable computing. Her proposed low-cost ha rdware accelerators that deal with essential challenges of sparse problems contribute to a widespread application domain from machine learning to scientific computing.",
+    "awards": [
+      "2024 - UMD: Excellence in Teaching Award",
+      "2023 - Award - DOE: Early Career Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Clifford Bakalian",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "IRB 2238",
+    "profile_url": "https://www.cs.umd.edu/people/cyb",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=XHU8RcQAAAAJ",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "M.S. in CS, University of Maryland, 2021",
+      "B.S. in CS, University of Maryland, 2020",
+      "B.A. in Philosophy, University of Maryland, 2020"
+    ],
+    "biography": "I typically teach CMSC330. I also oversee a few STICs ( https://stics.umd.edu/index.html ). Full class list can be found at https://bakalian.cs.umd.edu",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Calin Belta",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Brendan Iribe Endowed Professor",
+    "email": "",
+    "phone": "(301) 405-8512",
+    "office": "2337 A.V. Williams Bldg.",
+    "profile_url": "https://www.cs.umd.edu/people/calin",
+    "personal_website": "https://calinbelta.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=72yPqG4AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Bioinformatics and Computational Biology",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "AI and Robotics, Bioinformatics and Computational Biology, Machine Learning and Data Science",
+    "education": [
+      "PhD, University of Pennsylvania, 2003"
+    ],
+    "biography": "Calin Belta is the Brendan Iribe Endowed Professor of Electrical and Computer Engineering and Computer Science at the University of Maryland, College Park, where he is also affiliated with the Institute of Systems Research (ISR) and the Maryland Robotics Center (MRC). His research focuses on dynamics and control theory, with particular emphasis on cyber-physical systems, formal methods, and applications to robotics and systems biology. Notable awards include the 2008 AFOSR Young Investigator Award, the 2005 National Science Foundation CAREER Award, and the 2017 IEEE TCNS Outstanding Paper Award. He is a Fellow of the IEEE and a Distinguished Lecturer of the IEEE CSS.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Abhinav Bhatele",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-4507",
+    "office": "IRB 5218",
+    "profile_url": "https://www.cs.umd.edu/people/bhatele",
+    "personal_website": "http://www.cs.umd.edu/~bhatele",
+    "google_scholar": "https://scholar.google.com/citations?user=3x65qtwAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "High Performance and Scientific Computing",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "High Performance and Scientific Computing, Systems, Networking, and Architecture",
+    "education": [
+      "Ph. D., University of Illinois at Urbana-Champaign, 2010",
+      "M. S., University of Illinois at Urbana-Champaign, 2007",
+      "B. Tech., Indian Institute of Technology, Kanpur, 2005"
+    ],
+    "biography": "Abhinav Bhatele is an associate professor in the Department of Computer Science, and director of the Parallel Software and Systems Group at the University of Maryland, College Park. His research interests are broadly in systems and networks, with a focus on parallel computing and large-scale data analytics. He has published research in parallel programming models and runtimes, network design and simulation, applications of machine learning to parallel systems, parallel deep learning, and on analyzing/visualizing, modeling and optimizing the performance of parallel software and systems.",
+    "awards": [
+      "2024 - Award: Early Career Alumni Award",
+      "2023 - Award - IEEE: TCSC Award for Excellence in Scalable Computing",
+      "2021 - Award - NSF: NSF CAREER",
+      "2018 - Award - LLNL: Early and Mid-Career Recognition Award",
+      "2016 - Award - IPDPS: Best Paper Award",
+      "2014 - Award - IEEE: TCSC Award for Excellence in Scalable Computing",
+      "2013 - Award - IPDPS: Best Paper Award",
+      "2011 - Award: David J. Kuck Outstanding Ph.D. Thesis Award",
+      "2009 - Fellowship - ACM/IEEE-CS: George Michael Memorial HPC Fellowship",
+      "2009 - Award - Euro-Par: Distinguished Paper Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Bobby Bhattacharjee",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-1658",
+    "office": "IRB 5140",
+    "profile_url": "https://www.cs.umd.edu/people/bobby",
+    "personal_website": "http://www.cs.umd.edu/~bobby/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [
+      "Cybersecurity and Cryptography",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Cybersecurity and Cryptography, Systems, Networking, and Architecture",
+    "education": [
+      "Ph.D., Georgia Tech, 1999"
+    ],
+    "biography": "",
+    "awards": [
+      "2004 - Fellowship: Sloan Research Fellowship",
+      "2001 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Jordan Boyd-Graber",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-6766",
+    "office": "IRB 4146",
+    "profile_url": "https://www.cs.umd.edu/people/ying",
+    "personal_website": "http://www.umiacs.umd.edu/~jbg",
+    "google_scholar": "https://scholar.google.com/citations?user=BT4XTP4AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Information Retrieval and Geographic Information Systems (GIS)",
+      "Machine Learning and Data Science",
+      "Natural Language Processing"
+    ],
+    "research_text": "AI and Robotics, Information Retrieval and Geographic Information Systems (GIS), Machine Learning and Data Science, Natural Language Processing",
+    "education": [
+      "Ph.D., Princeton University, 2010",
+      "B.S., California Institute of Technology, 2004"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Nora Burkhauser",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "IRB 2228",
+    "profile_url": "https://www.cs.umd.edu/people/nburkhau",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Marine Carpuat",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-8801",
+    "office": "IRB 4130",
+    "profile_url": "https://www.cs.umd.edu/people/marine",
+    "personal_website": "http://www.cs.umd.edu/~marine",
+    "google_scholar": "https://scholar.google.com/citations?user=EAQfVXgAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Machine Learning and Data Science",
+      "Natural Language Processing"
+    ],
+    "research_text": "AI and Robotics, Machine Learning and Data Science, Natural Language Processing",
+    "education": [],
+    "biography": "",
+    "awards": [
+      "2018 - Award - NSF: NSF CAREER",
+      "2016 - Award: Google Faculty Research"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Yizheng Chen",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/yzchen",
+    "personal_website": "https://surrealyz.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=dxz-lQYAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Cybersecurity and Cryptography",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Cybersecurity and Cryptography, Machine Learning and Data Science",
+    "education": [
+      "PhD, Georgia Institute of Technology, 2017"
+    ],
+    "biography": "Yizheng Chen will join University of Maryland as an Assistant Professor of Computer Science in Fall 2023. She works in the intersection of AI and security. She is interested in using AI to solve security problems, such as detecting malware, vulnerability, attacks and fraud. She is also interested in improving the robustness of these machine learning models. Previously, she was a postdoctoral scholar at University of California, Berkeley and Columbia University. She holds a Ph.D. in Computer Science from Georgia Institute of Technology. Her work has received an ACM CCS Best Paper Award Runner-up and a Google ASPIRE Award. She is a recipient of the Anita Borg Memorial Scholarship.",
+    "awards": [
+      "2025 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Andrew Childs",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-2329",
+    "office": "ATL 3100",
+    "profile_url": "https://www.cs.umd.edu/people/amchilds",
+    "personal_website": "http://cs.umd.edu/~amchilds",
+    "google_scholar": "https://scholar.google.com/citations?user=7MOW-j4AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Quantum Computing",
+      "Algorithms and Theory"
+    ],
+    "research_text": "Quantum Computing, Algorithms and Theory",
+    "education": [
+      "Ph.D., Massachusetts Institute of Technology, 2004"
+    ],
+    "biography": "",
+    "awards": [
+      "2024 - Award - UMD: Kirwan Faculty Research and Scholarship Prize",
+      "2014 - Fellow: Canadian Institute for Advanced Research"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Hal Daumé III",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Volpi-Cupal Family Endowed Professor",
+    "email": "",
+    "phone": "(301) 405-1073",
+    "office": "IRB 4134",
+    "profile_url": "https://www.cs.umd.edu/people/hal3",
+    "personal_website": "http://www.umiacs.umd.edu/~hal/",
+    "google_scholar": "https://scholar.google.com/citations?user=PbEw81gAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Machine Learning and Data Science",
+      "Natural Language Processing"
+    ],
+    "research_text": "AI and Robotics, Machine Learning and Data Science, Natural Language Processing",
+    "education": [
+      "Ph.D, University of Southern California, 2006"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Amol Deshpande",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Associate Chair for Graduate Education",
+    "email": "",
+    "phone": "(301) 405-2703",
+    "office": "IRB 5154",
+    "profile_url": "https://www.cs.umd.edu/people/amol",
+    "personal_website": "http://www.cs.umd.edu/~amol/",
+    "google_scholar": "https://scholar.google.com/citations?user=Zmvi6PMAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Databases and Big Data",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Databases and Big Data, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., University of California at Berkely, 2004"
+    ],
+    "biography": "Prof. Deshpande is a Professor in the Department of Computer Science at the University of Maryland at College Park, with a joint appointment in the University of Maryland Institute for Advanced Computer Studies (UMIACS). He received my MS and PhD Degrees in Computer Science from the University of California at Berkeley in 2001 and 2004 respectively, and his B.Tech., Degree from the Indian Institute of Technology, Bombay in 1998. His research has spanned a spectrum of data management topics including query optimization, adaptive query processing, sensor network data management, scalable statistical modeling of data, uncertain data management, and graph databases. He has written more than 80 research publications, and has received best paper awards at the VLDB 2004, EWSN 2008, and VLDB 2009 conferences. He received a National Science Foundation (NSF) CAREER award in 2006, which is given to outstanding junior faculty who exemplify the role of teacher-scholars so they can further their research in their areas of expertise. He has served as a program committee member for many conferences in databases, systems, and sensor networks, and he is on the editorial boards for the Journal of Distributed and Parallel Databases, ACM TODS Journal, IEEE Transactions on Cloud Computing, and VLDB Journal. He has also served as a program committee Co-Chair for ACM SIGMOD 2019, and a program committee vice-chair for the IEEE International Conference on Data Mining (ICDM) in 2008, IEEE International Conference on Data Engineering (ICDE) in 2011 and 2013, ACM SIGMOD Conference 2016, and PVLDB 2017, 2019, 2023, and 2024.",
+    "awards": [
+      "2025 - Award - CIDR: Test of Time Award",
+      "2005 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Laxman Dhulipala",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/laxman",
+    "personal_website": "https://www.cs.umd.edu/~laxman/",
+    "google_scholar": "https://scholar.google.com/citations?user=TJSHa2IAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "High Performance and Scientific Computing",
+      "Databases and Big Data",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Algorithms and Theory, High Performance and Scientific Computing, Databases and Big Data, Systems, Networking, and Architecture",
+    "education": [
+      "Ph.D., Carnegie Mellon University, 2020"
+    ],
+    "biography": "My current research interests are on efficient parallel graph algorithms and parallel clustering. I am especially interested in designing efficient algorithms and systems for maintaining and analyzing graphs or pointsets that change over time.",
+    "awards": [
+      "2025 - Award - UMD: Departmental Teaching Award",
+      "2024 - Award - ACM: Paris Kanellakis Theory and Practice Award",
+      "2023 - Award: The Allen Newell Award for Research Excellence",
+      "2022 - Award: Best Paper",
+      "2019 - Award: Best Paper",
+      "2018 - Award: Best Paper"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Ramani Duraiswami",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-6710",
+    "office": "IRB 4244",
+    "profile_url": "https://www.cs.umd.edu/people/ramanid",
+    "personal_website": "http://www.umiacs.umd.edu/~ramani/",
+    "google_scholar": "https://scholar.google.com/citations?user=GNEcpkAAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Computer Vision and Machine Perception",
+      "High Performance and Scientific Computing",
+      "Information Retrieval and Geographic Information Systems (GIS)"
+    ],
+    "research_text": "Computer Vision and Machine Perception, High Performance and Scientific Computing, Information Retrieval and Geographic Information Systems (GIS)",
+    "education": [
+      "Ph.D., Johns Hopkins University, 1991",
+      "B.Tech., IIT Bombay, 1985"
+    ],
+    "biography": "Ramani Duraiswami is Professor at the Department of Computer Science, and in UMIACS, at the University of Maryland. Prof. Duraiswami got his B. Tech. at IIT Bombay, and his Ph.D. at The Johns Hopkins University. After spending a few years working in industry, he joined the University of Maryland, where he established the Perceptual Intelligence and Reality Lab. He has broad research interests, including both algorithm development (for machine learning, statistics, wave propagation and scattering, the fast multipole method), and systems development/applications (spatial audio capture rendering and personalization; computer vision, acoustics). Duraiswami’s recent work emphasizes multimodal generative AI, world models based on scientific simulation, and fast algorithms for audio, electromagnetic, and visual wave propagation, and developing efficient algorithms and systems for large-scale spatial audio, vision, and AI applications. He has published over 350 peer-reviewed archival papers, co-authored a book, has several issued patents, and according to Google Scholar has an h-index of 67 (in 2025). Some of his research was spun out into a startup, VisiSonics , whose technology is in millions of devices. Prof. Duraiswami has affiliate appointments in AIM , UMIACS , ECE , AMSC , MRC and NACS .",
+    "awards": [
+      "2016 - Award - USM: Board of Regents Award for Excellence in Research and Innovation",
+      "2016 - Award: UM Ventures Invention of the Year Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Roger Eastman",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor of the Practice",
+    "email": "",
+    "phone": "(301) 405-2773",
+    "office": "AVW 3235",
+    "profile_url": "https://www.cs.umd.edu/people/reastman",
+    "personal_website": "https://www.cs.umd.edu/~reastman/",
+    "google_scholar": "https://scholar.google.com/citations?user=TU1dwkYAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Computer Vision and Machine Perception",
+      "Graphics Visualization and VR AR"
+    ],
+    "research_text": "AI and Robotics, Computer Vision and Machine Perception, Graphics Visualization and VR AR",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Fawzi Emad",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Principal Lecturer",
+    "email": "",
+    "phone": "(301) 405-2709",
+    "office": "IRB 2212",
+    "profile_url": "https://www.cs.umd.edu/people/fpe",
+    "personal_website": "http://www.cs.umd.edu/~fpe/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "M.A., University of Maryland, 1997"
+    ],
+    "biography": "",
+    "awards": [
+      "2007 - UMD - UMD: CMPS Dean's Award for Teaching Excellence"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Anna Evtushenko",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "IRB 2216",
+    "profile_url": "https://www.cs.umd.edu/people/annae",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=gVAh3BwAAAAJ",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Soheil Feizi",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-8743",
+    "office": "IRB 4202",
+    "profile_url": "https://www.cs.umd.edu/people/sfeizi",
+    "personal_website": "https://www.cs.umd.edu/~sfeizi/",
+    "google_scholar": "https://scholar.google.com/citations?user=lptAmrMAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Machine Learning and Data Science",
+      "Computer Vision and Machine Perception",
+      "AI and Robotics"
+    ],
+    "research_text": "Machine Learning and Data Science, Computer Vision and Machine Perception, AI and Robotics",
+    "education": [
+      "Ph.D., MIT, 2016",
+      "M.Sc., MIT, 2010",
+      "B.Sc. Sharif University of Technology, 2008"
+    ],
+    "biography": "Dr. Feizi is an Associate Professor in the Computer Science Department at the University of Maryland, College Park. He holds a Ph.D. in EECS with a minor degree in mathematics from MIT. Prior to his appointment at UMD, he was a post-doctoral research scholar at Stanford University. Dr. Feizi’s research focuses on developing reliable and trustworthy Artificial Intelligence and Machine Learning. He has received multiple awards for his work including the ONR's Young Investigator Award, the NSF CAREER award, two best paper awards, the Ernst Guillemin thesis award, a teaching award, and more than fifteen research awards from national agencies such as NSF, DARPA, ARL, ONR, DOE, NIST as well as industry such as Meta, IBM, Amazon, Qualcomm and Capital One.",
+    "awards": [
+      "2025 - Award: PECASE",
+      "2023 - Award: Amazon Research Award",
+      "2023 - Award - ARO: Early Career Award",
+      "2022 - Award: ONR Young Investigator",
+      "2020 - Award - NSF: NSF CAREER",
+      "2019 - Award - IBM: Junior Faculty Development Award",
+      "2019 - Award: Best Paper"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Can Firtina",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 3236",
+    "profile_url": "https://www.cs.umd.edu/people/firtina",
+    "personal_website": "https://canfirtina.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=KvB1G5EAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Bioinformatics and Computational Biology",
+      "Systems, Networking, and Architecture",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Bioinformatics and Computational Biology, Systems, Networking, and Architecture, Machine Learning and Data Science",
+    "education": [
+      "PhD, ETH Zurich, 2025"
+    ],
+    "biography": "Can Firtina is an Assistant Professor in the Department of Computer Science at the University of Maryland, College Park (UMD), where he leads the STORM Research Group . His research spans a broad range of problems that address the computational challenges in biological data analysis. Specifically, he is interested in designing new algorithms, AI/ML methods, and specialized computing systems that use emerging computing paradigms and memory technologies to enable fast, accurate, energy-efficient, and real-time analysis of genomic data. His research has been published in major bioinformatics and computer architecture venues. Can Firtina received his PhD from ETH Zurich in 2025, where he was advised by Professor Onur Mutlu. His doctoral thesis was awarded the ETH Medal.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Hervé Franceschi",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Senior Lecturer",
+    "email": "",
+    "phone": "(301) 405-6762",
+    "office": "IRB 2244",
+    "profile_url": "https://www.cs.umd.edu/people/hfrances",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "Master in Computer Science, UMBC, 1999",
+      "Master in Engineering Management, Stanford University, 1982",
+      "Engineering Degree, Ecole Polytechnique, 1980"
+    ],
+    "biography": "Co-author, Java Illuminated, 5th edition, Jones and Bartlett Learning Author, Android App Development, Jones and Bartlett Learning",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ruohan Gao",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/rhgao",
+    "personal_website": "https://ruohangao.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=i02oEgMAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Computer Vision and Machine Perception",
+      "AI and Robotics",
+      "Machine Learning and Data Science",
+      "Graphics Visualization and VR AR"
+    ],
+    "research_text": "Computer Vision and Machine Perception, AI and Robotics, Machine Learning and Data Science, Graphics Visualization and VR AR",
+    "education": [],
+    "biography": "Ruohan Gao is an Assistant Professor of Computer Science at the University of Maryland, College Park, where he leads the UMD Multisensory Machine Intelligence Lab. Before joining UMD, he spent a year at Meta as a Research Scientist after his Postdoc at the Stanford Vision and Learning Lab. He received his Ph.D. in Computer Science from The University of Texas at Austin. He mainly works in the fields of computer vision and machine learning with a particular emphasis on multisensory machine intelligence involving sight, sound, and touch. His research has been recognized with the Sony Faculty Innovation Award, AAAI New Faculty Highlights, the Michael H. Granof Award for UT Austin’s Top 1 Doctoral Dissertation, the Google PhD Fellowship, the Adobe Research Fellowship, a Best Student Paper Award at WASPAA 2025, a Best Paper Award Runner Up at BMVC 2021, and a Best Paper Award Finalist at CVPR 2019.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "William Gasarch",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 503-3157",
+    "office": "IRB 2242",
+    "profile_url": "https://www.cs.umd.edu/people/gasarch",
+    "personal_website": "http://www.cs.umd.edu/~gasarch/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory"
+    ],
+    "research_text": "Algorithms and Theory",
+    "education": [
+      "Ph.D., Harvard University, 1985, Computer Science",
+      "B.S. SUNY at Stonybrook, 1980, Math and Applied Math"
+    ],
+    "biography": "Dr. Gasarch got his BS in Math and Applied Math at SUNY Stonybrook in the Spring of 1980. He then got a PhD from Harvard in Computer science in the Spring of 1985. He got a Job at Univ of MD as a professor in Fall of 1985 and has been there ever since. His main intersts have shifted from logic to combinatorics, but always with an eye towards applying these to computer science theory. He currently advised MANY High School Students, some of which have won awards.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Tom Goldstein",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Volpi-Cupal Endowed Professor",
+    "email": "",
+    "phone": "(301) 405-0053",
+    "office": "IRB 4144",
+    "profile_url": "https://www.cs.umd.edu/people/tomg",
+    "personal_website": "http://www.cs.umd.edu/~tomg",
+    "google_scholar": "https://scholar.google.com/citations?user=KmSuVtgAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Computer Vision and Machine Perception",
+      "High Performance and Scientific Computing",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "AI and Robotics, Computer Vision and Machine Perception, High Performance and Scientific Computing, Machine Learning and Data Science",
+    "education": [
+      "PhD, UCLA, 2010",
+      "BA, Washington University, 2006"
+    ],
+    "biography": "Tom Goldstein is the Perotto Associate Professor of Computer Science at University of Maryland. His research lies at the intersection of machine learning and optimization, and targets applications in computer vision and signal processing. He works at the boundary between theory and practice, leveraging mathematical foundations, complex models, and efficient hardware to build practical, high-performance systems. He design optimization methods for a wide range of platforms ranging from powerful cluster/cloud computing environments to resource limited integrated circuits and FPGAs. Before joining the faculty at Maryland, Tom completed his PhD in Mathematics at UCLA, and was a research scientist at Rice University and Stanford University. Tom has been the recipient of several awards, including SIAM’s DiPrima Prize, a DARPA Young Faculty Award, a JP Morgan Faculty Award, an Amazon Research Award, and a Sloan Fellowship.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Evan Golub",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Principal Lecturer",
+    "email": "",
+    "phone": "(301) 405-0180",
+    "office": "IRB 1210",
+    "profile_url": "https://www.cs.umd.edu/people/egolub",
+    "personal_website": "http://www.cs.umd.edu/~egolub/",
+    "google_scholar": "https://scholar.google.com/citations?user=ca_lr2wAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Human Computer Interaction"
+    ],
+    "research_text": "Human Computer Interaction",
+    "education": [
+      "Ph.D., University of Maryland, 1999"
+    ],
+    "biography": "Evan Golub, Ph.D. is a Principal Lecturer and Researcher in the Department of Computer Science at the University of Maryland and an Assistant Director of the Human-Computer Interaction Lab. He has been involved in the creation of, or modification of, numerous courses across the curriculum at the University. His prior research interests have ranged from artificial intelligence and concurrent programming to ubiquitous computing to theoretical computer science to educational classroom technologies to children and technology design, but currently his focus is on creativity support tools and XR. In these areas he works to understand how users can utilize technology across the spectrum of skill and experience bases to achieve a variety of goals. He disseminates his results through submissions to journals and to conferences.His research approach commonly incorporates student involvement; at both the graduate and undergraduate level. He sees his work with students not only as a part of his role as educator but also a valuable part of both the creative and research processes. He has co-authored a textbook on Information Technology, and authored a Visual C++ workbook and Student Response System faculty guidebook, and is an avid photographer and photojournalist.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Elias Gonzalez",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer, Curriculum Innovation Lead- Break Through Tech",
+    "email": "",
+    "phone": "",
+    "office": "IRB 1252",
+    "profile_url": "https://www.cs.umd.edu/people/egonzal5",
+    "personal_website": "http://eliasgonzalez.me",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "BS, Computer Science, University of Maryland, 2017",
+      "M.Ed, Curriculum and Instruction, University of Maryland, 2018"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Daniel Gottesman",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Brin Family Endowed Professor in Theoretical Computer Science",
+    "email": "",
+    "phone": "",
+    "office": "ATL 3251",
+    "profile_url": "https://www.cs.umd.edu/people/dgottesm",
+    "personal_website": "https://www.cs.umd.edu/~dgottesm/",
+    "google_scholar": "https://scholar.google.com/citations?user=373HnhYAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "Quantum Computing"
+    ],
+    "research_text": "Algorithms and Theory, Quantum Computing",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ritwik Gupta",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor, (joining July 2026)",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/ritwikg",
+    "personal_website": "https://ritwikgupta.me/",
+    "google_scholar": "https://scholar.google.com/citations?user=4Cdwp_MAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Computer Vision and Machine Perception",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Computer Vision and Machine Perception, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., University of California, Berkeley, 2025",
+      "B.S., University of Pittsburgh, 2017"
+    ],
+    "biography": "Ritwik's research focuses on physics-integration computer vision, perception in complex and chaotic environments, multi-agent reasoning, and public policy issues surrounding the use of AI in both civilian and military contexts. Ritwik’s work has found widespread use in tasks such as assessing building damage after the 2023 Turkey-Syria earthquake and detecting and interdicting criminals engaged in illegal activities on the ocean. His research has been widely covered in press outlets such as TIME, the Wall Street Journal, and CNN. Ritwik is a Fellow with the Berkeley Risk and Security Lab, a Research Fellow at the Berkeley Human Rights Center, and an AI Policy Fellow at the Center for Security in Politics. He previously led a research lab focused on AI for humanitarian assistance and disaster response at Carnegie Mellon University and investigated real-time machine learning for the Apple Vision Pro. Prospective Students: I am looking for students interested in working on physics-integrated computer vision and multi-modal language models. Students interested in working with me should apply to the UMD CS Ph.D. program and mention my name in their research statement. I am also looking for also looking for Public Policy Ph.D. students with engineering backgrounds. For this, please apply to the UMD Public Policy Ph.D. program and mention your interest in working with me as an outside advisor.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Mohammad Hajiaghayi",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Jack and Rita G. Minker Professor",
+    "email": "",
+    "phone": "(301) 405-6724",
+    "office": "IRB 5158",
+    "profile_url": "https://www.cs.umd.edu/people/hajiagha",
+    "personal_website": "http://www.cs.umd.edu/~hajiagha/",
+    "google_scholar": "https://scholar.google.com/citations?user=SQ1eGN4AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "Databases and Big Data",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Algorithms and Theory, Databases and Big Data, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., Massachusetts Institute of Technology, 2005"
+    ],
+    "biography": "Dr. Mohammad T. Hajiaghayi is the Jack and Rita G. Minker Associate Professor of Computer Science at the University of Maryland with a joint appointment in the University's Institute for Advanced Computer Studies (UMIACS). In addition, he holds a Research Affiliate position in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) and is a Permanent Member of Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers. Before joining the University of Maryland, he was a Senior Researcher in the Algorithms and Theoretical Computer Science group at AT&T Labs-- Research to which he is still a consultant. Before that, he was a one-year Postdoctoral Fellow in the School of Computer Science at Carnegie Mellon University (with ALADDIN project) and a one-year Postdoctoral Associate in MIT Computer Science and Artificial Intelligence Laboratory (CSAIL) from which he also earned his Ph.D in 2005. During his Ph.D. studies, he spent some time at IBM Research centers and Microsoft Research centers. Dr. Hajiaghayi got his M.Sc. in Computer Science from the University of Waterloo in 2001 and his B.Sc. in Computer Engineering from Sharif University of Technology in 2000. Dr. Hajiaghayi's research interests are algorithmic game theory and combinatorial auctions, network design, combinatorial optimizations and approximation algorithms, fixed-parameter algorithms, algorithmic graph theory, distributed and mobile computing, and computational geometry and embeddings. In the course of his professional career in these areas, he has published more than 110 papers in top conferences and journals of computer science, won a few best paper awards, and served in program committees or editorial boards of several well-known international conferences and journals. He has received an NSF CAREER Award in 2010, a Google Faculty Research Award in 2010, an ONR Young Investigator Award in 2011, and the University of Maryland Research and Scholarship Award (RASA) in 2011. He won best paper awards at the ACM Symposium on Parallelism in Algorithms and Architectures (SPAA) 2010, the International Symposium on Algorithms and Computation (ISAAC) 2006, and the Robocup 2001 Conference.",
+    "awards": [
+      "2023 - Award: Distinguished Career Award in Applied Mathematics, Washington Academy of Sciences",
+      "2022 - Award: University of Waterloo Alumni Achievement Award",
+      "2022 - Fellow - AAAS: AAAS Fellow",
+      "2019 - Fellow: Guggenheim Fellow",
+      "2019 - Fellow - IEEE: IEEE Fellow",
+      "2018 - Fellow - ACM: ACM Fellow",
+      "2011 - Award: Google Faculty Research",
+      "2011 - Award - NSF: NSF CAREER",
+      "2011 - Award: ONR Young Investigator"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Larry Herman",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "(301) 405-2762",
+    "office": "IRB 1124",
+    "profile_url": "https://www.cs.umd.edu/people/larry",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "M.S., University of Maryland, 1990"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Jeffrey K. Hollingsworth",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Vice President & CIO, University of MD",
+    "email": "",
+    "phone": "(301) 405-7700, (301) 405-2708",
+    "office": "IRB 5152",
+    "profile_url": "https://www.cs.umd.edu/people/hollings",
+    "personal_website": "http://www.cs.umd.edu/~hollings/",
+    "google_scholar": "https://scholar.google.com/citations?user=YcrMNggAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "High Performance and Scientific Computing",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "High Performance and Scientific Computing, Systems, Networking, and Architecture",
+    "education": [
+      "Ph.D., University of Wisconsin at Madison, 1994"
+    ],
+    "biography": "Jeff Hollingsworth is the Vice President of Information Technology and Chief Information Officer for the University of Maryland. He is also a Professor in the Computer Science Department. The division of IT provides services to the entire campus including computer networking, telephones, video conferencing, audio-visual, and computing. Dr. Hollingsworth is responsible for the university's overall technology environment, including critical IT services for research and teaching; administrative applications; information security and integrity; and broad technical support for faculty, staff and students. He also leads campus-wide strategies and policies around campus use of technology. He received his PhD and MS degrees in computer sciences from the University of Wisconsin and a B. S. in Electrical Engineering from the University of California at Berkeley. He has conducted research in the area of High Performance Computing (HPC). His work has been used by major federal laboratories and been incorporated into products of several leading technology companies. He is also a Past Chair of the Association for Computing Machinery’s Special Interest Group on HPC. He has served on the board of trustees of Internet2 and the Computing Research Association. He serves on the higher education advisory boards of Cisco and Splunk.",
+    "awards": [
+      "2016 - Award - IBM: IBM Faculty Partnership Award",
+      "2003 - Member - IEEE: IEEE Senior Member",
+      "2001 - Award - IBM: IBM Faculty Partnership Award",
+      "1997 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Furong Huang",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-8010",
+    "office": "IRB 4124",
+    "profile_url": "https://www.cs.umd.edu/people/furongh",
+    "personal_website": "http://furong-huang.com",
+    "google_scholar": "https://scholar.google.com/citations?user=13yyuCcAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Machine Learning and Data Science",
+      "Natural Language Processing",
+      "Computer Vision and Machine Perception",
+      "High Performance and Scientific Computing",
+      "Algorithms and Theory"
+    ],
+    "research_text": "AI and Robotics, Machine Learning and Data Science, Natural Language Processing, Computer Vision and Machine Perception, High Performance and Scientific Computing, Algorithms and Theory",
+    "education": [],
+    "biography": "Furong Huang is an Associate Professor in the Department of Computer Science at the University of Maryland. She is also affiliated with the Center for Machine Learning at Institute for Advanced Computer Studies, the Maryland Robotics Center, the Applied Mathematics, Statistics, and Scientific Computation Program, and the Department of Electrical and Computer Engineering. Her research bridges trustworthy machine learning, sequential decision-making, and generative AI, with a strong emphasis on developing foundation models for robotics. These models aim to unify perception, planning, and control across diverse robotic platforms. Dr. Huang’s broader vision is to build intelligent systems that are not only high-performing, but also reliable, interpretable, and aligned with human values. Her work combines theoretical rigor with real-world impact, enabling systems that are robust, adaptable, and safe.",
+    "awards": [
+      "2024 - Award: Best Paper",
+      "2022 - Award: JP Morgan Faculty Research Award",
+      "2022 - Award: Best Paper",
+      "2021 - Award: Best Paper",
+      "2020 - Award: JP Morgan Faculty Research Award",
+      "2019 - Award - NSF: CISE CRII",
+      "2019 - Award: JP Morgan Faculty Research Award",
+      "2017 - Award: Adobe Faculty Research Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Jia-Bin Huang",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor, Capital One Endowed Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 4234",
+    "profile_url": "https://www.cs.umd.edu/people/jbhuang",
+    "personal_website": "https://jbhuang0604.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=pp848fYAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Computer Vision and Machine Perception",
+      "Graphics Visualization and VR AR",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "AI and Robotics, Computer Vision and Machine Perception, Graphics Visualization and VR AR, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., University of Illinois, Urbana-Champaign"
+    ],
+    "biography": "",
+    "awards": [
+      "2023 - Award: Google Faculty Research",
+      "2022 - Award: Distinguished Faculty Award, Facebook",
+      "2019 - Award: Google Faculty Research",
+      "2019 - Award - NSF: CISE CRII",
+      "2012 - Award - IAPR: Best Paper"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Heng Huang",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Brendan Iribe Endowed Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 3238",
+    "profile_url": "https://www.cs.umd.edu/people/heng",
+    "personal_website": "http://www.cs.umd.edu/~heng",
+    "google_scholar": "https://scholar.google.com/citations?user=JfGT-1kAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Machine Learning and Data Science",
+      "Bioinformatics and Computational Biology",
+      "Computer Vision and Machine Perception",
+      "Natural Language Processing",
+      "AI and Robotics"
+    ],
+    "research_text": "Machine Learning and Data Science, Bioinformatics and Computational Biology, Computer Vision and Machine Perception, Natural Language Processing, AI and Robotics",
+    "education": [
+      "Ph.D., Dartmouth College, 2006"
+    ],
+    "biography": "",
+    "awards": [
+      "2020 - Fellow - AIMBE: College of Fellows"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Mohit Iyyer",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 4142",
+    "profile_url": "https://www.cs.umd.edu/people/miyyer",
+    "personal_website": "http://cs.umd.edu/~miyyer",
+    "google_scholar": "https://scholar.google.com/citations?user=rBVA5tcAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Machine Learning and Data Science",
+      "Natural Language Processing"
+    ],
+    "research_text": "Machine Learning and Data Science, Natural Language Processing",
+    "education": [
+      "PhD, University of Maryland, College Park, 2017",
+      "BS, Washington University in St. Louis, 2012"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "David Jacobs",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-0679",
+    "office": "IRB 4240",
+    "profile_url": "https://www.cs.umd.edu/people/dwj",
+    "personal_website": "http://www.cs.umd.edu/~djacobs",
+    "google_scholar": "https://scholar.google.com/citations?user=WH2KmRgAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Computer Vision and Machine Perception"
+    ],
+    "research_text": "AI and Robotics, Computer Vision and Machine Perception",
+    "education": [
+      "Ph.D., Massachusetts Institute of Technology, 1992"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ting Jiang",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/tjiang1",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Gabriel Kaptchuk",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5232",
+    "profile_url": "https://www.cs.umd.edu/people/kaptchuk",
+    "personal_website": "https://kaptchuk.com",
+    "google_scholar": "https://scholar.google.com/citations?user=gbq5qjYAAAAJ",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "Ph.D., Johns Hopkins University, 2020",
+      "M.S., Johns Hopkins University, 2018",
+      "B.S., Johns Hopkins University, 2015"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Christopher Kauffman",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Senior Lecturer",
+    "email": "",
+    "phone": "(301) 405-2724",
+    "office": "IRB 2226",
+    "profile_url": "https://www.cs.umd.edu/people/profk",
+    "personal_website": "https://www.cs.umd.edu/~profk/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "2013 PhD Computer Science, University of Minnesota, Twin Cities"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Pete Keleher",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-0345",
+    "office": "IRB 5146",
+    "profile_url": "https://www.cs.umd.edu/people/keleher",
+    "personal_website": "http://pete.kelehers.me",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [
+      "Systems, Networking, and Architecture",
+      "Cybersecurity and Cryptography"
+    ],
+    "research_text": "Systems, Networking, and Architecture, Cybersecurity and Cryptography",
+    "education": [
+      "Ph.D., Rice University, 1995"
+    ],
+    "biography": "",
+    "awards": [
+      "1996 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Sujeong Kim",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "IRB 1250",
+    "profile_url": "https://www.cs.umd.edu/people/sujeong",
+    "personal_website": "https://sujeong.kim",
+    "google_scholar": "https://scholar.google.com/citations?user=H7ff8-EAAAAJ",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Clyde Kruskal",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-2683",
+    "office": "IRB 2240",
+    "profile_url": "https://www.cs.umd.edu/people/ckruskal",
+    "personal_website": "http://www.cs.umd.edu/~kruskal/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory"
+    ],
+    "research_text": "Algorithms and Theory",
+    "education": [
+      "Ph.D., New York University, 1981"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Leonidas Lampropoulos",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "Iribe 5248",
+    "profile_url": "https://www.cs.umd.edu/people/leonidas",
+    "personal_website": "http://lemonidas.github.io",
+    "google_scholar": "https://scholar.google.com/citations?user=JNUvp5kAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Programming Languages and Software Engineering"
+    ],
+    "research_text": "Programming Languages and Software Engineering",
+    "education": [],
+    "biography": "",
+    "awards": [
+      "2022 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Myungin Lee",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/myungin",
+    "personal_website": "http://www.myunginlee.com",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "Myungin (Ph.D.) is a researcher who designs multimodal instruments based on scientific theory, composition, signal processing, machine learning, and gestural interfaces. He pursues cohesive multimodal instrument design and composition by establishing crossmodal correspondence between modalities, including audio, graphics, interface, and physics. His works are featured at Ars Electronica, Getty PST 2024, IEEE, New Interfaces for Musical Expression, International Computer Music Conference, and the ACM SIGGRAPH Digital Art Community.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Dave Levin",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor, CS Honors Chair",
+    "email": "",
+    "phone": "(301) 405-8515",
+    "office": "IRB 5222",
+    "profile_url": "https://www.cs.umd.edu/people/dml",
+    "personal_website": "https://www.cs.umd.edu/~dml/",
+    "google_scholar": "https://scholar.google.com/citations?user=CLSPQW4AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Cybersecurity and Cryptography",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Cybersecurity and Cryptography, Systems, Networking, and Architecture",
+    "education": [
+      "PhD, Computer Science, University of Maryland, 2012",
+      "BS, Computer Science, University of Maryland, 2002",
+      "BS, Mathematics, University of Maryland, 2002"
+    ],
+    "biography": "Dave received his PhD from UMD. Before returning as a professor, he was a researcher at Hewlett Packard Labs in Palo Alto, CA. Dave's research interests include securing the web's public key infrastructure and defending against nation-state censorship.",
+    "awards": [
+      "2020 - Award - NSF: NSF CAREER",
+      "2018 - UMD - UMD: CMNS Dean's Award for Excellence in Teaching",
+      "2017 - Award: Best Paper",
+      "2009 - Award: Best Paper"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Ming Lin",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Dr. Barry Mersky and Capital One   E-Nnovate Endowed Professor; Distinguished University Professor",
+    "email": "",
+    "phone": "(301) 405-2662",
+    "office": "IRB 5162",
+    "profile_url": "https://www.cs.umd.edu/people/lin",
+    "personal_website": "https://www.cs.umd.edu/~lin",
+    "google_scholar": "https://scholar.google.com/citations?user=ugFNit4AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Computer Vision and Machine Perception",
+      "Graphics Visualization and VR AR",
+      "High Performance and Scientific Computing",
+      "Human Computer Interaction",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "AI and Robotics, Computer Vision and Machine Perception, Graphics Visualization and VR AR, High Performance and Scientific Computing, Human Computer Interaction, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., University of California at Berkeley",
+      "M.S., University of California at Berkeley",
+      "B.S., University of California at Berkeley"
+    ],
+    "biography": "",
+    "awards": [
+      "2023 - Award - IEEE: Best Paper Award, IEEE IROS",
+      "2023 - Award - ACM: Seminal Graphics Paper on Physical Simulations, ACM SIGGRAPH",
+      "2022 - Fellow - NAI: NAI Fellow",
+      "2022 - Member - IEEE: IEEE VGTC Virtual Reality Academy",
+      "2022 - Award - IEEE: Honorable Mention for Best Paper, IEEE BADUE",
+      "2021 - Award - Robohub: 50 Women in Robotics You Need to Know About",
+      "2020 - Member - ACM: SIGGRAPH Academy",
+      "2020 - Award: Distinguished Career in Computer Science, Washington Academy of Sciences",
+      "2019 - UMD - UMD: Univ Maryland Distinguished University Professor",
+      "2018 - Award - IEEE: Test of Time Award Paper Nominee, Conf. on Robotics and Automation",
+      "2017 - Fellow - Eurographics: Eurographics Fellow",
+      "2015 - Member - IEEE: IEEE Board of Governors",
+      "2015 - Award - IEEE: IEEE Computer Society, Society of Golden Core",
+      "2012 - Fellow - IEEE: IEEE Fellow",
+      "2011 - Fellow - ACM: ACM Fellow",
+      "2010 - Award - IEEE: IEEE VGTC, Technical Achievement Award",
+      "2003 - Award: Phillip and Ruth Hettleman Prize for Artistic and Scholarly Achievement",
+      "1998 - Award - IBM: Junior Faculty Development Award",
+      "1997 - Award: Honda Research Initiation Award",
+      "1995 - Award - NSF: Young Faculty Career Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Zhicheng Liu",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5202",
+    "profile_url": "https://www.cs.umd.edu/people/leozcliu",
+    "personal_website": "https://zcliu.cs.umd.edu/",
+    "google_scholar": "https://scholar.google.com/citations?user=rRCnB0wAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Human Computer Interaction",
+      "Graphics Visualization and VR AR",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Human Computer Interaction, Graphics Visualization and VR AR, Machine Learning and Data Science",
+    "education": [],
+    "biography": "",
+    "awards": [
+      "2023 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Ruoshi Liu",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor, Incoming",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/ruoshi",
+    "personal_website": "https://ruoshiliu.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=suAawHYAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Computer Vision and Machine Perception",
+      "Machine Learning and Data Science",
+      "Graphics Visualization and VR AR"
+    ],
+    "research_text": "AI and Robotics, Computer Vision and Machine Perception, Machine Learning and Data Science, Graphics Visualization and VR AR",
+    "education": [
+      "Ph.D Columbia University, 2025",
+      "M.S Columbia University 2022",
+      "B.S Columbia University 2021"
+    ],
+    "biography": "Prospective Students: Students interested in working with me should apply to the UMD CS Ph.D. program and mention my name in their research statement. I'm looking for highly motivated students with a strong interest and background in robotics, computer vision, and deep learning. Background in electrical and mechanical engineering or hands-on experiences with real-world robotic systems is a plus.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Alan Zaoxing Liu",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "301-405-1226",
+    "office": "IRB 5226",
+    "profile_url": "https://www.cs.umd.edu/people/zaoxing",
+    "personal_website": "https://zaoxing.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=qvK1_5wAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Systems, Networking, and Architecture",
+      "Databases and Big Data",
+      "Machine Learning and Data Science",
+      "Cybersecurity and Cryptography"
+    ],
+    "research_text": "Systems, Networking, and Architecture, Databases and Big Data, Machine Learning and Data Science, Cybersecurity and Cryptography",
+    "education": [
+      "Ph.D., Johns Hopkins University, 2019"
+    ],
+    "biography": "Alan Zaoxing Liu is an Assistant Professor of Computer Science at the University of Maryland, College Park. His work spans computer systems, networks, and cybersecurity to co-design performant, reliable, and secure data analytics solutions across the computing stack. His research focuses on designing scalable and trustworthy approximate computing systems. He received the best paper award at FAST'19 and several interdisciplinary recognitions, including ACM STOC \"Best-of-Theory\" plenary talk and USENIX ATC \"Best-of-Rest\". He received a Ph.D. in Computer Science from Johns Hopkins University in 2019 and conducted postdoctoral research at Carnegie Mellon CyLab from 2019 to 2020.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Anwar Mamat",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Senior Lecturer",
+    "email": "",
+    "phone": "(301) 405-2696",
+    "office": "IRB 2248",
+    "profile_url": "https://www.cs.umd.edu/people/anwar",
+    "personal_website": "http://www.cs.umd.edu/~anwar/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Dinesh Manocha",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Paul Chrisman Iribe Professor of Computer Science and Electrical and Computer Engineering, Distinguished University Professor",
+    "email": "",
+    "phone": "(301) 405-2741",
+    "office": "IRB 5164",
+    "profile_url": "https://www.cs.umd.edu/people/dmanocha",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=X08l_4IAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Graphics Visualization and VR AR",
+      "High Performance and Scientific Computing"
+    ],
+    "research_text": "AI and Robotics, Graphics Visualization and VR AR, High Performance and Scientific Computing",
+    "education": [
+      "Ph.D., University of California at Berkeley, CA, 1992",
+      "B. Tech, Indian Institute of Technology, Delhi, India, 1987"
+    ],
+    "biography": "Biography Available Here Research Links : GAMMA Publications Links: Google Scholar DBLP UMD GAMMA Semantic Scholar",
+    "awards": [
+      "2026 - Award: NVIDIA Research Award",
+      "2026 - Award: Google Gemini Award",
+      "2026 - Award - IEEE: International Conference on Robotics and Automation Most Influential Paper Award",
+      "2025 - Award: Amazon Research Award",
+      "2024 - Member - IEEE: IEEE VGTC Virtual Reality Academy",
+      "2024 - Award - UMD: Jimmy H.C. Lin Award for Innovation and Invention",
+      "2023 - Award: Google Faculty Research",
+      "2023 - Award: Best Paper",
+      "2023 - Fellow - NAI: NAI Fellow",
+      "2022 - Award: Verisk AI Faculty Research Award",
+      "2022 - Award - ACM: Best Paper Award, ACM SIGGRAPH MIG Conference",
+      "2022 - Award: Amazon Research Award",
+      "2022 - Award: Northrop Grumman Faculty Research Award",
+      "2021 - Award: Distinguished Faculty Award, Facebook",
+      "2021 - Award - IEEE: VR Best Conference Paper",
+      "2020 - Award: Pierre Bézier Award, Solid Modeling Association",
+      "2020 - UMD - UMD: Univ Maryland Distinguished University Professor",
+      "2019 - Award: Distinguished Faculty Award, Facebook",
+      "2019 - Award: Pioneer, Solid Modelling Association",
+      "2019 - Member - ACM: SIGGRAPH Academy",
+      "2019 - Award: Distinguished Career in Computer Science, Washington Academy of Sciences",
+      "2018 - Fellow - AAAI: AAAI Fellow",
+      "2018 - Award: Global Initiative of Academic Networks (GIAN) Award, Ministry of Education, India",
+      "2018 - Award - IEEE: Test of Time Award Paper Nominee, Conf. on Robotics and Automation",
+      "2017 - Award: Google DayDream Faculty Award",
+      "2015 - Award: Google Faculty Research",
+      "2015 - Award: High Performance Graphics Conference, Test of Time 2006 Award",
+      "2013 - Award: Best Paper Award, NC Acoustic Society",
+      "2012 - Fellow - IEEE: IEEE Fellow",
+      "2011 - Fellow - AAAS: AAAS Fellow",
+      "2011 - Award - IIT Delhi: Distinguished Alumni Award",
+      "2010 - Award - IBM: Smarter Planet Innovation Award",
+      "2009 - Fellow - ACM: ACM Fellow",
+      "2008 - Award: Best Paper Award at Computer-Aided Design (CAD) Conference",
+      "2008 - Award: NVIDIA Professor Partnership",
+      "2007 - Award - ACM: Best Paper Award, VRST Conference",
+      "2006 - Award: Phi Delta Theta/Matthew Mason Distinguished Professor",
+      "2006 - Award - ACM: IndySort (Sort Benchmark) Co-winner",
+      "2005 - Award - IEEE: VR Best Conference Paper",
+      "2005 - Award: Best Paper, Research and Development Track, I/ITSEC",
+      "2004 - Award: Best Paper Award, Pacific Graphics Conference",
+      "2003 - Award - ACM: Best Paper Award, ACM/SIGGRAPH Conference on Solid Modeling and Applications",
+      "2001 - Award - ACM: Best Paper Award, ACM Multimedia Conference",
+      "2001 - Award - IEEE: Best Panel Award, IEEE Visualization Conference",
+      "1999 - Award - Eurographics: Best Paper Award, Eurographics Conference",
+      "1998 - Award: Phillip and Ruth Hettleman Prize for Artistic and Scholarly Achievement",
+      "1997 - Award: Honda Research Initiation Award",
+      "1996 - Award: ONR Young Investigator",
+      "1996 - Award: Best Paper Award, SuperComputing",
+      "1995 - Award - NSF: NSF CAREER",
+      "1995 - Fellowship: Sloan Research Fellowship",
+      "1992 - Org: IBM",
+      "1988 - Fellowship: Alfred and Chella D. Moore Fellowship, University of California at Berkeley"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Michael Marsh",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Senior Lecturer",
+    "email": "",
+    "phone": "(301) 405-7445, (240) 270-2276",
+    "office": "IRB 2218",
+    "profile_url": "https://www.cs.umd.edu/people/mmarsh",
+    "personal_website": "https://www.cs.umd.edu/~mmarsh",
+    "google_scholar": "https://scholar.google.com/citations?user=mPKx8BEAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Cybersecurity and Cryptography",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Cybersecurity and Cryptography, Systems, Networking, and Architecture",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Michelle Mazurek",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor, Director, Maryland Cybersecurity Center",
+    "email": "",
+    "phone": "(301) 405-6463",
+    "office": "AVW 4465",
+    "profile_url": "https://www.cs.umd.edu/people/mmazurek",
+    "personal_website": "http://www.umiacs.umd.edu/~mmazurek/",
+    "google_scholar": "https://scholar.google.com/citations?user=5ExRjncAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Cybersecurity and Cryptography",
+      "Human Computer Interaction"
+    ],
+    "research_text": "Cybersecurity and Cryptography, Human Computer Interaction",
+    "education": [
+      "Ph.D., Carnegie Mellon University, 2014",
+      "B.S., University of Maryland, 2004"
+    ],
+    "biography": "",
+    "awards": [
+      "2020 - Award - NSF: NSF CAREER",
+      "2018 - Award: Best Paper",
+      "2016 - Award: Best Paper"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Christopher Metzler",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 4236",
+    "profile_url": "https://www.cs.umd.edu/people/metzler",
+    "personal_website": "http://cs.umd.edu/~metzler/",
+    "google_scholar": "https://scholar.google.com/citations?user=on7GFpYAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Computer Vision and Machine Perception",
+      "AI and Robotics",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Computer Vision and Machine Perception, AI and Robotics, Machine Learning and Data Science",
+    "education": [
+      "PhD Rice University 2019",
+      "MSEE Rice University 2014",
+      "BSEE Rice University 2013"
+    ],
+    "biography": "Chris is an Assistant Professor in the Department of Computer Science at UMD. His research develops new systems and algorithms for solving problems in computational imaging, machine learning, and wireless communications. Before joining UMD, he completed a postdoc in the Stanford Computational Imaging Lab. He received his B.S., M.S., and Ph.D. degrees in electrical and computer engineering from Rice University in 2013, 2014, and 2019, respectively. Chris has received several awards and fellowships including a AFOSR Young Investigator Program award, an Intelligence Community Postdoctoral Fellowship, an NSF Graduate Research Fellowship, a DoD NDSEG Fellowship, and a NASA Texas Space Grant Consortium Fellowship.",
+    "awards": [
+      "2024 - Award - ARO: Early Career Award",
+      "2024 - UMD - UMD: CMNS Board of Visitors Junior Faculty Award",
+      "2023 - Award - NSF: NSF CAREER",
+      "2022 - Award - AFOSR: Young Investigator Research Program (YIP) Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Ian Miers",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5242",
+    "profile_url": "https://www.cs.umd.edu/people/imiers",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=21kN_WsAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Cybersecurity and Cryptography"
+    ],
+    "research_text": "Cybersecurity and Cryptography",
+    "education": [
+      "Ph.D. Johns Hopkins University, 2017"
+    ],
+    "biography": "",
+    "awards": [
+      "2024 - Award - IEEE: Security and Privacy Test of Time Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Stevens Miller",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "AVW 3251",
+    "profile_url": "https://www.cs.umd.edu/people/stevensm",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "BA, Amherst College, 1980",
+      "MS, Stevens Institute of Technology, 1988",
+      "JD, New York Law School, 1992"
+    ],
+    "biography": "I have been programming computers since I taught myself BASIC, using an HP-2000, in 1972. After that, it was Fortran, APL, Pascal, C, C++, Java, and C#, as well as numerous assemblers along the way. My undergraduate thesis involved collecting signals from a photomultiplier tube with a 7400-series TTL counter interface I designed and built (this was the subject of a short paper in the American Journal of Physics, co-authored by my advisor, Dr. Mark Petersen). My graduate thesis was on using segmented architecture machines to compute large synthetic images. As an attorney, a large part of my professional work for the last 25 years has been to assist other lawyers in understanding evidence recovered from computers, and to testify as an expert witness regarding that evidence. My primary area of interest now is in procedural modeling for run-time creation of three-dimensional environments for computer games.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Erin Molloy",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 4212",
+    "profile_url": "https://www.cs.umd.edu/people/ekmolloy",
+    "personal_website": "http://molloy-lab.org",
+    "google_scholar": "https://scholar.google.com/citations?user=DZshML0AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Bioinformatics and Computational Biology"
+    ],
+    "research_text": "Bioinformatics and Computational Biology",
+    "education": [
+      "Ph.D., University of Illinois at Urbana-Champaign, 2020"
+    ],
+    "biography": "",
+    "awards": [
+      "2025 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Maksym Morawski",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "IRB 2234",
+    "profile_url": "https://www.cs.umd.edu/people/morawski",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "David Mount",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-2704",
+    "office": "IRB 4246",
+    "profile_url": "https://www.cs.umd.edu/people/mount",
+    "personal_website": "http://www.cs.umd.edu/~mount/",
+    "google_scholar": "https://scholar.google.com/citations?user=v6PsQKIAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "Information Retrieval and Geographic Information Systems (GIS)"
+    ],
+    "research_text": "Algorithms and Theory, Information Retrieval and Geographic Information Systems (GIS)",
+    "education": [
+      "Ph.D., Purdue University, 1983"
+    ],
+    "biography": "David Mount is a professor in the Department of Computer Science at the University of Maryland with a joint appointment in the University's Institute for Advanced Computer Studies ( UMIACS ). He received his Ph.D. in Computer Science from Purdue University in 1983 and started at the University of Maryland in 1984. In 2001, 2009, and 2024, he was a visiting professor at the Hong Kong University of Science and Technology . He has written over 200 research publications on algorithms for geometric problems, particularly problems with applications in image processing, pattern recognition, information retrieval, and computer graphics. He currently serves on the editorial boards of a number of journals, including TheoretiCS , Computational Geometry: Theory and Applications , and International Journal of Computational Geometry Applications , and he has served on the editorial boards of ACM Transactions on Spatial Algorithms and Systems , ACM Transactions on Mathematical Software , and Pattern Recognition . He was co-recipient of the Symposium on Computational Geometry Test-of-Time Award in 2021 (for the paper \" The analysis of a simple k-means clustering algorithm \"). He was the conference chair for the 24th Annual Symposium on Computational Geometry in 2008 and was on the local arrangements committee for the 41st ACM Symposium on Theory of Computing in 2009. He has served on the program committees of many of the major conferences in his area, and he served as the program committee co-chair for the 19th ACM Symposium on Computational Geometry in 2003 and the Fourth Workshop on Algorithm Engineering and Experiments in 2002. From 2016-18, he served on the Computational Geometry Steering Committee . He is a Fellow of the ACM and received the ACM Recognition of Service Award twice (in 2008 and 2009). He has won a number of awards for excellence in teaching, including twice winning the University of Maryland's College of Computer, Mathematical and Natural Sciences , Dean's Award for Excellence in Teaching, and the Award for Teaching Excellence Appreciation in 2001 at the Hong Kong University of Science and Technology . He has co-authored the textbook Data Structures and Algorithms in C++ with Mike Goodrich and Roberto Tamassia .",
+    "awards": [
+      "2026 - Award: Perdue University Distinguished Science Alumni Award",
+      "2022 - Fellow - ACM: ACM Fellow",
+      "2009 - Award - ACM: ACM Recognition of Service Award",
+      "2008 - Award - ACM: ACM Recognition of Service Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Jun Nishida",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5144",
+    "profile_url": "https://www.cs.umd.edu/people/jun",
+    "personal_website": "http://junnishida.net",
+    "google_scholar": "https://scholar.google.com/citations?user=6V4L7r4AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Human Computer Interaction",
+      "IoT and Wearables Technology"
+    ],
+    "research_text": "Human Computer Interaction, IoT and Wearables Technology",
+    "education": [
+      "Ph.D., University of Tsukuba, Japan, 2019"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Matthew Nolan",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/mttnln",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Nelson Padua-Perez",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Principal Lecturer",
+    "email": "",
+    "phone": "(301) 405-4539",
+    "office": "IRB 2210",
+    "profile_url": "https://www.cs.umd.edu/people/nelson",
+    "personal_website": "http://www.cs.umd.edu/~nelson/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "M.S., University of Maryland, 1996"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Rob Patro",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 3220",
+    "profile_url": "https://www.cs.umd.edu/people/nomad",
+    "personal_website": "http://www.robpatro.com",
+    "google_scholar": "https://scholar.google.com/citations?user=H36hOqEAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "Bioinformatics and Computational Biology",
+      "High Performance and Scientific Computing"
+    ],
+    "research_text": "Algorithms and Theory, Bioinformatics and Computational Biology, High Performance and Scientific Computing",
+    "education": [
+      "Ph.D., University of Maryland, 2012"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Binghui Peng",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/binghuip",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=twlFI3sAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Algorithms and Theory, Machine Learning and Data Science",
+    "education": [
+      "Ph.D. Columbia University, 2024",
+      "B, Eng. Tsinghua University, 2019"
+    ],
+    "biography": "Binghui Peng's research interests span learning theory, game theory, and theoretical computer science, with a recent focus on LLM post-training and inference-time computation. He has served as a Visiting Faculty member at Google Research, a Motwani Postdoctoral Research Fellow at Stanford University, and a Postdoctoral Fellow at the Simons Institute at UC Berkeley. He obtained his Ph.D. from Columbia University, advised by Xi Chen and Christos Papadimitriou.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Huaishu Peng",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 4126",
+    "profile_url": "https://www.cs.umd.edu/people/huaishu",
+    "personal_website": "http://smartlab.cs.umd.edu",
+    "google_scholar": "https://scholar.google.com/citations?user=nimapDwAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Human Computer Interaction",
+      "IoT and Wearables Technology"
+    ],
+    "research_text": "Human Computer Interaction, IoT and Wearables Technology",
+    "education": [
+      "Ph.D., Cornell University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Mihai Pop",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Co-director, University of Maryland Center of Excellence in Microbiome Sciences",
+    "email": "",
+    "phone": "(301) 405-7245",
+    "office": "IRB 3222",
+    "profile_url": "https://www.cs.umd.edu/people/mpop",
+    "personal_website": "https://www.pop-lab.org",
+    "google_scholar": "https://scholar.google.com/citations?user=4glkLD0AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Bioinformatics and Computational Biology"
+    ],
+    "research_text": "Bioinformatics and Computational Biology",
+    "education": [
+      "Ph.D., Johns Hopkins University, 2000"
+    ],
+    "biography": "Mihai Pop is a professor of computer science and co-director of the University of Maryland Center of Excellence in Microbiome Sciences. He develops computational approaches for analyzing microbial communities, particularly for characterizing their strain-level diversity. Other interests include biological databases, antibiotic resistance, and software testing. His lab has developed several widely used open-source software tools for the analysis of genomic and metagenomic data, including software for sequence alignment, genome and metagenome assembly, sequence clustering, and for assessing metagenome associations with phenotypes. Pop teaches at all academic levels and is a strong advocate for inclusion and diversity within the scientific community. He has a particular interest in developing open educational resources for computer science and bioinformatics and he seeks new ways to engage students and promote critical thinking and learning in his classes. Pop holds a B.S. (1994, Politehnica University in Bucharest, Romania), and a Ph.D in Computer Science (2000, The Johns Hopkins University), and has joined the University of Maryland in 2005. He is an MPower Professor, University of Maryland Strategic Partnership: MPowering the State, and fellow of the Association of Computing Machinery and of the International Society for Computational Biology.",
+    "awards": [
+      "2022 - Fellow - ISCB: ISCB Fellow",
+      "2019 - Fellow - ACM: ACM Fellow",
+      "2015 - UMD: Excellence in Teaching Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Adam Porter",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Fraunhofer Executive Director",
+    "email": "",
+    "phone": "(301) 405-2702",
+    "office": "IRB 5212",
+    "profile_url": "https://www.cs.umd.edu/people/aporter",
+    "personal_website": "http://www.cs.umd.edu/~aporter/",
+    "google_scholar": "https://scholar.google.com/citations?user=j7F7yq0AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Programming Languages and Software Engineering"
+    ],
+    "research_text": "Programming Languages and Software Engineering",
+    "education": [
+      "Ph.D., University of California at Irvine, 1991"
+    ],
+    "biography": "",
+    "awards": [
+      "2006 - Member - ACM: ACM Member",
+      "2003 - Member - IEEE: IEEE Senior Member",
+      "1995 - Award - NSF: NSF CAREER",
+      "1995 - UMD - UMD: CMPS Dean's Award for Teaching Excellence"
+    ],
+    "publications": []
+  },
+  {
+    "name": "James Purtilo",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-2706",
+    "office": "IRB 5214",
+    "profile_url": "https://www.cs.umd.edu/people/purtilo",
+    "personal_website": "http://seam.cs.umd.edu/purtilo/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "Ph.D., University of Illinois at Urbana, 1986"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "William Regli",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "",
+    "phone": "(301) 405-6738",
+    "office": "IRB 5206",
+    "profile_url": "https://www.cs.umd.edu/people/regli",
+    "personal_website": "https://www.linkedin.com/in/william-regli/",
+    "google_scholar": "https://scholar.google.com/citations?user=-MSUomIAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics",
+      "Graphics Visualization and VR AR"
+    ],
+    "research_text": "AI and Robotics, Graphics Visualization and VR AR",
+    "education": [],
+    "biography": "Dr. Regli is a computer scientist who has focused his career on interdisciplinary and use-inspired problems spanning engineering, artificial intelligence and computational modeling and graphics. His most recent activities have deployed cyber-infrastructure systems to capture and curate engineering and science data in order to ensure long-term sustainability. Dr. Regli’s current interests include computational tools to exploit the properties of advanced materials, additive manufacturing systems and enabling new paradigms for design and production. He has published more than 250 technical articles and his research has spawned two start-up technology companies (one focused on mobile communications for public safety, the other on information management in edge networks) and resulted in five foundational U.S. Patents in the area of 3D CAD search. From 2014 to 2017 Regli served on the leadership team of the Defense Advanced Research Projects Agency (DARPA), as Deputy Director (9/2014-12/2016) and then Acting Director (1/2017-7/2017) of the Defense Sciences Office (DSO). During his tenure, DSO initiated programs in areas as diverse as artificial intelligence, design and manufacturing, social science, applied mathematics, physical sciences and advanced sensing technologies. Regli’s other government service includes as a Scientific Adviser to the U.S. Department of Energy's (DoE) National Nuclear Security Administration (NNSA) in the areas of information technology and manufacturing (2010-2014) and as a National Research Council Postdoctoral Fellow at the National Institute of Standards and Technology (NIST) (1995-1997). For his contributions, Regli received the DARPA Meritorious Public Service Medal (2018). Dr. Regli holds a Ph.D. in Computer Science from the University of Maryland at College Park and Bachelor of Science degree in Mathematics from Saint Joseph's University. He is a Fellow of the American Association for the Advancement of Science (AAAS); an elected senior member of the Association of Computing Machinery (ACM) and of the Association for the Advancement of Artificial Intelligence (AAAI); and a Fellow of the Computer Society of the Institute of Electrical and Electronics Engineers (IEEE) for his “contributions to 3D search, design repositories and intelligent manufacturing.",
+    "awards": [
+      "2020 - Fellow - AAAS: AAAS Fellow",
+      "2017 - Fellow - IEEE: IEEE Fellow"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Nirupam Roy",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "",
+    "office": "Office: IRB 5240, Research Lab (iCoSMoS): IRB 3245",
+    "profile_url": "https://www.cs.umd.edu/people/niruroy",
+    "personal_website": "https://www.cs.umd.edu/~nirupam",
+    "google_scholar": "https://scholar.google.com/citations?user=kKyEuTcAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Systems, Networking, and Architecture",
+      "IoT and Wearables Technology",
+      "Cybersecurity and Cryptography"
+    ],
+    "research_text": "Systems, Networking, and Architecture, IoT and Wearables Technology, Cybersecurity and Cryptography",
+    "education": [
+      "Ph.D., University of Illinois at Urbana Champaign"
+    ],
+    "biography": "",
+    "awards": [
+      "2023 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Rachel Rudinger",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 4160",
+    "profile_url": "https://www.cs.umd.edu/people/rudinger",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=QKCHaHUAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Natural Language Processing",
+      "Machine Learning and Data Science",
+      "AI and Robotics"
+    ],
+    "research_text": "Natural Language Processing, Machine Learning and Data Science, AI and Robotics",
+    "education": [
+      "Ph.D., Johns Hopkins University, 2019",
+      "B.S., Yale University, 2013"
+    ],
+    "biography": "",
+    "awards": [
+      "2024 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Pedram Sadeghian",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Senior Lecturer",
+    "email": "",
+    "phone": "(301) 405-2740",
+    "office": "IRB 2214",
+    "profile_url": "https://www.cs.umd.edu/people/psadeghi",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "Ph.D., University of Louisville, 2006"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Hanan Samet",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Distinguished University Professor",
+    "email": "",
+    "phone": "(301) 405-1755",
+    "office": "IRB 4252",
+    "profile_url": "https://www.cs.umd.edu/people/hjs",
+    "personal_website": "http://www.cs.umd.edu/~hjs/",
+    "google_scholar": "https://scholar.google.com/citations?user=ATOfqHEAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "AI and Robotics",
+      "Computer Vision and Machine Perception",
+      "Databases and Big Data",
+      "Graphics Visualization and VR AR",
+      "Information Retrieval and Geographic Information Systems (GIS)",
+      "Human Computer Interaction",
+      "Machine Learning and Data Science",
+      "Natural Language Processing",
+      "Programming Languages and Software Engineering"
+    ],
+    "research_text": "Algorithms and Theory, AI and Robotics, Computer Vision and Machine Perception, Databases and Big Data, Graphics Visualization and VR AR, Information Retrieval and Geographic Information Systems (GIS), Human Computer Interaction, Machine Learning and Data Science, Natural Language Processing, Programming Languages and Software Engineering",
+    "education": [
+      "Ph.D., Stanford University, 1975"
+    ],
+    "biography": "",
+    "awards": [
+      "2023 - Award - ACM: SIGSPATIAL Lifetime Impact Award",
+      "2022 - Award: Pierre Bézier Award, Solid Modeling Association",
+      "2021 - Award: Pioneer, Solid Modelling Association",
+      "2020 - Award: Distinguished Career in Computer Science, Washington Academy of Sciences",
+      "2013 - UMD - UMD: Univ Maryland Distinguished University Professor",
+      "2012 - Award - ACM: Paris Kanellakis Theory and Practice Award",
+      "1996 - Fellow - ACM: ACM Fellow",
+      "1996 - Fellow - IAPR: IAPR",
+      "1991 - Fellow - IEEE: IEEE Fellow"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Han Shao",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/hanshao",
+    "personal_website": "http://cs.umd.edu/~hanshao",
+    "google_scholar": "https://scholar.google.com/citations?user=OVRxQj8AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Machine Learning and Data Science",
+      "Algorithms and Theory",
+      "AI and Robotics"
+    ],
+    "research_text": "Machine Learning and Data Science, Algorithms and Theory, AI and Robotics",
+    "education": [
+      "Ph.D., 2024, TTIC"
+    ],
+    "biography": "Han is an Assistant Professor in the Department of Computer Science at the University of Maryland. Her research interests span machine learning theory, economics and computation, and algorithmic game theory. During her PhD, she focused on fundamental questions arising from human social and adversarial behaviors in the learning process, examining how these behaviors impact machine learning systems and developing methods to enhance accuracy and robustness. She also explored the theory of adversarial robustness based on empirical observations.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Abhinav Shrivastava",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-7952",
+    "office": "IRB 4238, Lab: IRB 4207",
+    "profile_url": "https://www.cs.umd.edu/people/abhinav2",
+    "personal_website": "http://abhinavsh.info/",
+    "google_scholar": "https://scholar.google.com/citations?user=mIF9BowAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Computer Vision and Machine Perception",
+      "AI and Robotics",
+      "Machine Learning and Data Science",
+      "Graphics Visualization and VR AR"
+    ],
+    "research_text": "Computer Vision and Machine Perception, AI and Robotics, Machine Learning and Data Science, Graphics Visualization and VR AR",
+    "education": [
+      "Ph.D., Carnegie Mellon University, 2017",
+      "M.S., Carnegie Mellon University, 2011"
+    ],
+    "biography": "See https://abhinavsh.info/ for more details.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Aravind Srinivasan",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Distinguished University Professor",
+    "email": "",
+    "phone": "(301) 405-2695",
+    "office": "IRB 4204",
+    "profile_url": "https://www.cs.umd.edu/people/asriniv1",
+    "personal_website": "http://www.cs.umd.edu/~srin/",
+    "google_scholar": "https://scholar.google.com/citations?user=sPzla6IAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "Bioinformatics and Computational Biology"
+    ],
+    "research_text": "Algorithms and Theory, Bioinformatics and Computational Biology",
+    "education": [
+      "Ph.D., Cornell University, 1993",
+      "M.S., Cornell University, 1993",
+      "B. Tech., Indian Institute of Technology Madras, 1989"
+    ],
+    "biography": "Aravind Srinivasan is a Professor with the Department of Computer Science and the Institute for Advanced Computer Studies at the University of Maryland, College Park. He received his undergraduate degree from the Indian Institute of Technology, Madras, and his Ph.D. from Cornell University, both in Computer Science. He was a postdoctoral researcher at the Institute for Advanced Study in Princeton and at DIMACS. He has also worked in industrial research, at Bell Labs. Aravind Srinivasan's research interests are in randomized algorithms, networking, social networks, and combinatorial optimization, as well as in the growing confluence of algorithms, networks, and randomness, in fields including the social Web, public health, biology, and energy. He has published 90+ papers in these areas, in journals including Nature , Journal of the ACM , IEEE/ACM Transactions on Networking , and the SIAM Journal on Computing . He is an editor of three journals, and has served on the program committees of various conferences. His papers have been (co-)recipients of the Best Paper/Best Student Paper Awards at ACM STOC 1992, HiPC 2007, IEEE Socialcom 2011, and the Academy of Management Annual Meeting, 2012. He received an IBM Graduate Fellowship during his doctoral studies. He is a AAAS Fellow and an IEEE Fellow .",
+    "awards": [
+      "2025 - Award - ACM: KDD Test of Time Award",
+      "2020 - Fellow - SIAM: SIAM Fellow",
+      "2020 - UMD - UMD: Univ Maryland Distinguished University Professor",
+      "2019 - Fellow - AMS: AMS Fellow",
+      "2014 - Fellow - ACM: ACM Fellow",
+      "2012 - Fellow - AAAS: AAAS Fellow",
+      "2010 - Fellow - IEEE: IEEE Fellow"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Milijana Surbatovich",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5246",
+    "profile_url": "https://www.cs.umd.edu/people/milijana",
+    "personal_website": "https://msurbatovich.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=fv2u3RcAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Programming Languages and Software Engineering",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Programming Languages and Software Engineering, Systems, Networking, and Architecture",
+    "education": [
+      "PhD, Carnegie Mellon University, 2023",
+      "MS, Carnegie Mellon University, 2020",
+      "BS, University of Rochester, 2017"
+    ],
+    "biography": "",
+    "awards": [
+      "2026 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Alan Sussman",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Associate Chair of Undergraduate Education",
+    "email": "",
+    "phone": "(301) 405-3360",
+    "office": "IRB 5142",
+    "profile_url": "https://www.cs.umd.edu/people/asussman",
+    "personal_website": "http://www.cs.umd.edu/~als/",
+    "google_scholar": "https://scholar.google.com/citations?user=4Ts9jNQAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Databases and Big Data",
+      "High Performance and Scientific Computing",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Databases and Big Data, High Performance and Scientific Computing, Systems, Networking, and Architecture",
+    "education": [
+      "Ph.D., Carnegie Mellon University, 1991",
+      "B.S.E., Princeton University, 1982"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Runzhou Tao",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5160",
+    "profile_url": "https://www.cs.umd.edu/people/rztao",
+    "personal_website": "https://runzhoutao.github.io",
+    "google_scholar": "https://scholar.google.com/citations?user=I0EoZyQAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Quantum Computing",
+      "Programming Languages and Software Engineering",
+      "Algorithms and Theory",
+      "Systems, Networking, and Architecture"
+    ],
+    "research_text": "Quantum Computing, Programming Languages and Software Engineering, Algorithms and Theory, Systems, Networking, and Architecture",
+    "education": [
+      "Ph.D. Columbia University, 2024",
+      "B, Eng., Tsinghua University, 2019"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Mohammad Nayeem Teli",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Senior Lecturer",
+    "email": "",
+    "phone": "(301) 405-0405",
+    "office": "IRB 2224",
+    "profile_url": "https://www.cs.umd.edu/people/nayeem",
+    "personal_website": "http://www.cs.umd.edu/~nayeem",
+    "google_scholar": "https://scholar.google.com/citations?user=3mSGT78AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Computer Vision and Machine Perception",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Computer Vision and Machine Perception, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., Colorado State University, 2013.",
+      "M.S., Colorado State University, 2007.",
+      "B. Eng., National Institute of Technology, Kashmir, 2000."
+    ],
+    "biography": "",
+    "awards": [
+      "2021 - Award - IEEE: Best Oral Presentation",
+      "2020 - Member - IEEE: IEEE Senior Member",
+      "2019 - UMD: Excellence in Teaching Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Pratap Tokekar",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-9902‬",
+    "office": "IRB 3207",
+    "profile_url": "https://www.cs.umd.edu/people/tokekar",
+    "personal_website": "http://tokekar.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=FKAovywAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI and Robotics"
+    ],
+    "research_text": "AI and Robotics",
+    "education": [
+      "Ph.D., University of Minnesota, 2014",
+      "B.Tech., College of Engineering Pune, India, 2008"
+    ],
+    "biography": "Pratap Tokekar is an Assistant Professor in the Department of Computer Science and UMIACS at the University of Maryland. Between 2015 and 2019, he was an Assistant Professor at the Department of Electrical and Computer Engineering at Virginia Tech. Previously, he was a Postdoctoral Researcher at the GRASP lab of University of Pennsylvania. He obtained his Ph.D. in Computer Science from the University of Minnesota in 2014 and Bachelor of Technology degree in Electronics and Telecommunication from College of Engineering Pune, India in 2008. He is a recipient of the NSF CAREER award (2020) and CISE Research Initiation Initiative award (2016). He serves as an Associate Editor for the IEEE Robotics & Automation Letters, IEEE Transactions of Automation Science & Engineering, and the ICRA and IROS Conference Editorial Board.",
+    "awards": [
+      "2020 - Award - NSF: NSF CAREER",
+      "2016 - Award - NSF: CISE CRII"
+    ],
+    "publications": []
+  },
+  {
+    "name": "David Van Horn",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "(301) 405-2715",
+    "office": "IRB 5250",
+    "profile_url": "https://www.cs.umd.edu/people/dvanhorn",
+    "personal_website": "http://ter.ps/dvanhorn",
+    "google_scholar": "https://scholar.google.com/citations?user=9ZM8OlMAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Programming Languages and Software Engineering",
+      "Cybersecurity and Cryptography"
+    ],
+    "research_text": "Programming Languages and Software Engineering, Cybersecurity and Cryptography",
+    "education": [
+      "CRA Computing Innovation Fellow, Northeastern University, 2011",
+      "PhD Computer Science, Brandeis University, 2009",
+      "MA, BS Computer Science, University of Vermont, 2004, 2006"
+    ],
+    "biography": "David Van Horn is an Associate Professor in the Department of Computer Science and the Institute for Advanced Computer Studies (UMIACS) at the University of Maryland, College Park. His research interests are in programming languages and formal methods, where he works toward making the construction of reusable, trusted software components possible and effective. He publishes regularly in the flagship SIGPLAN conferences, POPL, PLDI, OOPSLA, and ICFP, and his work has been recognized with a NSF CAREER Award, a CRA Computing Innovation Fellowship, a Communications of the ACM Research Highlight, an OOPSLA Distinguished Paper Award, and an ICFP Most Influential Paper Award. He is the co-author of “Realm of Racket,” an illustrated book on programming video games, written and illustrated with eight undergraduate students. He is committed to broadening participation in computer science and is currently serving on the Steering Committee of the ACM SIGPLAN Programming Languages Mentoring Workshop and the faculty mentor for Technica, the world's largest all-women and non-binary hackathon.",
+    "awards": [
+      "2020 - Award - ICFP: Most Influential Paper Award",
+      "2019 - Award - NSF: NSF CAREER",
+      "2018 - Award - OOPSLA: Distinguished Paper Award",
+      "2011 - Fellow - CRA: Computing Innovation Fellow",
+      "2011 - Award - ACM: Communications of the ACM, Research Highlights"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Amitabh Varshney",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Dean, College of Computer, Mathematical, and Natural Sciences",
+    "email": "",
+    "phone": "(301) 405-6761, (301) 405-2316",
+    "office": "ATL 3100",
+    "profile_url": "https://www.cs.umd.edu/people/varshney",
+    "personal_website": "http://www.cs.umd.edu/~varshney/",
+    "google_scholar": "https://scholar.google.com/citations?user=b053OdAAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Graphics Visualization and VR AR",
+      "High Performance and Scientific Computing"
+    ],
+    "research_text": "Graphics Visualization and VR AR, High Performance and Scientific Computing",
+    "education": [
+      "Ph.D., University of North Carolina at Chapel Hill, 1994"
+    ],
+    "biography": "Amitabh Varshney is the Dean of the College of Computer, Mathematical and Natural Sciences and Professor of Computer Science. He served as director of the UMD Institute for Advanced Computer Studies (UMIACS) from 2010 to 2018 and as the interim Vice President for Research during 2016 - 2017. A leader in interactive visual computing research, Varshney’s work has focused on exploring the applications of high-performance computer graphics and visualization in science, engineering, and medicine. His research results are being used in climate modeling, plasma physics, nanomanufacturing, the design of buildings, cars, and submarines, medical imaging, gene sequencing, and the creative arts. He has engaged in research collaborations with a variety of partners in industry and government agencies. Varshney has worked on the design and implementation of virtual walkthroughs of proposed structures, such as buildings, automobiles and submarines. His research in molecular graphics has involved devising new algorithms for parallel and analytical computation and visualization of molecular surfaces, their interfaces, and electrostatics. Varshney has also contributed toward the development of new algorithms for a number of research areas in graphics and visualization including visual saliency, summarization of large visual datasets, automatically generating multiresolution hierarchies, procedural textures, and rendering with points, images, meshes, and volumes. He is currently exploring several applications in general-purpose high performance parallel computing using clusters of CPUs and Graphics Processing Units (GPUs). He has consulted and collaborated with NVIDIA, Honda, IBM, Daimler Chrysler, General Dynamics, and Reuters. As part of the UMD-University of Maryland, Baltimore (UMB) strategic partnership, Varshney helped bring together scientists and clinicians from both institutions to establish a multi-disciplinary Center for Health-related Bioinformatics and Bio-Imaging (CHIB), tasked with solving grand challenges in personalized medicine and health care. Varshney received a National Science Foundation (NSF) CAREER Award, given to outstanding junior faculty who exemplify the role of teacher-scholars so they can further their research in their areas of expertise, in 1995 and the IEEE Visualization Technical Achievement Award in 2004. He was elected as a fellow of the IEEE in 2010 and is a recipient of the IEEE Technical Achievement Award. He is the director of the NVIDIA CUDA Center of Excellence at UMD and serves as a Director of the IEEE Visualization and Graphics Technical Committee. Varshney received a B. Tech. in computer science from the Indian Institute of Technology, Delhi in 1989 and an M.S. and doctorate in computer science from the University of North Carolina at Chapel Hill in 1991 and 1994.",
+    "awards": [
+      "2010 - Fellow - IEEE: IEEE Fellow",
+      "2004 - Award - IEEE: IEEE VGTC, Technical Achievement Award",
+      "1995 - Award - NSF: NSF CAREER"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Sarah Wiegreffe",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 4210",
+    "profile_url": "https://www.cs.umd.edu/people/sarahwie",
+    "personal_website": "https://sarahwie.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=YoR3IugAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Natural Language Processing",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Natural Language Processing, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., Georgia Institute of Technology, 2022"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Xiaodi Wu",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5210",
+    "profile_url": "https://www.cs.umd.edu/people/xiaodiwu",
+    "personal_website": "https://www.cs.umd.edu/~xwu",
+    "google_scholar": "https://scholar.google.com/citations?user=2uex5FkAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Algorithms and Theory",
+      "Programming Languages and Software Engineering",
+      "Quantum Computing",
+      "Machine Learning and Data Science"
+    ],
+    "research_text": "Algorithms and Theory, Programming Languages and Software Engineering, Quantum Computing, Machine Learning and Data Science",
+    "education": [
+      "Ph.D., University of Michigan, Ann Arbor, 2013"
+    ],
+    "biography": "I am an Associate Professor in the Department of computer science and a Fellow of the Joint Center for Quantum Information and Computer Science (QuICS) at the University of Maryland, College Park. I am also an Amazon Visiting Academic. My research aims to bridge the gap between the theoretical foundation of quantum computing and the limitation of realistic quantum machines. More specifically, I am working on the foundations of practical quantum applications on realistic quantum machines by investigating computational models that capture the native programmability of quantum devices. I am also building efficient and reliable systems to operate both near-term and long-term quantum devices. Before coming to Maryland, I was an Assistant Professor in the Computer and Information Science Department at the University of Oregon from 2015 to 2017. Before that, he was a Postdoctoral Associate at the Massachusetts Institute of Technology from 2013 to 2015. He was also a Simons Research Fellow at the Simons Institute for the Theory of Computing at Berkeley, for the program of Quantum Hamiltonian Complexity in Spring 2014. I received my Ph.D. in theoretical computer science in 2013 (advisor: Yaoyun Shi) from the University of Michigan, Ann Arbor, and his B.S. degree in mathematics and physics in 2008 from the Academic Talent Program, Tsinghua University. I am a recipient of the Sloan Research Fellowship, NSF CAREER, and AFOSR YIP awards.",
+    "awards": [
+      "2023 - Fellowship: Sloan Research Fellowship",
+      "2021 - Award - AFOSR: Young Investigator Research Program (YIP) Award",
+      "2021 - Award - ACM: SIGPLAN POPL Distinguished Paper Award",
+      "2020 - Award - NSF: NSF CAREER",
+      "2018 - Award - NSF: CISE CRII"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Justin Wyss-Gallifent",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Principal Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "IRB 2236",
+    "profile_url": "https://www.cs.umd.edu/people/immortal",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [
+      "2025 - Award - UMD: Departmental Teaching Award"
+    ],
+    "publications": []
+  },
+  {
+    "name": "Fumeng Yang",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "IRB 5138",
+    "profile_url": "https://www.cs.umd.edu/people/fmy",
+    "personal_website": "https://www.fmyang.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=0JofUMQAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Human Computer Interaction",
+      "Graphics Visualization and VR AR"
+    ],
+    "research_text": "Human Computer Interaction, Graphics Visualization and VR AR",
+    "education": [
+      "Ph.D., Brown University, 2021",
+      "M.Sc., Tufts University, 2016"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ilchul Yoon",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Lecturer",
+    "email": "",
+    "phone": "",
+    "office": "IRB 2246",
+    "profile_url": "https://www.cs.umd.edu/people/icyoon",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Yaodong Yu",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://www.cs.umd.edu/people/yaodong",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Matthias Zwicker",
+    "university": "University of Maryland",
+    "department": "Computer Science",
+    "title": "Professor, Department Chair, Elizabeth Iribe Chair for Innovation, Phillip H. and Catherine C. Horvitz Professor of Computer Science",
+    "email": "",
+    "phone": "(301) 405-0319",
+    "office": "IRB 5244",
+    "profile_url": "https://www.cs.umd.edu/people/zwicker",
+    "personal_website": "http://cs.umd.edu/~zwicker",
+    "google_scholar": "https://scholar.google.com/citations?user=KW0FmzgAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "Graphics Visualization and VR AR",
+      "Computer Vision and Machine Perception"
+    ],
+    "research_text": "Graphics Visualization and VR AR, Computer Vision and Machine Perception",
+    "education": [
+      "Ph.D., ETH Zurich, 2003"
+    ],
+    "biography": "Matthias Zwicker is the Elizabeth Iribe Chair for Innovation and the Phillip H. and Catherine C. Horvitz Professor of Computer Science, and currently serves as the Chair of the Department of Computer Science. He joined UMD in March 2017 as the Reginald Allan Hahne Endowed E-Nnovate Professor in Computer Science. He obtained his PhD from ETH in Zurich, Switzerland, in 2003. From 2003 to 2006 he was a post-doctoral associate with the computer graphics group at the Massachusetts Institute of Technology, and then held a position as an Assistant Professor at the University of California in San Diego from 2006 to 2008. From 2008-2017, he was a professor in Computer Science at the University of Bern, Switzerland, where he served as the head of the Computer Graphics Group and as director of undergraduate and graduate studies. His research focus is on the intersection of artificial intelligence and computer graphics, with the goal of enabling next generation AR/VR and computer graphics applications. He has served as a papers co-chair and conference chair of the IEEE/Eurographics Symposium on Point-Based Graphics, and as a papers co-chair for Eurographics and the Eurographics Symposium on Rendering. He has been a member of program committees for various conferences including ACM SIGGRAPH, ACM SIGGRAPH Asia, and Eurographics, and he has served as an associate editor for journals such as the Computer Graphics Forum, IEEE TVCG, and the Visual Computer. As an active member of the UMD community, he has served as a University Senator for the CS department, as a faculty co-lead in developing the new Immersive Media Design major, and as a faculty mentor in the Gemstone Honors Program.",
+    "awards": [],
+    "publications": []
+  }
+]

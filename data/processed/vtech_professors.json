@@ -1,0 +1,2490 @@
+[
+  {
+    "name": "Shengwei An",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "swan@vt.edu",
+    "phone": "(540) 231-6504",
+    "office": "Data and Decision Sciences RM 384 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/shengwei-an.html",
+    "personal_website": "https://answ.in",
+    "google_scholar": "https://scholar.google.com/citations?user=qcmmzeEAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "AI security and privacy",
+      "intellectual property protection"
+    ],
+    "research_text": "AI security and privacy, intellectual property protection",
+    "education": [
+      "2025: Ph.D., computer science, Purdue University",
+      "2016: M.S., computer science and technology, Nanjing University, China",
+      "2013: B.S., computer science and technology, Nanjing University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Godmar Back",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "gback@vt.edu",
+    "phone": "(540) 231-3046",
+    "office": "Gilbert Place RM 4208 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/godmar-back.html",
+    "personal_website": "https://people.cs.vt.edu/~gback/",
+    "google_scholar": "https://scholar.google.com/citations?user=WUb-KZ0AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "systems and languages"
+    ],
+    "research_text": "systems and languages",
+    "education": [
+      "2002: Ph.D., computer science, University of Utah"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Osman Balci",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor, Director of Mobile/Cloud Software Engineering Lab",
+    "email": "balci@vt.edu",
+    "phone": "(540) 231-4841",
+    "office": "McBryde Hall RM 638 225 Stanger St. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/osman-balci.html",
+    "personal_website": "https://manta.cs.vt.edu/balci/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "1981: Ph.D., Syracuse University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Debswapna Bhattacharya",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "dbhattacharya@vt.edu",
+    "phone": "(540) 231-2865",
+    "office": "Torgersen Hall RM 3120B 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/debswapna-bhattacharya.html",
+    "personal_website": "https://people.cs.vt.edu/dbhattacharya/",
+    "google_scholar": "https://scholar.google.com/citations?user=C2oEgoYAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computational biology and bioinformatics",
+      "data analytics",
+      "information retrieval",
+      "machine learning",
+      "natural language processing"
+    ],
+    "research_text": "computational biology and bioinformatics, data analytics, information retrieval, machine learning, natural language processing",
+    "education": [
+      "2016: Ph.D., computer science, University of Missouri-Columbia",
+      "2014: M.S., computer science, University of Missouri-Columbia",
+      "2005: B.Tech., computer science and engineering, Haldia Institute of Technology, India"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Doug Bowman",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Frank J. Maher Professor",
+    "email": "dbowman@vt.edu",
+    "phone": "(540) 231-2058",
+    "office": "Gilbert Place RM 3210 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/doug-bowman.html",
+    "personal_website": "https://wordpress.cs.vt.edu/3digroup/author/dbowman/",
+    "google_scholar": "https://scholar.google.com/citations?user=KXCqonwAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "virtual reality",
+      "augmented reality",
+      "3d user interfaces",
+      "human-computer interaction",
+      "virtual environments"
+    ],
+    "research_text": "virtual reality, augmented reality, 3d user interfaces, human-computer interaction, virtual environments",
+    "education": [
+      "1999: Ph.D., computer science, Georgia Institute of Technology",
+      "1997: M.S., computer science, Georgia Institute of Technology",
+      "1994: B.S., mathematics and computer science, Emory University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Chris Brown",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "dcbrown@vt.edu",
+    "phone": "(540) 231-9176",
+    "office": "Gilbert Place RM 4105 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/chris-brown.html",
+    "personal_website": "https://chbrown13.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=MmgiKNkAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "digital education",
+      "human-computer interaction",
+      "software engineering"
+    ],
+    "research_text": "digital education, human-computer interaction, software engineering",
+    "education": [
+      "2021: Ph.D., computer science, North Carolina State University",
+      "2017: M.S., computer science, North Carolina State University",
+      "2013: B.S., computer science, Duke University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ali Butt",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "butta@cs.vt.edu",
+    "phone": "(540) 231-0489",
+    "office": "Gilbert Place RM 4108 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/ali-butt.html",
+    "personal_website": "https://people.cs.vt.edu/butta/",
+    "google_scholar": "https://scholar.google.com/citations?user=oqux_wcAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "cloud and high-performance computing systems",
+      "systems support for machine and deep learning applications",
+      "file, I/O, and storage systems",
+      "distributed systems",
+      "large-scale experimental computer systems"
+    ],
+    "research_text": "cloud and high-performance computing systems, systems support for machine and deep learning applications, file, I/O, and storage systems, distributed systems, large-scale experimental computer systems",
+    "education": [
+      "2006: Ph.D., electrical and computer engineering, Purdue University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Kirk Cameron",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "cameron@cs.vt.edu",
+    "phone": "",
+    "office": "Institute for Advanced Computing 3625 Potomac Ave. Alexandria, VA 22301",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/kirk-cameron.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=ZH1pa0EAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "systems",
+      "data analytics",
+      "high-performance computing and computational science",
+      "machine learning",
+      "software engineering"
+    ],
+    "research_text": "systems, data analytics, high-performance computing and computational science, machine learning, software engineering",
+    "education": [
+      "2000: Ph.D., computer science,Louisiana State University",
+      "1994: B.S., mathematics,University of Florida"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Melissa Cameron",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Assistant Professor",
+    "email": "melissacameron@vt.edu",
+    "phone": "",
+    "office": "Institute for Advanced Computing 3625 Potomac Ave. Alexandria, Virginia 22305",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/melissa-cameron.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Alberto Cano",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "acano@vt.edu",
+    "phone": "(540) 231-6460",
+    "office": "Torgersen Hall RM 3050 620 Drillfield Dr., Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/alberto-cano.html",
+    "personal_website": "https://canoalberto.github.io",
+    "google_scholar": "https://scholar.google.com/citations?user=8f_w4HQAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "high performance computing",
+      "machine learning",
+      "data streams",
+      "classification"
+    ],
+    "research_text": "high performance computing, machine learning, data streams, classification",
+    "education": [
+      "2014: Ph.D., computer science, University of Granada, Spain",
+      "2013: M.Sc., intelligent systems, University of Cordoba, Spain",
+      "2011: M.Sc., soft computing and intelligent systems, University of Granada, Spain",
+      "2010: B.Sc., computer science, University of Cordoba, Spain",
+      "2008: B.Sc., computer engineering, University of Cordoba, Spain"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Siwei Cao",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Instructor",
+    "email": "csiwei@cs.vt.edu",
+    "phone": "(540) 231-5605",
+    "office": "Torgersen Hall RM 2220B 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/siwei-cao.html",
+    "personal_website": "https://people.cs.vt.edu/csiwei/",
+    "google_scholar": "https://scholar.google.com/citations?user=4SZ_jsIAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computational thermodynamics",
+      "kinetics",
+      "computer science education"
+    ],
+    "research_text": "computational thermodynamics, kinetics, computer science education",
+    "education": [
+      "2013: Ph.D., materials science and engineering, The Ohio State University",
+      "2008: M.S., physics, Miami University, Ohio",
+      "2006: B.S., physics, Beijing Jiaotong University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Yang Cao",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "ycao@cs.vt.edu",
+    "phone": "(540) 231-1417",
+    "office": "Torgersen Hall RM 2160L 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/yang-cao.html",
+    "personal_website": "https://people.cs.vt.edu/~ycao/",
+    "google_scholar": "https://scholar.google.com/citations?user=EFD4OrIAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computational biology and bioinformatics",
+      "high-performance computing and computational science"
+    ],
+    "research_text": "computational biology and bioinformatics, high-performance computing and computational science",
+    "education": [
+      "2003: Ph.D., computer science, University of California at Santa Barbara",
+      "1998: M.S., computational math, Tsinghua University, Beijing, China",
+      "1993: B.S., applied math, Tsinghua University (Class Math89), Beijing, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Yan Chen",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "ych@vt.edu",
+    "phone": "",
+    "office": "Gilbert Place 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/yan-chen.html",
+    "personal_website": "https://chensivan.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=UOv-ce4AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "human-computer interaction",
+      "digital education tools",
+      "automation techniques",
+      "computer science education"
+    ],
+    "research_text": "human-computer interaction, digital education tools, automation techniques, computer science education",
+    "education": [
+      "2020: Ph.D., information science, University of Michigan",
+      "2014: M.S., applied mathematics, University of Colorado, Boulder",
+      "2014: B.S. in applied mathematics and B.S. in electrical and computer engineering, University of Colorado, Boulder"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Jin-Hee Cho",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "jicho@vt.edu",
+    "phone": "(703) 538-8302",
+    "office": "Virginia Tech Research Center, RM 312B 900 N Glebe Rd. Arlington, VA 22203",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/jin-hee-cho.html",
+    "personal_website": "https://people.cs.vt.edu/~jicho/",
+    "google_scholar": "https://scholar.google.com/citations?user=wToVkEUAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "trust management",
+      "moving target defense",
+      "defensive deception",
+      "metrics and measurements",
+      "network performance analysis",
+      "resource allocation",
+      "agent-based modeling",
+      "uncertainty reasoning and analysis",
+      "decision making under uncertainty",
+      "network science",
+      "information fusion and credibility",
+      "social network analysis",
+      "human computing in cybersecurity"
+    ],
+    "research_text": "trust management, moving target defense, defensive deception, metrics and measurements, network performance analysis, resource allocation, agent-based modeling, uncertainty reasoning and analysis, decision making under uncertainty, network science, information fusion and credibility, social network analysis, human computing in cybersecurity",
+    "education": [
+      "2008: Ph.D., computer science, Virginia Tech",
+      "2004: M.S., computer science, Virginia Tech"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Tijay Chung",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "tijay@vt.edu",
+    "phone": "(540) 231-0667",
+    "office": "Gilbert Place, RM 4303 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/taejoong-chung.html",
+    "personal_website": "https://taejoong.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=_0mWbaoAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "internet security",
+      "internet measurement"
+    ],
+    "research_text": "internet security, internet measurement",
+    "education": [
+      "2015: Ph.D., computer science and engineering, Seoul National University, South Korea",
+      "2009: B.S., computer science and enginnering, Pohang University of Science and Technology, South Korea"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Jiaming Cui",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "jiamingcui@vt.edu",
+    "phone": "(540) 231-1112",
+    "office": "Data and Decision Sciences, RM 440 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/jiaming-cui.html",
+    "personal_website": "https://people.cs.vt.edu/jiamingcui/",
+    "google_scholar": "https://scholar.google.com/citations?user=hgmPwyUAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "machine learning",
+      "AI for healthcare",
+      "scientific modeling",
+      "public health",
+      "large language models"
+    ],
+    "research_text": "machine learning, AI for healthcare, scientific modeling, public health, large language models",
+    "education": [
+      "2024: Ph.D., computer science,Georgia Institute of Technology",
+      "2019: B.S., information engineering and B.S., finance, Shanghai Jiao Tong University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Sanmay Das",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor of Computer Science",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/sanmay-das.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "Sanmay Das is a professor of computer science and associate director of AI for social impact at the Sanghani Center for AI and Data Analytics at the Virginia Tech Institute for Advanced Computing in Alexandria, Virginia. He is a AAAI Fellow and an ACM Distinguished Member. Das is past chair of ACM SIGAI, a member of the DARPA ISAT Study Group, and an emeritus member of the board of directors of the International Foundation for Autonomous Agents and Multiagent Systems. He serves as an arXiv moderator and has served in numerous editorial roles, including as associate editor for the ACM Transactions on Economics and Computation, the Journal of Artificial Intelligence Research, and Autonomous Agents and Multiagent Systems. Das has also served as program co-chair and general co-chair of AAMAS and of the AAAI/ACM Conference on AI, Ethics, and Society, and as associate program chair for IJCAI. Das has been recognized with awards for research, teaching, and service, including a National Science Foundation CAREER Award, the Department Chair Award for Outstanding Teaching at Washington University, and the Outstanding Service Award from the Computer Science Department at George Mason University. He has also worked with the U.S. Department of the Treasury on machine learning approaches to credit risk analysis and occasionally consults in the areas of technology and finance.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Brendan David-John",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "bmdj@cs.vt.edu",
+    "phone": "(540) 231-3175",
+    "office": "Gilbert Place, RM 3203 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/brendan-david-john.html",
+    "personal_website": "https://bmdj-vt.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=YFxRRDUAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "eye tracking",
+      "virtual reality",
+      "augmented reality",
+      "privacy",
+      "computer graphics"
+    ],
+    "research_text": "eye tracking, virtual reality, augmented reality, privacy, computer graphics",
+    "education": [
+      "2022: Ph.D., computer science, University of Florida",
+      "2017: B.S. and M.S., computational mathematics and computer science, Rochester Institute of Technology"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Dan Dunlap",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Visiting Associate Professor",
+    "email": "dunlapd@vt.edu",
+    "phone": "(540) 392-9291",
+    "office": "Torgersen Hall RM 1200B 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/dan-dunlap.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=EWHBmkUAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "ethics",
+      "social impact"
+    ],
+    "research_text": "ethics, social impact",
+    "education": [
+      "2002: Ph.D., science and technology studies, Virginia Tech",
+      "1995: M.S., science and technology studies, Virginia Tech",
+      "1987: B.A., philosophy, Virginia Tech"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Bob Edmison",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Associate Professor",
+    "email": "bedmison@vt.edu",
+    "phone": "(540) 231-3957",
+    "office": "Torgersen Hall, RM 2220F 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/bob-edmison.html",
+    "personal_website": "https://people.cs.vt.edu/~kedmison/",
+    "google_scholar": "https://scholar.google.com/citations?user=lIZFlMUAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computer science education",
+      "software engineering",
+      "feedback",
+      "spectrum based fault location"
+    ],
+    "research_text": "computer science education, software engineering, feedback, spectrum based fault location",
+    "education": [
+      "2019: Ph.D., computer science and applications, Virginia Tech",
+      "2006: M.IT., information technology, Virginia Tech",
+      "1995: M.A.Ed., curriculum and instruction, Virginia Tech",
+      "1992: B.A., economics, Virginia Tech"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Stephen Edwards",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "edwards@cs.vt.edu",
+    "phone": "(540) 231-5723",
+    "office": "Torgersen Hall, RM 2230B 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/stephen-edwards.html",
+    "personal_website": "https://people.cs.vt.edu/~edwards/",
+    "google_scholar": "https://scholar.google.com/citations?user=5pV6DQ4AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computer science education",
+      "software testing",
+      "component techniques",
+      "innovative teaching"
+    ],
+    "research_text": "computer science education, software testing, component techniques, innovative teaching",
+    "education": [
+      "Ph.D., computer and information science, The Ohio State University",
+      "M.S., computer and information science, The Ohio State University",
+      "B.S., electrical engineering, California Institute of Technology"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Hoda Eldardiry",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "hdardiry@vt.edu",
+    "phone": "(540) 231-0906",
+    "office": "Data and Decision Sciences Building, RM 486 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/hoda-eldardiry.html",
+    "personal_website": "https://people.cs.vt.edu/hdardiry/",
+    "google_scholar": "https://scholar.google.com/citations?user=RQq30hYAAAAJ&hl=en&oi=ao",
+    "lab": "",
+    "research_interests": [
+      "artificial intelligence",
+      "machine learning",
+      "data mining",
+      "statistical relational learning",
+      "social network analysis"
+    ],
+    "research_text": "artificial intelligence, machine learning, data mining, statistical relational learning, social network analysis",
+    "education": [
+      "Ph.D., computer science, Purdue University",
+      "M.S., computer science, Purdue University",
+      "B.E., computer and systems engineering, Alexandria University, Egypt"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Margaret Ellis",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor of practice",
+    "email": "maellis1@vt.edu",
+    "phone": "(540) 231-9560",
+    "office": "Torgersen Hall, RM 2230A 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/margaret-ellis.html",
+    "personal_website": "https://people.cs.vt.edu/~maellis1/",
+    "google_scholar": "https://scholar.google.com/citations?user=hbv_-JQAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computer science education"
+    ],
+    "research_text": "computer science education",
+    "education": [
+      "M.S., computer science, Virginia Tech",
+      "B.S., mathematics, Virginia Tech"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Onyeka Emebo",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Assistant Professor",
+    "email": "onyeka@vt.edu",
+    "phone": "(540) 231-3591",
+    "office": "Torgersen Hall, RM 1220D 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/onyeka-emebo.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=MZZy-lMAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "data analytics",
+      "information retrieval",
+      "machine learning",
+      "natural language processing",
+      "digital education",
+      "software engineering"
+    ],
+    "research_text": "data analytics, information retrieval, machine learning, natural language processing, digital education, software engineering",
+    "education": [
+      "2017: Ph.D., computer science, Covenant University, Ota, Nigeria",
+      "2009: M.S., computer science, Covenant University, Ota, Nigeria",
+      "2006: B.S., computer science, Covenant University, Ota, Nigeria"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Mohammed Farghally",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Assistant Professor",
+    "email": "mfseddik@vt.edu",
+    "phone": "(540) 231-6044",
+    "office": "Torgersen Hall, RM 1220B 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/mohammed-farghally.html",
+    "personal_website": "https://sites.google.com/vt.edu/mfseddik",
+    "google_scholar": "https://scholar.google.com/citations?user=QpOjI0gAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "digital education",
+      "learning analytics",
+      "educational data mining",
+      "computer science ethics"
+    ],
+    "research_text": "digital education, learning analytics, educational data mining, computer science ethics",
+    "education": [
+      "2016: Ph.D. and M.S. in computer science and applications, Virginia Tech",
+      "2009: M.S., information systems, Cairo University, Egypt",
+      "2005: B.S., information systems, Assiut University, Egypt"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Wu-chun Feng",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "feng@cs.vt.edu",
+    "phone": "(540) 231-1192",
+    "office": "Torgersen Hall, RM 2050 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/wu-chun-feng.html",
+    "personal_website": "https://people.cs.vt.edu/~feng/index.php",
+    "google_scholar": "https://scholar.google.com/citations?user=Sm0f6HYAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "high-performance computing and computational science",
+      "data analytics",
+      "systems",
+      "computational biology and bioinformatics",
+      "machine learning"
+    ],
+    "research_text": "high-performance computing and computational science, data analytics, systems, computational biology and bioinformatics, machine learning",
+    "education": [
+      "1996: Ph.D., computer science, University of Illinois at Urbana-Champaign",
+      "1990: M.S., computer engineering, Penn State University",
+      "1988: B.S. electrical and computer engineering and B.A. in music, Penn State University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Steven Flammia",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor of Computer Science",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/steven-flammia.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "Steven Flammia is the director of the Center for Quantum Architecture at the Virginia Tech Institute for Advanced Computing. In this role, he will drive strategy and build the team for the new Center, based in Alexandria, including spearheading the hiring of additional faculty scientists. He also has an appointment of professor of computer science in the College of Engineering. Flammia joins the Institute for Advanced Computing from the Amazon Web Services Center for Quantum Computing in Pasadena, Calif., where he worked for three years as a principal research scientist. He previously worked as a professor at the University of Sydney in Australia, a principal research scientist at the University of Washington, and a postdoctoral researcher at California Institute of Technology in Pasadena and Perimeter Institute for Theoretical Physics in Waterloo, Canada. Throughout his career, he has published more than 80 articles in peer-reviewed journals and garnered more than 9,000 citations. Several of his theoretical results have led to experimental progress breakthroughs in the study of characterization, verification, and validation of quantum devices.",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Peng Gao",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "penggao@vt.edu",
+    "phone": "(540) 231-9060",
+    "office": "Gilbert Place, RM 4104 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/peng-gao.html",
+    "personal_website": "https://people.cs.vt.edu/penggao/",
+    "google_scholar": "https://scholar.google.com/citations?user=lJJpxssAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "data analytics",
+      "information retrieval",
+      "machine learning",
+      "natural language processing",
+      "security",
+      "software engineering",
+      "systems"
+    ],
+    "research_text": "data analytics, information retrieval, machine learning, natural language processing, security, software engineering, systems",
+    "education": [
+      "2019: Ph.D., electrical engineering, Princeton University",
+      "2015: M.A., electrical engineering, Princeton University",
+      "2013: B.E., electrical and computer engineering, Shanghai Jiao Tong University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Vaibhav Garg",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Assistant Professor of Computer Science",
+    "email": "",
+    "phone": "",
+    "office": "",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/vaibhav-garg.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [],
+    "biography": "Vaibhav Garg is a collegiate assistant professor of computer science at the Virginia Tech Institute for Advanced Computing. He was previously a teaching and coding instructor at the Outco Company in California. Garg’s research is centered on applying computational methods to address societal challenges, including identifying inciting speech on social media and auditing rogue mobile apps for misuse. His work has led to several publications, including an upcoming article in Communications of the ACM . Garg received the Carla Savage Award for the most outstanding Ph.D. student at North Carolina State University in 2023, and while pursing his Ph.D., he was the receipient of multiple research grants from the National Security Agency (NSA) and National Science Foundation (NSF).",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Denis Gracanin",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "gracanin@vt.edu",
+    "phone": "(540) 231-2060",
+    "office": "Gilbert Place, RM 3207 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/denis-gracanin.html",
+    "personal_website": "https://people.cs.vt.edu/~gracanin/home/Home.html",
+    "google_scholar": "https://scholar.google.com/citations?user=dhwyJggAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "virtual reality",
+      "simulation",
+      "computer graphics",
+      "human-computer Interaction",
+      "privacy"
+    ],
+    "research_text": "virtual reality, simulation, computer graphics, human-computer Interaction, privacy",
+    "education": [
+      "1994: Ph.D., computer science, University of Louisiana at Lafayette",
+      "1992: M.S., computer science, University of Louisiana at Lafayette",
+      "1988: M.Sc., electrical engineering, University of Zagreb, Croatia",
+      "1986: B.Sc., electrical engineering (radiocommunications), University of Zagreb, Croatia",
+      "1985: B.Sc., electrical engineering (telecommunications), University of Zagreb, Croatia"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Muhammad Ali Gulzar",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "gulzar@vt.edu",
+    "phone": "(540) 231-0851",
+    "office": "Gilbert Place, RM 4106 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/muhammad-ali-gulzar.html",
+    "personal_website": "https://people.cs.vt.edu/~gulzar/",
+    "google_scholar": "https://scholar.google.com/citations?user=k9M-nccAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "software engineering",
+      "debugging and testing",
+      "emerging software"
+    ],
+    "research_text": "software engineering, debugging and testing, emerging software",
+    "education": [
+      "2020: Ph.D., computer science, University of California, Los Angeles",
+      "2014: B.S., computer science, Lahore University of Management Sciences, Pakistan"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Sally Hamouda",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Associate Professor",
+    "email": "shamouda@vt.edu",
+    "phone": "(540) 231-6793",
+    "office": "Torgersen Hall, RM 1220C 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/sally-hamouda.html",
+    "personal_website": "https://sallyhamouda.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=zVtkhL8AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computer science education",
+      "data analytics",
+      "text mining"
+    ],
+    "research_text": "computer science education, data analytics, text mining",
+    "education": [
+      "2015: Ph.D., computer science, Virginia Tech",
+      "2010: M.S., computer engineering, Cairo University, Egypt",
+      "2006: B.S., computer engineering, Cairo University, Egypt"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Shaddi Hasan",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "shaddi@vt.edu",
+    "phone": "(540) 231-1005",
+    "office": "Gilbert Place, RM 4205 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/shaddi-hasan.html",
+    "personal_website": "http://www.shaddih.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=IHburiYAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "networks",
+      "ICTD",
+      "distributed systems",
+      "human-computer interaction",
+      "communications access in rural and developing regions"
+    ],
+    "research_text": "networks, ICTD, distributed systems, human-computer interaction, communications access in rural and developing regions",
+    "education": [
+      "2019: Ph.D., computer science, University of California, Berkeley",
+      "2013: M.S., computer science, University of California, Berkeley",
+      "2010: B.S., computer science, Univerity of North Carolina at Chapel Hill"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Matthew Hicks",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "mdhicks2@vt.edu",
+    "phone": "(540) 231-8521",
+    "office": "",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/matthew-hicks.html",
+    "personal_website": "http://forte-research.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=_rJCgzIAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "software, hardware, and embedded system security",
+      "embedded/IoT systems",
+      "energy harvesting"
+    ],
+    "research_text": "software, hardware, and embedded system security, embedded/IoT systems, energy harvesting",
+    "education": [
+      "2013: Ph.D., computer science, University of Illinois Urbana-Champaign",
+      "2008: M.S., computer science, University of Illinois Urbana-Champaign",
+      "2006: B.S., computer science, University of Central Florida"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Heath Hillman",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Instructor",
+    "email": "hillman@vt.edu",
+    "phone": "(540) 231-3743",
+    "office": "Torgersen Hall, RM 1200 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/heath-hillman.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "2016: M.S., mathematics, Youngstown State University",
+      "2014: B.S., mathematics, Colorado Mesa University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Thang Hoang",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "thanghoang@vt.edu",
+    "phone": "(540) 231-0908",
+    "office": "Gilbert Place, RM 4304 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/thang-hoang.html",
+    "personal_website": "https://thanghoang.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=VCjqqogAAAAJ&hl=vi",
+    "lab": "",
+    "research_interests": [
+      "applied cryptograhy",
+      "security and privacy",
+      "biometrics"
+    ],
+    "research_text": "applied cryptograhy, security and privacy, biometrics",
+    "education": [
+      "2020: Ph.D., computer science, University of South Florida",
+      "2014: M.S., computer science, Chonnam National University, South Korea",
+      "2010: B.S., computer science, University of Science, Viet Nam National University Ho Chi Minh City"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Sara Hooshangi",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Professor",
+    "email": "shoosh@vt.edu",
+    "phone": "",
+    "office": "Institute for Advanced Computing 3625 Potomac Ave. Alexandria, Virginia 22305",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/sara-hooshangi.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=dXrnG1cAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computer science education"
+    ],
+    "research_text": "computer science education",
+    "education": [
+      "Ph.D., electrical engineering, Princeton University",
+      "B.S., electrical engineering, McGill University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Reza Jafari",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Associate Professor",
+    "email": "rjafari@cs.vt.edu",
+    "phone": "(703) 538-8366",
+    "office": "Institute for Advanced Computing, RM 3732 3625 Potomac Ave., Alexandria, VA 22305",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/reza-jafari.html",
+    "personal_website": "https://github.com/rjafari979",
+    "google_scholar": "https://scholar.google.com/citations?user=MUIvodgAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "data analytics",
+      "machine learning",
+      "control systems",
+      "statistical modeling",
+      "forecast",
+      "time series analysis"
+    ],
+    "research_text": "data analytics, machine learning, control systems, statistical modeling, forecast, time series analysis",
+    "education": [
+      "2012: Ph.D., computer and electrical engineering, Oklahoma State University",
+      "2012: M.S., applied mathematics, Oklahoma State University",
+      "2005: M.S., mechatronics, American University of Sharjah, United Arab Emirates",
+      "2001: B.S., engineering, University of Tehran, Iran"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Bo Ji",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "boji@vt.edu",
+    "phone": "(540) 231-0331",
+    "office": "Gilbert Place, RM 4203 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/bo-ji.html",
+    "personal_website": "https://people.cs.vt.edu/boji/",
+    "google_scholar": "https://scholar.google.com/citations?user=9ILgtvAAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "networking",
+      "machine learning",
+      "security and privacy",
+      "augmented/virtual reality"
+    ],
+    "research_text": "networking, machine learning, security and privacy, augmented/virtual reality",
+    "education": [
+      "2012: Ph.D., electrical and computer engineering, The Ohio State University",
+      "2006: M.E., information science and electronic engineering, Zhejiang University, China",
+      "2004: B.E., information science and electronic engineering, Zhejiang University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Xun (Steve) Jian",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "xunj@vt.edu",
+    "phone": "(540) 232-8433",
+    "office": "Gilbert Place, RM 4206 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/xun-jian.html",
+    "personal_website": "https://people.cs.vt.edu/xunj/PC/homepage.html",
+    "google_scholar": "https://scholar.google.com/citations?user=m8ihzWwAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computer architecture"
+    ],
+    "research_text": "computer architecture",
+    "education": [
+      "2017: Ph.D., computer engineering, University of Illinois, Urbana-Champaign",
+      "2011: B.S., University of Illinois, Urbana-Champaign"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Christine Julien",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "christinejulien@vt.edu",
+    "phone": "(540) 231-9110",
+    "office": "Torgersen Hall, RM 3160 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/christine-julien.html",
+    "personal_website": "https://c-julien.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=p-rQXOQAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "pervasive computing",
+      "mobile computing",
+      "software engineering",
+      "middleware"
+    ],
+    "research_text": "pervasive computing, mobile computing, software engineering, middleware",
+    "education": [
+      "2004: D.Sc., computer science, Washington University in Saint Louis",
+      "2003: M.S., computer science, Washington University in Saint Louis",
+      "2000: B.S., computer science and biology, Washington University in Saint Louis"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Murat Kantarcioglu",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "muratk@vt.edu",
+    "phone": "(540) 231-6772",
+    "office": "Data and Decision Sciences, RM 386 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/murat-kantarcioglu.html",
+    "personal_website": "http://www.kantarcioglu.net",
+    "google_scholar": "https://scholar.google.com/citations?user=qXb4xQMAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "data and artificial intelligence",
+      "security and privacy",
+      "blockchain data analytics"
+    ],
+    "research_text": "data and artificial intelligence, security and privacy, blockchain data analytics",
+    "education": [
+      "2005: Ph.D., computer science, Purdue University",
+      "2005: Graduate certificate, applied statistics, Purdue University",
+      "2000: B.S., computer engineering with minor in finance, Middle East Technical University, Ankara, Turkey"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Anuj Karpatne",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "karpatne@vt.edu",
+    "phone": "(540) 231-6420",
+    "office": "Data and Decision Sciences Building, RM 438 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/anuj-karpatne.html",
+    "personal_website": "https://people.cs.vt.edu/karpatne/",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=aJdbHAoAAAAJ&view_op=list_works&gmla=AJsN-F5kkMVdz7NuLyflu2WKBFUDiDwegurnTM95pXKWXTeVBhjfsaSBlIraiK2H_srbW09PwX1g_n2WYmXJw9fo02CRp4L33LCuXftkLPdl3EK9PoMs7BqbSOE3_UOEkc_LHmmswak5",
+    "lab": "",
+    "research_interests": [
+      "knowledge-guided machine learning",
+      "data mining",
+      "machine learning",
+      "theory-guided data science",
+      "spatio-temporal data",
+      "earth science data"
+    ],
+    "research_text": "knowledge-guided machine learning, data mining, machine learning, theory-guided data science, spatio-temporal data, earth science data",
+    "education": [
+      "2017: Ph.D., Computer Science, University of Minnesota",
+      "2011: Integrated M.Tech., mathematics and computing, Indian Institute of Technology, Delhi"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Sumeet Khatri",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "skhatri@vt.edu",
+    "phone": "(540) 231-6256",
+    "office": "Torgersen Hall, RM 2160H 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/sumeet-khatri.html",
+    "personal_website": "http://sumeetkhatri.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=CcJ9FpcAAAAJ&h",
+    "lab": "",
+    "research_interests": [
+      "quantum information theory",
+      "quantum computation, algorithms, and learning theory",
+      "quantum communication and networks"
+    ],
+    "research_text": "quantum information theory, quantum computation, algorithms, and learning theory, quantum communication and networks",
+    "education": [
+      "2021: Ph.D., physics, Louisiana State University",
+      "2016: MSc., physics (quantum information), University of Waterloo, Canada",
+      "2014: BSc., mathematical physics, University of Waterloo, Canada"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Greg Kulczycki",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor of Practice",
+    "email": "gregwk@vt.edu",
+    "phone": "(703) 538-3758",
+    "office": "Virginia Tech Research Center 900 N Glebe Rd. Arlington, VA 22203",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/greg-kulczycki.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [
+      "digital education"
+    ],
+    "research_text": "digital education",
+    "education": [
+      "2004: Ph.D., Clemson University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Sang Won Lee",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "sangwonlee@vt.edu",
+    "phone": "(540) 231-4857",
+    "office": "Gilbert Place, RM 3105 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/sang-won-lee.html",
+    "personal_website": "https://echolab.cs.vt.edu/sangwonlee/",
+    "google_scholar": "https://scholar.google.com/citations?user=II2NGWIAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "computer-supported cooperative work",
+      "human-computer interaction",
+      "computer music",
+      "live coding"
+    ],
+    "research_text": "computer-supported cooperative work, human-computer interaction, computer music, live coding",
+    "education": [
+      "2018: Ph.D., computer science, University of Michigan",
+      "2014: M.S., computer science, University of Michigan",
+      "2012: M.S., music technology, Georgia Tech2010: M.S., management science and engineering, Stanford University",
+      "2007: B.S., Industrial Engineering, Seoul National University, South Korea"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Huaicheng Li",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "huaicheng@cs.vt.edu",
+    "phone": "(540) 231-4482",
+    "office": "Gilbert Place RM 4109 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/huaicheng-li.html",
+    "personal_website": "https://people.cs.vt.edu/~huaicheng/",
+    "google_scholar": "https://scholar.google.com/citations?user=PxZIxpkAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "operating systems",
+      "storage systems",
+      "memory systems",
+      "systems architecture"
+    ],
+    "research_text": "operating systems, storage systems, memory systems, systems architecture",
+    "education": [
+      "2020: Ph.D., computer science, University of Chicago",
+      "2018: M.S., computer science, University of Chicago",
+      "2013: B.S., computer science and technology, Wuhan University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Wenjing Lou",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "W.C. English Endowed Professor",
+    "email": "wjlou@vt.edu",
+    "phone": "(703) 538-3774",
+    "office": "Virginia Tech Research Center 900 N Glebe Rd. Arlington, VA 22203",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/wenjing-lou.html",
+    "personal_website": "https://www.cnsr.ictas.vt.edu/WJLou.html",
+    "google_scholar": "https://scholar.google.com/citations?user=hM8uAwoAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "cybersecurity",
+      "wireless networks",
+      "cyber-physical systems security",
+      "adversarial machine learning",
+      "applied cryptography"
+    ],
+    "research_text": "cybersecurity, wireless networks, cyber-physical systems security, adversarial machine learning, applied cryptography",
+    "education": [
+      "Ph.D., electrical and computer engineering, University of Florida"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Chang-Tien Lu",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "ctlu@vt.edu",
+    "phone": "(703) 538-8373",
+    "office": "Virginia Tech Research Center 900 N Glebe Rd. Arlington, VA 22203",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/chang-tien-lu.html",
+    "personal_website": "https://people.cs.vt.edu/~ctlu/",
+    "google_scholar": "https://scholar.google.com/citations?user=TJI8JW0AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "spatial data mining",
+      "geographic information science",
+      "information retrieval",
+      "energy disaggregation",
+      "intelligent transportation systems"
+    ],
+    "research_text": "spatial data mining, geographic information science, information retrieval, energy disaggregation, intelligent transportation systems",
+    "education": [
+      "Ph.D., computer science, University of Minnesota"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Kurt Luther",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "kluther@vt.edu",
+    "phone": "(703) 538-3335",
+    "office": "Institute for Advanced Computing 3625 Potomac Ave. Alexandria, Virginia 22305",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/kurt-luther.html",
+    "personal_website": "https://crowd.cs.vt.edu/kurt-luther/",
+    "google_scholar": "https://scholar.google.com/citations?user=b8cNEHwAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "crowdsourcing",
+      "social computing",
+      "human-AI collaboration"
+    ],
+    "research_text": "crowdsourcing, social computing, human-AI collaboration",
+    "education": [
+      "2012: Ph.D., human-centered computing, Georgia Tech",
+      "2006: B.S., computer graphics technology, Purdue University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Atul Mantri",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "atulmantri@vt.edu",
+    "phone": "(540) 231-1172",
+    "office": "Torgersen Hall, RM 2160F 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/atul-mantri.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.co.in/citations?user=Xnm7lvQAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "secure delegated quantum computing"
+    ],
+    "research_text": "secure delegated quantum computing",
+    "education": [
+      "2019: Ph.D. Candidate, The Center for Quantum Technologies, National University of Singapore and Singapore University of Technology and Design",
+      "2014: B.S. and M.S., physics, Indian Institute of Science Education and Research, Mohali, Punjab, India"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Scott McCrickard",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "dmccrick@vt.edu",
+    "phone": "(540) 231-6698",
+    "office": "Gilbert Place, RM 3204 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/scott-mccrickard.html",
+    "personal_website": "https://techonthetrail.net/",
+    "google_scholar": "https://scholar.google.com/citations?user=jQNt6RwAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "human-computer interaction",
+      "outdoor technology use"
+    ],
+    "research_text": "human-computer interaction, outdoor technology use",
+    "education": [
+      "2000: Ph.D., computer science, Georgia Tech",
+      "1995: M.S., computer science, Georgia Tech",
+      "1992: B.S., mathematical sciences (computer science emphasis), University of North Carolina at Chapel Hill"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ryan P. McMahan",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "rymcmaha@vt.edu",
+    "phone": "(540) 231-9722",
+    "office": "Gilbert Place, RM 3108 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/ryan-p-mcmahan.html",
+    "personal_website": "https://ryanpmcmahan.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=inGtCcMAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "extended reality",
+      "virtual reality",
+      "learning sciences",
+      "applied machine learning"
+    ],
+    "research_text": "extended reality, virtual reality, learning sciences, applied machine learning",
+    "education": [
+      "2011: Ph.D., computer science and applications, Virginia Tech",
+      "2007: M.S., computer science and applications, Virginia Tech",
+      "2004: B.S., computer science, Virginia Tech"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "David McPherson",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Senior Instructor",
+    "email": "dmcphers@vt.edu",
+    "phone": "(540) 231-3153",
+    "office": "Torgersen Hall, RM 1220A 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/david-mcpherson.html",
+    "personal_website": "https://people.cs.vt.edu/dmcphers/",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [
+      "computer science education",
+      "programming languages"
+    ],
+    "research_text": "computer science education, programming languages",
+    "education": [
+      "2002: M.S., computer science and applications, Virginia Tech",
+      "1996: M.S., special education, Radford University",
+      "1994: B.S., mathematics education, Virginia Tech"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Na Meng",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "nm8247@cs.vt.edu",
+    "phone": "(540) 231-5492",
+    "office": "Gilbert Place, RM 4311A 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/na-ming.html",
+    "personal_website": "https://people.cs.vt.edu/nm8247/",
+    "google_scholar": "https://scholar.google.com/citations?user=d-VnBn8AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "software engineering",
+      "programming languages"
+    ],
+    "research_text": "software engineering, programming languages",
+    "education": [
+      "2014: Ph.D., computer science, University of Texas at Austin",
+      "2009: M.S., computer science, Peking University, China",
+      "2006: B.E., software engineering, Northeastern University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Tessema Mengistu",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Assistant Professor",
+    "email": "mengistu@cs.vt.edu",
+    "phone": "(703) 538-8313",
+    "office": "Institute for Advanced Computing 3625 Potomac Ave. Alexandria, Virginia 22305",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/tessema-mengistu.html",
+    "personal_website": "https://people.cs.vt.edu/mengistu/",
+    "google_scholar": "https://scholar.google.com/citations?user=x9JJf_AAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "edge intelligence",
+      "edge/cloud computing",
+      "big data",
+      "volunteer computing",
+      "internet of things",
+      "information retrieval"
+    ],
+    "research_text": "edge intelligence, edge/cloud computing, big data, volunteer computing, internet of things, information retrieval",
+    "education": [
+      "2018: Ph.D., computer science, Southern Illinois University at Carbondale",
+      "2012: M.S., computer science, University of Nice-Sophia Antipolis, France",
+      "2007: M.S., computer science, Addis Ababa University, Ethiopia",
+      "2001: B.S., statistics, Addis Ababa University, Ethiopia"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "T. M. Murali",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "tmurali@vt.edu",
+    "phone": "(540) 231-8534",
+    "office": "Data and Decision Sciences Building, RM 432 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/t--m--murali.html",
+    "personal_website": "https://bioinformatics.cs.vt.edu/~murali/",
+    "google_scholar": "https://scholar.google.com/citations?user=pdpOwtkAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computational system biology",
+      "computationally-driven experimental biology",
+      "algorithm design and analysis"
+    ],
+    "research_text": "computational system biology, computationally-driven experimental biology, algorithm design and analysis",
+    "education": [
+      "Ph.D., computer science, Brown University",
+      "B.Tech., computer science and engineering, Indian Institute of Technology, Madras"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Dimitrios Nikolopoulos",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "John W. Hancock Professor of Engineering",
+    "email": "dsn@vt.edu",
+    "phone": "(540) 231-4260",
+    "office": "Gilbert Place, RM 4209 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/dimitrios-nikolopoulos.html",
+    "personal_website": "https://dsniko.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=PkCuYUQAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "high-performance computing and systems",
+      "runtime systems",
+      "memory management",
+      "virtualization",
+      "computing continuum"
+    ],
+    "research_text": "high-performance computing and systems, runtime systems, memory management, virtualization, computing continuum",
+    "education": [
+      "2000: Ph.D., University of Patras, Greece",
+      "1997: M.Sc., University of Patras, Greece",
+      "1996: M.Eng., University of Patras, Greece"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Saad Nizamani",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Instructor",
+    "email": "saadnizamani@vt.edu",
+    "phone": "(540) 231-2329",
+    "office": "Torgersen Hall RM 3210B 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/saad-nizamani.html",
+    "personal_website": "https://people.cs.vt.edu/saadnizamani/",
+    "google_scholar": "https://scholar.google.com/citations?user=_nh1YgQAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "social media content analysis",
+      "human-computer interaction",
+      "computer science education"
+    ],
+    "research_text": "social media content analysis, human-computer interaction, computer science education",
+    "education": [
+      "2023: Ph.d., information technology, University of Sindh, Jamshoro, Pakistan",
+      "2013: M.S., computer science, Karachi Institute of Economics and Technology, Pakistan",
+      "2007: B.S., computer science, University of Sindh, Jamshoro, Pakistan"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Sehrish Basir Nizamani",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Assistant Professor",
+    "email": "sehrishbasir@vt.edu",
+    "phone": "(540) 231-1238",
+    "office": "Torgersen Hall, RM 2220A 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/sehrish-basir.html",
+    "personal_website": "https://people.cs.vt.edu/sehrishbasir/",
+    "google_scholar": "https://scholar.google.com/citations?user=zRbMsvkAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "human-computer Interaction",
+      "usability studies",
+      "technology education",
+      "information systems",
+      "natural language processing"
+    ],
+    "research_text": "human-computer Interaction, usability studies, technology education, information systems, natural language processing",
+    "education": [
+      "2020: Ph.D., information technology, University of Sindh Jamshoro, Pakistan",
+      "2014: Masters of Philosophy, information technology, University of Sindh Jamshoro, Pakistan",
+      "2006: B.S., information technology, University of Sindh Jamshoro, Pakistan"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Sam H. Noh",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "samhnoh@vt.edu",
+    "phone": "",
+    "office": "Virginia Tech Research Center 900 N Glebe Rd. Arlington, VA 22203",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/sam-noh.html",
+    "personal_website": "https://next.cs.vt.edu/",
+    "google_scholar": "https://scholar.google.com/citations?user=i5lr8uEAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "systems",
+      "system software for storage",
+      "cloud",
+      "distributed",
+      "high-performance computing",
+      "embedded",
+      "mobile systems"
+    ],
+    "research_text": "systems, system software for storage, cloud, distributed, high-performance computing, embedded, mobile systems",
+    "education": [
+      "1993: Ph.D., computer science, University of Maryland, College Park",
+      "1986: B.S., computer engineering, Seoul National University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Chris North",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "north@vt.edu",
+    "phone": "(540) 231-2458",
+    "office": "Data and Decision Sciences Building, RM 472 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/chris-north.html",
+    "personal_website": "https://people.cs.vt.edu/~north/",
+    "google_scholar": "https://scholar.google.com/citations?user=yBZ7vtkAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "visual analytics",
+      "information visualization",
+      "human-computer interaction",
+      "large displays"
+    ],
+    "research_text": "visual analytics, information visualization, human-computer interaction, large displays",
+    "education": [
+      "2000: Ph.D., computer science, University of Maryland, College Park"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Erika Olimpiew",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Associate Professor",
+    "email": "eolimpie@vt.edu",
+    "phone": "(571) 528-0269",
+    "office": "Institute for Advanced Computing 3625 Potomac Ave. Alexandria, VA 22305",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/erika-olimpiew.html",
+    "personal_website": "https://www.emotivecomputingplatform.com/",
+    "google_scholar": "https://scholar.google.com/citations?user=6j45kVkAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "requirements analysis",
+      "software design",
+      "cloud computing",
+      "cybersecurity",
+      "mobile computing"
+    ],
+    "research_text": "requirements analysis, software design, cloud computing, cybersecurity, mobile computing",
+    "education": [
+      "2008: Ph.D., information technology, George Mason University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Alexey Onufriev",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "alexey@cs.vt.edu",
+    "phone": "(540) 231-4237",
+    "office": "Torgersen Hall, RM 2160C 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/alexey-onufriev.html",
+    "personal_website": "https://people.cs.vt.edu/~onufriev/index.php",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=b7TXx40AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "high-performance computing and computational science",
+      "computational biology and bioinformatics",
+      "computational biophysics",
+      "methodology for molecular simulations",
+      "chromatin organization",
+      "bio-molecular electrostatics"
+    ],
+    "research_text": "high-performance computing and computational science, computational biology and bioinformatics, computational biophysics, methodology for molecular simulations, chromatin organization, bio-molecular electrostatics",
+    "education": [
+      "Ph.D., computational solid state physics, Brown University",
+      "M.S., biophysics, Moscow Institute of Physics and Technology, Moscow Oblast, Russia"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Eric Pauley",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "pauley@vt.edu",
+    "phone": "(540) 231-1116",
+    "office": "Gilbert Place RM 4202 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/eric-pauley.html",
+    "personal_website": "https://pauley.me/",
+    "google_scholar": "https://scholar.google.com/citations?user=-zY91R4AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "cloud security",
+      "network measurement",
+      "software supply chain security"
+    ],
+    "research_text": "cloud security, network measurement, software supply chain security",
+    "education": [
+      "2025: Ph.D., computer sciences, University of Wisconsin–Madison",
+      "2020: M.S., computer science and engineering, Pennsylvania State University",
+      "2019: B.S., computer science and electrical engineering, Pennsylvania State University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Naren Ramakrishnan",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Thomas L. Phillips Professor of Engineering",
+    "email": "naren@vt.edu",
+    "phone": "(571) 858-3331",
+    "office": "Institute for Advanced Computing 3625 Potomac Ave Alexandria, VA 22305",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/naren-ramakrishnan.html",
+    "personal_website": "https://people.cs.vt.edu/~ramakris/",
+    "google_scholar": "https://scholar.google.com/citations?user=fMJwG7MAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "data science",
+      "applied machine learning",
+      "recommender systems",
+      "computational epidemiology",
+      "visual analytics"
+    ],
+    "research_text": "data science, applied machine learning, recommender systems, computational epidemiology, visual analytics",
+    "education": [
+      "Ph.D., computer science, Purdue University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Chandan  Reddy",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "reddy@cs.vt.edu",
+    "phone": "(571) 858-3307",
+    "office": "Virginia Tech Research Center, RM 5-014 900 N Glebe Rd. Arlington, VA 22203",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/chandan--reddy.html",
+    "personal_website": "https://creddy.net/",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&user=LoXnMOIAAAAJ&view_op=list_works&authuser=1&sortby=pubdate",
+    "lab": "",
+    "research_interests": [
+      "deep learning",
+      "data analytics",
+      "big data",
+      "healthcare",
+      "text mining"
+    ],
+    "research_text": "deep learning, data analytics, big data, healthcare, text mining",
+    "education": [
+      "Ph.D., computer science, Cornell University",
+      "M.S., computer science, Michigan State University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Eugenia Rho",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "eugenia@vt.edu",
+    "phone": "(540) 231-8457",
+    "office": "Gilbert Place, RM 3106 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/eugenia-rho.html",
+    "personal_website": "https://sail.cs.vt.edu/",
+    "google_scholar": "https://scholar.google.com/citations?user=jFXHPvoAAAAJ&hl=en&oi=ao",
+    "lab": "",
+    "research_interests": [
+      "data analytics",
+      "machine learning",
+      "natural language processing",
+      "human-computer interaction"
+    ],
+    "research_text": "data analytics, machine learning, natural language processing, human-computer interaction",
+    "education": [
+      "2020: Ph.D., information and computer sciences, University of California, Irvine",
+      "2011: B.A., political science, Columbia University in the City of New York–Columbia College"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Cal Ribbens",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "ribbens@vt.edu",
+    "phone": "540-231-6262",
+    "office": "Torgersen Hall RM 2160B 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/cal-ribbens.html",
+    "personal_website": "https://people.cs.vt.edu/ribbens/",
+    "google_scholar": "https://scholar.google.com/citations?user=gs_WpWIAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "parallel computation",
+      "high-end computing systems",
+      "computational science and engineering",
+      "ethical and social implications of computing"
+    ],
+    "research_text": "parallel computation, high-end computing systems, computational science and engineering, ethical and social implications of computing",
+    "education": [
+      "1986: Ph.D., computer sciences,Purdue University",
+      "1984: M.S., computer sciences,Purdue University",
+      "1981: B.S., mathematics,Calvin College, Grand Rapids, Michigan"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Kirsten E. Richards",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Associate Professor",
+    "email": "krichards@vt.edu",
+    "phone": "540-231-2960",
+    "office": "Torgersen Hall, RM 2230A 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/kirsten-e-richards.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=NSeuuGcAAAAJ&hl=en&oi=ao",
+    "lab": "",
+    "research_interests": [
+      "privacy",
+      "cybersecurity",
+      "computer science education"
+    ],
+    "research_text": "privacy, cybersecurity, computer science education",
+    "education": [
+      "2017:Ph.D., information systems, University of Maryland, Baltimore County",
+      "2015:Graduate certificate, database technology, University of Maryland, University College",
+      "2012:M.S., information systems, University of Maryland, Baltimore County",
+      "2010:A.S., registered nursing, Antelope Valley College",
+      "2009:Ministry and leadership degree, Life Pacific College",
+      "2005:A.A.; arts, letters, and sciences, Antelope Valley College"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Timothy Richards",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Advanced Instructor",
+    "email": "trichards@vt.edu",
+    "phone": "(540) 231-8128",
+    "office": "Torgersen Hall, RM 3210A 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/timothy-richards.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [
+      "information personalization",
+      "information seeking and sharing behaviors",
+      "web and mobile interfaces",
+      "privacy and trust"
+    ],
+    "research_text": "information personalization, information seeking and sharing behaviors, web and mobile interfaces, privacy and trust",
+    "education": [
+      "2017: Ph.D., information systems, University of Maryland Baltimore County",
+      "2010: M.S., information systems, University of Maryland Baltimore County",
+      "2007: B.A., leadership and ministry, LIFE Pacific University",
+      "2003: A.A.; letters, arts, and sciences; Antelope Valley College"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Adrian Sandu",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "asandu7@vt.edu",
+    "phone": "(540) 231-2193",
+    "office": "Torgersen Hall, RM 3060F 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/adrian-sandu.html",
+    "personal_website": "https://people.cs.vt.edu/~asandu/",
+    "google_scholar": "https://scholar.google.com/citations?user=A7fZNg0AAAAJ",
+    "lab": "",
+    "research_interests": [
+      "numerical methods",
+      "high performance computing",
+      "uncertainty quantification",
+      "sensitivity analysis"
+    ],
+    "research_text": "numerical methods, high performance computing, uncertainty quantification, sensitivity analysis",
+    "education": [
+      "1997: Ph.D., applied mathematical and computational sciences, The University of Iowa",
+      "1997: M.S., computer science, The University of Iowa",
+      "1990: M.S. (equiv), electrical engineering, Technical University Bucharest, Romania"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Palash Sashittal",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "sashittal@vt.edu",
+    "phone": "(540) 231-9724",
+    "office": "Data and Decision Sciences, RM 436 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/palash-sashittal.html",
+    "personal_website": "https://sashitt2.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=wpKN9BwAAAAJ&hl",
+    "lab": "",
+    "research_interests": [
+      "computational biology"
+    ],
+    "research_text": "computational biology",
+    "education": [
+      "2021: Ph.D., aerospace engineering, University of Illinois Urbana-Champaign",
+      "2021: M.S., computer science, University of Illinois Urbana-Champaign",
+      "2014: B.Tech., aerospace engineering, Indian Institute of Technology, Bombay, India"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Allyson Senger",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Instructor",
+    "email": "asenger@vt.edu",
+    "phone": "(540) 231-5235",
+    "office": "Torgersen Hall, RM 2220C 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/allyson-senger.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=U00Ml44AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "digital education",
+      "pedagogy"
+    ],
+    "research_text": "digital education, pedagogy",
+    "education": [
+      "M.S., computer science and applications, Virginia Tech",
+      "B.S., computer science, Virginia Tech"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Mohammed Seyam",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Collegiate Associate Professor",
+    "email": "seyam@vt.edu",
+    "phone": "(540) 231-5502",
+    "office": "Torgersen Hall, RM 2220E 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/mohammed-seyam.html",
+    "personal_website": "https://sites.google.com/vt.edu/mohammedseyam/home",
+    "google_scholar": "https://scholar.google.com/citations?user=OYautn0AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "software engineering",
+      "agile development",
+      "computer science education",
+      "information systems development",
+      "usability engineering"
+    ],
+    "research_text": "software engineering, agile development, computer science education, information systems development, usability engineering",
+    "education": [
+      "2017: Ph.D., computer science, Virginia Tech",
+      "2016: M.S., computer science, Virginia Tech",
+      "2008: M.Sc., information systems, Cairo University, Egypt",
+      "2002: B.Sc., information systems, Mansoura University, Egypt"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Cliff Shaffer",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "shaffer@vt.edu",
+    "phone": "(540) 231-4354",
+    "office": "Torgersen Hall, RM 2000A 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/clifford-shaffer.html",
+    "personal_website": "https://people.cs.vt.edu/~shaffer/",
+    "google_scholar": "https://scholar.google.com/citations?user=v0tJmyYAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "data structures and algorithms",
+      "algorithm visualization",
+      "digital education"
+    ],
+    "research_text": "data structures and algorithms, algorithm visualization, digital education",
+    "education": [
+      "1986: Ph.D., computer science, University of Maryland, College Park",
+      "1982: M.S., computer science, University of Maryland, College Park",
+      "1980: B.S., computer science, University of Maryland, College Park"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Jamie Sikora",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "sikora@vt.edu",
+    "phone": "(540) 231-5964",
+    "office": "Torgersen Hall, RM 2160E 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/jamie-sikora.html",
+    "personal_website": "https://sites.google.com/site/jamiesikorahttps://sites.google.com/site/jamiesikora",
+    "google_scholar": "https://scholar.google.com.sg/citations?user=EBxyd5gAAAAJ&hl=enhttps://scholar.google.com.sg/citations?user=EBxyd5gAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "quantum computing",
+      "quantum information",
+      "quantum cryptography",
+      "semidefinite programming",
+      "convex optimization"
+    ],
+    "research_text": "quantum computing, quantum information, quantum cryptography, semidefinite programming, convex optimization",
+    "education": [
+      "2012: Ph.D., quantum computing, University of Waterloo, Ontario, Canada"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "David H Smith IV",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "dhsmith4@vt.edu",
+    "phone": "(360) 969-3836",
+    "office": "Torgersen Hall, RM 2160N 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/david-h-smith-iv.html",
+    "personal_website": "https://hamiltonfour.tech/",
+    "google_scholar": "https://scholar.google.com/citations?user=hpe-z9YAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "novice human generative AI collaborative coding",
+      "interactive learning tools",
+      "automated grading and feedback",
+      "assessment"
+    ],
+    "research_text": "novice human generative AI collaborative coding, interactive learning tools, automated grading and feedback, assessment",
+    "education": [
+      "2025: Ph.D., computer science, University of Illinois Urbana-Champaign",
+      "2019: B.S., computer science, Western Washington University",
+      "2017: A.S., computer science and physics, Skagit Valley College"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Patrick Sullivan",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Instructor",
+    "email": "sublime@vt.edu",
+    "phone": "(540) 231-5502",
+    "office": "Torgersen Hall, RM 2220D 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/patrick-sullivan.html",
+    "personal_website": "",
+    "google_scholar": "",
+    "lab": "",
+    "research_interests": [],
+    "research_text": "",
+    "education": [
+      "2023: M.S., computer science, Virginia Tech",
+      "2015: B.S., computer science, Missouri University of Science and Technology, Rolla, Missouri"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Kirshanthan Sundararajah",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "kirshanthans@vt.edu",
+    "phone": "(540) 231-1779",
+    "office": "Gilbert Place, RM 4103 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/kirshanthan-sundararajah.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=knUrjrMAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "compilers",
+      "programming languages",
+      "high-performance computing"
+    ],
+    "research_text": "compilers, programming languages, high-performance computing",
+    "education": [
+      "2022: Ph.D., electrical and computer engineering and M.S., electrical and computer engineering, Purdue University, West Lafayette, Indiana",
+      "2014: B.S, electronics and telecommunication engineering, University of Moratuwa, Katubedda, Sri Lanka"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Chris Thomas",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "chris@cs.vt.edu",
+    "phone": "(540) 231-2993",
+    "office": "Data and Decision Sciences Building, RM 378 727 Prices Fork Rd. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/chris-thomas.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=16r7ZhsAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "computer vision",
+      "cross-modal retrieval",
+      "high-level content understanding",
+      "multimodal knowledge representation"
+    ],
+    "research_text": "computer vision, cross-modal retrieval, high-level content understanding, multimodal knowledge representation",
+    "education": [
+      "2020: Ph.D., computer science, University of Pittsburgh",
+      "2013: B.S., computer science, University of Pittsburgh"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Eli Tilevich",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "tilevich@cs.vt.edu",
+    "phone": "(540) 231-3475",
+    "office": "Gilbert Place, RM 4204 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/eli-tilevich.html",
+    "personal_website": "https://people.cs.vt.edu/~tilevich/",
+    "google_scholar": "https://scholar.google.com/citations?user=t4OSUfgAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "systems end of software engineering",
+      "distributed systems and middleware",
+      "automated software transformation",
+      "mobile applications",
+      "energy efficient software",
+      "security and privacy",
+      "computer science education",
+      "music informatics"
+    ],
+    "research_text": "systems end of software engineering, distributed systems and middleware, automated software transformation, mobile applications, energy efficient software, security and privacy, computer science education, music informatics",
+    "education": [
+      "2005: Ph.D., computer science, Georgia Tech",
+      "1999: M.S., information systems, New York University",
+      "1997: B.A., computer science and math, Pace University"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ali Vakilian",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "vakilian@vt.edu",
+    "phone": "(540) 231-5023",
+    "office": "Torgersen Hall, RM 3120A 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/ali-vakilian.html",
+    "personal_website": "http://www.mit.edu/~vakilian/",
+    "google_scholar": "http://scholar.google.com/citations?user=uXZaVaAAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "algorithmic foundations of machine learning",
+      "data science"
+    ],
+    "research_text": "algorithmic foundations of machine learning, data science",
+    "education": [
+      "2019: Ph.D., electrical engineering and computer science, Massachusetts Institute of Technology",
+      "2013: M.S., computer science, University of Illinois Urbana-Champaign",
+      "2011: B.Sc., electrical engineering, Sharif University of Technology, Iran"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Bimal Viswanath",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Associate Professor",
+    "email": "vbimal@cs.vt.edu",
+    "phone": "(540) 231-8702",
+    "office": "Gilbert Place, RM 4302 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/bimal-viswanath.html",
+    "personal_website": "https://people.cs.vt.edu/vbimal/",
+    "google_scholar": "https://scholar.google.de/citations?user=bu1SCOuD_CMC&hl=en&oi=ao",
+    "lab": "",
+    "research_interests": [
+      "security and privacy",
+      "machine learning",
+      "social computing"
+    ],
+    "research_text": "security and privacy, machine learning, social computing",
+    "education": [
+      "2016: Ph.D., computer science, Saarland University and Max Planck Institute for Software Systems, Germany",
+      "2008: M.S., computer science and engineering, Indian Institute of Technology Madras, Chennai, India",
+      "2005: B. Tech, computer science and engineering, Cochin University of Science and Technology, Kerala, India"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Tu Vu",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "tuvu@vt.edu",
+    "phone": "(540) 231-9804",
+    "office": "Data and Decision Sciences, RM 374 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/tu-vu.html",
+    "personal_website": "https://tuvllms.github.io",
+    "google_scholar": "https://scholar.google.com/citations?user=tOevwEEAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "natural language processing",
+      "large language models",
+      "transfer learning"
+    ],
+    "research_text": "natural language processing, large language models, transfer learning",
+    "education": [
+      "2023: Ph.D., computer science, University of Massachusetts, Amherst",
+      "2013: B.S., honors program in computer science, Vietnam National University, Hanoi"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Xuan Wang",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "xuanw@vt.edu",
+    "phone": "(540) 231-4061",
+    "office": "Data and Decision Sciences Building, RM 376 727 Prices Fork Rd. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/xuan-wang.html",
+    "personal_website": "https://xuanwang91.github.io/",
+    "google_scholar": "https://scholar.google.com/citations?user=_IVJi6UAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "data mining",
+      "natural language processing",
+      "biomedical text mining",
+      "biomedical informatics natural language processing"
+    ],
+    "research_text": "data mining, natural language processing, biomedical text mining, biomedical informatics natural language processing",
+    "education": [
+      "2022: Ph.D., computer science, University of Illinois at Urbana-Champaign",
+      "2017: M.S., statistics, University of Illinois at Urbana-Champaign",
+      "2015: M.S., biochemistry, University of Illinois at Urbana-Champaign",
+      "2013: B.S., biological science, Tsinghua University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Dan Williams",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "djwillia@vt.edu",
+    "phone": "(540) 231-0415",
+    "office": "Gilbert Place, RM 4207 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/dan-williams.html",
+    "personal_website": "https://people.cs.vt.edu/djwillia/",
+    "google_scholar": "https://scholar.google.com/citations?user=mu2x-1YAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "systems",
+      "operating systems kernels",
+      "virtualization",
+      "security"
+    ],
+    "research_text": "systems, operating systems kernels, virtualization, security",
+    "education": [
+      "2013: Ph.D. and M.S., computer science, Cornell University",
+      "2003: B.S. in computer science and B.A. in mathematics, University of Rochester"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Ihudiya Finda Williams",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "iogburu@vt.edu",
+    "phone": "(540) 231-5568",
+    "office": "Gilbert Place, RM 3109 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/ihudiya-finda-williams.html",
+    "personal_website": "https://reachlabcs.com",
+    "google_scholar": "https://scholar.google.com/citations?user=ezJ8nHkAAAAJ",
+    "lab": "",
+    "research_interests": [
+      "human-computer interaction",
+      "data analytics",
+      "information and communication technologies and development",
+      "computer science education",
+      "information visualization"
+    ],
+    "research_text": "human-computer interaction, data analytics, information and communication technologies and development, computer science education, information visualization",
+    "education": [
+      "2023: Ph.D., information science, University of Michigan",
+      "2015: M.Ed., technology, innovation, and education, Harvard University",
+      "2010: B.S., information technology, Rochester Institute of Technology"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Pinar Yanardag",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "pinary@vt.edu",
+    "phone": "(540) 231-6550",
+    "office": "Data and Decision Sciences Building, RM 474 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/pinar-yanardag.html",
+    "personal_website": "",
+    "google_scholar": "https://scholar.google.com/citations?user=qzczdd8AAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "graph kernels",
+      "submodular optimization",
+      "human-AI collaboration",
+      "augmented creativity",
+      "deep learning"
+    ],
+    "research_text": "graph kernels, submodular optimization, human-AI collaboration, augmented creativity, deep learning",
+    "education": [
+      "2016: Ph.D., computer science,Purdue University",
+      "2010: M.S., computer engineering,Bogazici University, Istanbul, Turkey",
+      "2007: B.S., computer engineering,Canakkale Onsekiz Mart University, Canakkale, Turkey"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Daphne Yao",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "danfeng@vt.edu",
+    "phone": "(540) 231-7787",
+    "office": "Gilbert Place, RM 4311B 220 Gilbert St. Blacksburg, VA 24060",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/daphne-yao.html",
+    "personal_website": "https://yaogroup.cs.vt.edu/",
+    "google_scholar": "https://scholar.google.com/citations?user=_JLQTKwAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "cybersecurity",
+      "program analysis",
+      "machine learning",
+      "algorithms",
+      "applied cryptography"
+    ],
+    "research_text": "cybersecurity, program analysis, machine learning, algorithms, applied cryptography",
+    "education": [
+      "2007, Ph.D., computer science, Brown University",
+      "2002: M.S., computer science, Indiana University",
+      "2000: M.A., chemistry, Princeton University",
+      "1998: B.S., chemistry, Peking University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Liqing Zhang",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Professor",
+    "email": "lqzhang@vt.edu",
+    "phone": "(540) 231-9413",
+    "office": "Torgersen Hall, RM 2160K 620 Drillfield Dr. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/liqing-zhang.html",
+    "personal_website": "https://research.cs.vt.edu/zhanglab/index.html",
+    "google_scholar": "https://scholar.google.com/citations?user=erM6KTMAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "bioinformatics",
+      "data analytics",
+      "machine learning"
+    ],
+    "research_text": "bioinformatics, data analytics, machine learning",
+    "education": [
+      "Ph.D., molecular evolution, University California, Irvine",
+      "B.S., biochemistry, Lanzhou University, China"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  },
+  {
+    "name": "Dawei Zhou",
+    "university": "Virginia Tech",
+    "department": "Computer Science",
+    "title": "Assistant Professor",
+    "email": "zhoud@vt.edu",
+    "phone": "(540) 231-2642",
+    "office": "Data and Decision Sciences Building, RM 484 727 Prices Fork Rd. Blacksburg, VA 24061",
+    "profile_url": "https://website.cs.vt.edu/people/faculty/dawei-zhou.html",
+    "personal_website": "https://sites.google.com/view/dawei-zhou/home",
+    "google_scholar": "https://scholar.google.com/citations?user=8dakqOgAAAAJ&hl=en",
+    "lab": "",
+    "research_interests": [
+      "scientific hypothesis generation and validation",
+      "cybersecurity",
+      "healthcare"
+    ],
+    "research_text": "scientific hypothesis generation and validation, cybersecurity, healthcare",
+    "education": [
+      "2021: Ph.D., computer science, University of Illinois at Urbana-Champaign",
+      "2014: M.S., electrical and computer engineering, University of Rochester",
+      "2012: B.S., electrical engineering, Nanjing University of Posts and Telecommunications"
+    ],
+    "biography": "",
+    "awards": [],
+    "publications": []
+  }
+]
