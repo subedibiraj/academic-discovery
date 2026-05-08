@@ -1,0 +1,598 @@
+[
+  {
+    "rank": 1,
+    "name": "James Caverlee",
+    "university": "Texas A&M University",
+    "research_text": "Web-scale information management, Distributed data-intensive systems, Information retrieval, Databases, Social Computing",
+    "semantic_score": 0.5883,
+    "relevant": true,
+    "notes": "Web-scale IR + data systems = direct match",
+    "grade": 2
+  },
+  {
+    "rank": 2,
+    "name": "Andrew McCallum",
+    "university": "UMass Amherst",
+    "research_text": "Machine Learning, Artificial Intelligence, Human Language Technologies",
+    "semantic_score": 0.5601,
+    "relevant": true,
+    "notes": "NLP/information extraction pioneer",
+    "grade": 2
+  },
+  {
+    "rank": 3,
+    "name": "Joseph Gonzalez",
+    "university": "UC Berkeley",
+    "research_text": "Artificial Intelligence (AI), Database Management Systems (DBMS), Operating Systems & Networking (OSNT)",
+    "semantic_score": 0.4904,
+    "relevant": false,
+    "notes": "More systems/infrastructure, not IR/NLP focused",
+    "grade": 0
+  },
+  {
+    "rank": 4,
+    "name": "Aditya Parameswaran",
+    "university": "UC Berkeley",
+    "research_text": "Database Management Systems (DBMS), Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+    "semantic_score": 0.49,
+    "relevant": true,
+    "notes": "Data management + interactive data exploration",
+    "grade": 2
+  },
+  {
+    "rank": 5,
+    "name": "Matei Zaharia",
+    "university": "UC Berkeley",
+    "research_text": "Operating Systems & Networking (OSNT), Artificial Intelligence (AI), Database Management Systems (DBMS)",
+    "semantic_score": 0.4596,
+    "relevant": true,
+    "notes": "Creator of Spark - data engineering pipelines",
+    "grade": 2
+  },
+  {
+    "rank": 6,
+    "name": "Ruihong Huang",
+    "university": "Texas A&M University",
+    "research_text": "Natural language processing (NLP), Information extraction, Machine learning, Artificial intelligence, Digital humanities",
+    "semantic_score": 0.4472,
+    "relevant": true,
+    "notes": "NLP + Information extraction = strong match",
+    "grade": 2
+  },
+  {
+    "rank": 7,
+    "name": "W. Bruce Croft",
+    "university": "UMass Amherst",
+    "research_text": "Artificial Intelligence, Human Language Technologies",
+    "semantic_score": 0.443,
+    "relevant": true,
+    "notes": "Legendary IR researcher",
+    "grade": 2
+  },
+  {
+    "rank": 8,
+    "name": "Khanh Nguyen",
+    "university": "Texas A&M University",
+    "research_text": "Programming languages, Compiler & runtime support, Memory management, Big data systems",
+    "semantic_score": 0.4379,
+    "relevant": false,
+    "notes": "PL/compilers, not your area",
+    "grade": 0
+  },
+  {
+    "rank": 9,
+    "name": "Laura Haas",
+    "university": "UMass Amherst",
+    "research_text": "Data Management",
+    "semantic_score": 0.4348,
+    "relevant": true,
+    "notes": "Data management/integration aligns with data engineering",
+    "grade": 2
+  },
+  {
+    "rank": 10,
+    "name": "Andrew Lan",
+    "university": "UMass Amherst",
+    "research_text": "Electronic Teaching, Artificial Intelligence",
+    "semantic_score": 0.4345,
+    "relevant": false,
+    "notes": "EdTech focus, not IR/data",
+    "grade": 0
+  },
+  {
+    "rank": 11,
+    "name": "Peter Haas",
+    "university": "UMass Amherst",
+    "research_text": "Data Management, Machine Learning",
+    "semantic_score": 0.4322,
+    "relevant": true,
+    "notes": "Data management + ML",
+    "grade": 2
+  },
+  {
+    "rank": 12,
+    "name": "Yu Zhang",
+    "university": "Texas A&M University",
+    "research_text": "Data mining, Natural language processing, Artificial intelligence (AI) for science",
+    "semantic_score": 0.421,
+    "relevant": true,
+    "notes": "Data mining + NLP = good match",
+    "grade": 2
+  },
+  {
+    "rank": 13,
+    "name": "Marco Serafini",
+    "university": "UMass Amherst",
+    "research_text": "Data Management, Networking and Distributed Systems, Software Systems and Architecture",
+    "semantic_score": 0.4179,
+    "relevant": false,
+    "notes": "Distributed systems, less data science/NLP",
+    "grade": 0
+  },
+  {
+    "rank": 14,
+    "name": "Neha Makhija",
+    "university": "UMass Amherst",
+    "research_text": "Data Management",
+    "semantic_score": 0.4104,
+    "relevant": true,
+    "notes": "Data management",
+    "grade": 2
+  },
+  {
+    "rank": 15,
+    "name": "Razieh Rahimi",
+    "university": "UMass Amherst",
+    "research_text": "Information Visualization, Artificial Intelligence",
+    "semantic_score": 0.3964,
+    "relevant": false,
+    "notes": "Visualization focused, not extraction/NLP",
+    "grade": 0
+  },
+  {
+    "rank": 16,
+    "name": "James Allan",
+    "university": "UMass Amherst",
+    "research_text": "Human Language Technologies, Artificial Intelligence, Data Management",
+    "semantic_score": 0.396,
+    "relevant": true,
+    "notes": "IR + NLP + Data = strong match",
+    "grade": 2
+  },
+  {
+    "rank": 17,
+    "name": "Ina Fiterau Brostean",
+    "university": "UMass Amherst",
+    "research_text": "Machine Learning, Artificial Intelligence, Health Informatics",
+    "semantic_score": 0.3934,
+    "relevant": false,
+    "notes": "Health informatics, not your domain",
+    "grade": 0
+  },
+  {
+    "rank": 18,
+    "name": "J. Eliot Moss",
+    "university": "UMass Amherst",
+    "research_text": "Machine Learning, Software Systems and Architecture",
+    "semantic_score": 0.3921,
+    "relevant": false,
+    "notes": "Systems architecture, not data/NLP",
+    "grade": 0
+  },
+  {
+    "rank": 19,
+    "name": "Kurt Keutzer",
+    "university": "UC Berkeley",
+    "research_text": "Artificial Intelligence (AI), Computer Architecture & Engineering (ARC), Scientific Computing (SCI)",
+    "semantic_score": 0.3921,
+    "relevant": false,
+    "notes": "Hardware/architecture focus",
+    "grade": 0
+  },
+  {
+    "rank": 20,
+    "name": "Ramesh Sitaraman",
+    "university": "UMass Amherst",
+    "research_text": "Theoretical Computer Science, Networking and Distributed Systems",
+    "semantic_score": 0.3889,
+    "relevant": false,
+    "notes": "Theory/networking, not applied data science",
+    "grade": 0
+  },
+  {
+    "rank": 21,
+    "name": "Thomas R. Ioerger",
+    "university": "Texas A&M University",
+    "research_text": "Artificial intelligence, Machine learning, Intelligent agents, Bioinformatics",
+    "semantic_score": 0.386,
+    "relevant": false,
+    "notes": "Bioinformatics focus",
+    "grade": 0
+  },
+  {
+    "rank": 22,
+    "name": "Emery Berger",
+    "university": "UMass Amherst",
+    "research_text": "Software Systems and Architecture, Artificial Intelligence, Security and Privacy",
+    "semantic_score": 0.3848,
+    "relevant": false,
+    "notes": "Systems/security, not data/NLP",
+    "grade": 0
+  },
+  {
+    "rank": 23,
+    "name": "Dan Sheldon",
+    "university": "UMass Amherst",
+    "research_text": "Computational Biology and Bioinformatics, Machine Learning, Artificial Intelligence",
+    "semantic_score": 0.3823,
+    "relevant": false,
+    "notes": "Computational biology, not your area",
+    "grade": 0
+  },
+  {
+    "rank": 24,
+    "name": "Alvin Cheung",
+    "university": "UC Berkeley",
+    "research_text": "Database Management Systems (DBMS), Programming Systems (PS)",
+    "semantic_score": 0.3804,
+    "relevant": false,
+    "notes": "DB/PL theory, not applied data science",
+    "grade": 0
+  },
+  {
+    "rank": 25,
+    "name": "Hamed Zamani",
+    "university": "UMass Amherst",
+    "research_text": "Artificial Intelligence, Machine Learning",
+    "semantic_score": 0.3795,
+    "relevant": true,
+    "notes": "Known for information retrieval research",
+    "grade": 2
+  },
+  {
+    "rank": 26,
+    "name": "David Bamman",
+    "university": "UC Berkeley",
+    "research_text": "",
+    "semantic_score": 0.3794,
+    "relevant": true,
+    "notes": "Computational linguistics + NLP researcher",
+    "grade": 2
+  },
+  {
+    "rank": 27,
+    "name": "Andrew McGregor",
+    "university": "UMass Amherst",
+    "research_text": "Theoretical Computer Science",
+    "semantic_score": 0.3794,
+    "relevant": false,
+    "notes": "Pure theory",
+    "grade": 0
+  },
+  {
+    "rank": 28,
+    "name": "Sewon Min",
+    "university": "UC Berkeley",
+    "research_text": "Artificial Intelligence (AI)",
+    "semantic_score": 0.3757,
+    "relevant": false,
+    "notes": "NLP/LLM but very different focus area",
+    "grade": 0
+  },
+  {
+    "rank": 29,
+    "name": "Hui Guan",
+    "university": "UMass Amherst",
+    "research_text": "Machine Learning, Artificial Intelligence",
+    "semantic_score": 0.3751,
+    "relevant": false,
+    "notes": "ML systems optimization, not data/NLP",
+    "grade": 0
+  },
+  {
+    "rank": 30,
+    "name": "Marti Hearst",
+    "university": "UC Berkeley",
+    "research_text": "Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+    "semantic_score": 0.3719,
+    "relevant": true,
+    "notes": "Known for text mining and search interfaces",
+    "grade": 2
+  },
+  {
+    "name": "Daniel P. Miranker",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Semantic Web and the application of machine learning methods to automate data integration, Health Informatics, Data Virt",
+    "relevant": true,
+    "grade": 2,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Kia Teymourian",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Database Systems, Data Analytics, Distributed Event-Based Systems, Data Stream Processing, Knowledge-based Complex Event",
+    "relevant": true,
+    "grade": 2,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Samson Zhou",
+    "university": "Texas A&M University",
+    "research_snippet": "Algorithms and theory, Data science, Machine learning",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Greg Durrett",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "David Harwath",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Artificial Intelligence, Computer Vision, Machine Learning, Natural Language Processing",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Fatma Tarlaci",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Natural Language Understanding & Large Language Models, Data Science & Machine Learning, Scientific Computing, Computer ",
+    "relevant": true,
+    "grade": 1,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Yizhong Wang",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Ahmad Esmaili",
+    "university": "Stony Brook University",
+    "research_snippet": "AI Tools in Teaching and Learning, Algorithm Design and Analysis, Web and Cloud-Based Technologies, Information Systems ",
+    "relevant": true,
+    "grade": 1,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Niranjan Balasubramanian",
+    "university": "Stony Brook University",
+    "research_snippet": "Natural Language Processing (NLP) and information retrieval.",
+    "relevant": true,
+    "grade": 1,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Inderjit Dhillon",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Artificial Intelligence, Bioinformatics and Computational Biology, Machine Learning, Scientific Computing",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Raymond Mooney",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Natural Language Learning, Connecting Language and Perception, Statistical Relational Learning, Information Extraction, ",
+    "relevant": true,
+    "grade": 2,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Praveen Tripathi",
+    "university": "Stony Brook University",
+    "research_snippet": "Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.",
+    "relevant": true,
+    "grade": 1,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Ritwik Banerjee",
+    "university": "Stony Brook University",
+    "research_snippet": "Natural Language Processing (NLP), Computational Linguistics, Information Extraction",
+    "relevant": true,
+    "grade": 1,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Shuiwang Ji",
+    "university": "Texas A&M University",
+    "research_snippet": "Machine learning, Artificial intelligence (AI) for science and engineering, Language models and agents",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Paul Fodor",
+    "university": "Stony Brook University",
+    "research_snippet": "Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, Knowledge Representat",
+    "relevant": true,
+    "grade": 2,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Grant Van Horn",
+    "university": "UMass Amherst",
+    "research_snippet": "Machine Learning, Artificial Intelligence, Robotics, Computer Vision, and Graphics",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Matthew Lease",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Information Retrieval (IR), Crowdsourcing, Natural Language Processing (NLP)",
+    "relevant": true,
+    "grade": 1,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Lisa Yan",
+    "university": "UC Berkeley",
+    "research_snippet": "Education (EDUC)",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Leqi Liu",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Machine Learning",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Elias Stengel-Eskin",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Alan Kuhnle",
+    "university": "Texas A&M University",
+    "research_snippet": "Algorithms and theory, Machine learning, Data science, Combinatorial optimization",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Dixin Tang",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Databases, Systems and Networking",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Alane Suhr",
+    "university": "UC Berkeley",
+    "research_snippet": "Artificial Intelligence (AI)",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Jacob Steinhardt",
+    "university": "UC Berkeley",
+    "research_snippet": "Artificial Intelligence (AI), Information, Data, Network, and Communication Sciences (IDNCS)",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "John DeNero",
+    "university": "UC Berkeley",
+    "research_snippet": "Artificial Intelligence (AI), Education (EDUC)",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Kevin Tian",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Machine Learning, Theoretical Computer Science",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Joydeep Ghosh",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Decision, Information, and Communications Engineering (DICE), Software Engineering and Systems, Adaptive multi-learner s",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Erik Learned-Miller",
+    "university": "UMass Amherst",
+    "research_snippet": "Machine Learning, Robotics, Computer Vision, and Graphics, Computational Biology and Bioinformatics, Artificial Intellig",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Daniel Klein",
+    "university": "UC Berkeley",
+    "research_snippet": "Artificial Intelligence (AI)",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Qixing Huang",
+    "university": "University of Texas at Austin",
+    "research_snippet": "Artificial Intelligence, Computer Vision, Graphics and Visualization",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Cheng Zhang",
+    "university": "Texas A&M University",
+    "research_snippet": "Computer vision, Computer graphics, Machine learning, Artificial intelligence",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Tomer Galanti",
+    "university": "Texas A&M University",
+    "research_snippet": "Machine and deep learning, Large language models, Artificial intelligence",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Kuan-Hao Huang",
+    "university": "Texas A&M University",
+    "research_snippet": "Natural language processing, Large language models, Vision-language models, Multilingual understanding",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Scott Niekum",
+    "university": "UMass Amherst",
+    "research_snippet": "Artificial Intelligence, Robotics, Computer Vision, and Graphics, Machine Learning",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Nika Haghtalab",
+    "university": "UC Berkeley",
+    "research_snippet": "Artificial Intelligence (AI), Theory (THY)",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Alexandra Meliou",
+    "university": "UMass Amherst",
+    "research_snippet": "Data Management",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  },
+  {
+    "name": "Alexei (Alyosha) Efros",
+    "university": "UC Berkeley",
+    "research_snippet": "Artificial Intelligence (AI), Graphics (GR)",
+    "relevant": false,
+    "grade": 0,
+    "notes": "auto-labeled"
+  }
+]

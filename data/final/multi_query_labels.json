@@ -1,0 +1,485 @@
+{
+  "Q2_cv_robotics": [
+    {
+      "name": "Sergey Levine",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Trevor Darrell",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Stella Yu",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Pieter Abbeel",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Scott Niekum",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Donghyun Kim",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Vangelis Kalogerakis",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Ruoshi Liu",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Ruohan Gao",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Roberto Martin-Martin",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Qixing Huang",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Philipp Kr\u00e4henb\u00fchl",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Roger Eastman",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Subhransu Maji",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Hao Zhang",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Peter Stone",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Shawna Thomas",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Bruno Castro da Silva",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Soheil Feizi",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Tom Goldstein",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Ali Ghodsi",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Joseph Gonzalez",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Stuart J. Russell",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Tim Davis",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Mingyuan Zhou",
+      "grade": 0,
+      "relevant": false
+    }
+  ],
+  "Q3_security_privacy": [
+    {
+      "name": "Bradley Reaves",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Yizheng Chen",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Nitesh Saxena",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "David Wagner",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Amir Rahmati",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Alessandra Scafuro",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Raluca Ada Popa",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Nick Nikiforakis",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Radu Sion",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "William Enck",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Wenjing Lou",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Marina Blanton,PhD",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Ian Miers",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Pubali Datta",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Marius Minea",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Brent Waters",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Michelle Mazurek",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Jianqing Liu",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Yanlai Wu",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Wujie Wen",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Pete Keleher",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Michael Marsh",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "William Regli",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Seth Nielson",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Shravan Narayan",
+      "grade": 0,
+      "relevant": false
+    }
+  ],
+  "Q4_systems_distributed": [
+    {
+      "name": "Frank Mueller",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Erez Zadok",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Xiaohui (Helen) Gu",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Jiajia Li",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Ali Ghodsi",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Ion Stoica",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Matei Zaharia",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Prashant Shenoy",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Dilma Da Silva",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Marco Serafini",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Huaicheng Li",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Ki Hwan Yum",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Daniel Abadi",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Xipeng (Gracen) Shen",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Eun Jung \"EJ\" Kim",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Michael Ferdman",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Michael Bender",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Yuriy Brun",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Man-Ki Yoon",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Hyunyoung Lee",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Tom Goldstein",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Ranga Raju Vatsavai",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Joseph Gonzalez",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Kemafor Anyanwu Ogan",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Ruozhou Yu",
+      "grade": 0,
+      "relevant": false
+    }
+  ],
+  "Q5_bio_health": [
+    {
+      "name": "Anna Green",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Mihai Pop",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Ilias Georgakopoulos-Soares",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Nilah Ioannidis",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Irene Chen",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Richard M. Karp",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Hava Siegelmann",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Steffen Heber",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Zhaozheng Yin",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Debswapna Bhattacharya",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Jing Li",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Lenore Cowen",
+      "grade": 2,
+      "relevant": true
+    },
+    {
+      "name": "Tamer Kahveci",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Ruohan Gao",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Vagelis Papalexakis",
+      "grade": 1,
+      "relevant": true
+    },
+    {
+      "name": "Pieter Abbeel",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Anna Rumshisky",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Hao Zhang",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Sergey Levine",
+      "grade": 0,
+      "relevant": false
+    },
+    {
+      "name": "Stuart J. Russell",
+      "grade": 0,
+      "relevant": false
+    }
+  ]
+}
