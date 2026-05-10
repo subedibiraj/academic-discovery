@@ -1,0 +1,1035 @@
+{
+  "jaccard": {
+    "tp": 2,
+    "fp": 2,
+    "fn": 22,
+    "false_positives": [
+      {
+        "name": "David Harwath",
+        "rank": 10,
+        "score": 0.1264,
+        "research": "Artificial Intelligence, Computer Vision, Machine Learning, Natural Language Processing",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Greg Durrett",
+        "rank": 2,
+        "score": 0.1522,
+        "research": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+        "university": "University of Texas at Austin"
+      }
+    ],
+    "false_negatives": [
+      {
+        "name": "Aditya Parameswaran",
+        "rank": 397,
+        "score": 0.0367,
+        "research": "Database Management Systems (DBMS), Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Ahmad Esmaili",
+        "rank": 83,
+        "score": 0.0779,
+        "research": "AI Tools in Teaching and Learning, Algorithm Design and Analysis, Web and Cloud-Based Technologies, ",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Daniel P. Miranker",
+        "rank": 74,
+        "score": 0.0805,
+        "research": "Semantic Web and the application of machine learning methods to automate data integration, Health In",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "David Bamman",
+        "rank": 11,
+        "score": 0.1264,
+        "research": "",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Fatma Tarlaci",
+        "rank": 24,
+        "score": 0.1078,
+        "research": "Natural Language Understanding & Large Language Models, Data Science & Machine Learning, Scientific ",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Hamed Zamani",
+        "rank": 152,
+        "score": 0.0638,
+        "research": "Artificial Intelligence, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "James Allan",
+        "rank": 125,
+        "score": 0.0686,
+        "research": "Human Language Technologies, Artificial Intelligence, Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "James Caverlee",
+        "rank": 75,
+        "score": 0.0794,
+        "research": "Web-scale information management, Distributed data-intensive systems, Information retrieval, Databas",
+        "university": "Texas A&M University"
+      },
+      {
+        "name": "Kia Teymourian",
+        "rank": 25,
+        "score": 0.1064,
+        "research": "Database Systems, Data Analytics, Distributed Event-Based Systems, Data Stream Processing, Knowledge",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Laura Haas",
+        "rank": 216,
+        "score": 0.0543,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Marti Hearst",
+        "rank": 177,
+        "score": 0.0612,
+        "research": "Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matei Zaharia",
+        "rank": 394,
+        "score": 0.0377,
+        "research": "Operating Systems & Networking (OSNT), Artificial Intelligence (AI), Database Management Systems (DB",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matthew Lease",
+        "rank": 20,
+        "score": 0.1124,
+        "research": "Information Retrieval (IR), Crowdsourcing, Natural Language Processing (NLP)",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Neha Makhija",
+        "rank": 443,
+        "score": 0.0323,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Niranjan Balasubramanian",
+        "rank": 26,
+        "score": 0.1047,
+        "research": "Natural Language Processing (NLP) and information retrieval.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Paul Fodor",
+        "rank": 103,
+        "score": 0.0737,
+        "research": "Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, K",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Peter Haas",
+        "rank": 209,
+        "score": 0.0562,
+        "research": "Data Management, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Praveen Tripathi",
+        "rank": 290,
+        "score": 0.0476,
+        "research": "Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Raymond Mooney",
+        "rank": 38,
+        "score": 0.0909,
+        "research": "Natural Language Learning, Connecting Language and Perception, Statistical Relational Learning, Info",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Ritwik Banerjee",
+        "rank": 36,
+        "score": 0.092,
+        "research": "Natural Language Processing (NLP), Computational Linguistics, Information Extraction",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "W. Bruce Croft",
+        "rank": 170,
+        "score": 0.0619,
+        "research": "Artificial Intelligence, Human Language Technologies",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Yu Zhang",
+        "rank": 65,
+        "score": 0.082,
+        "research": "Data mining, Natural language processing, Artificial intelligence (AI) for science",
+        "university": "Texas A&M University"
+      }
+    ],
+    "fp_universities": [
+      "University of Texas at Austin"
+    ],
+    "fn_universities": [
+      "University of Texas at Austin",
+      "Stony Brook University",
+      "UMass Amherst",
+      "Texas A&M University",
+      "UC Berkeley"
+    ]
+  },
+  "tfidf": {
+    "tp": 1,
+    "fp": 0,
+    "fn": 23,
+    "false_positives": [],
+    "false_negatives": [
+      {
+        "name": "Aditya Parameswaran",
+        "rank": 288,
+        "score": 0.0475,
+        "research": "Database Management Systems (DBMS), Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Ahmad Esmaili",
+        "rank": 49,
+        "score": 0.1367,
+        "research": "AI Tools in Teaching and Learning, Algorithm Design and Analysis, Web and Cloud-Based Technologies, ",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Andrew McCallum",
+        "rank": 23,
+        "score": 0.188,
+        "research": "Machine Learning, Artificial Intelligence, Human Language Technologies",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Daniel P. Miranker",
+        "rank": 20,
+        "score": 0.2093,
+        "research": "Semantic Web and the application of machine learning methods to automate data integration, Health In",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "David Bamman",
+        "rank": 46,
+        "score": 0.1377,
+        "research": "",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Fatma Tarlaci",
+        "rank": 48,
+        "score": 0.1369,
+        "research": "Natural Language Understanding & Large Language Models, Data Science & Machine Learning, Scientific ",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Hamed Zamani",
+        "rank": 90,
+        "score": 0.1,
+        "research": "Artificial Intelligence, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "James Allan",
+        "rank": 210,
+        "score": 0.063,
+        "research": "Human Language Technologies, Artificial Intelligence, Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Kia Teymourian",
+        "rank": 32,
+        "score": 0.1614,
+        "research": "Database Systems, Data Analytics, Distributed Event-Based Systems, Data Stream Processing, Knowledge",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Laura Haas",
+        "rank": 302,
+        "score": 0.0446,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Marti Hearst",
+        "rank": 272,
+        "score": 0.0512,
+        "research": "Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matei Zaharia",
+        "rank": 296,
+        "score": 0.0459,
+        "research": "Operating Systems & Networking (OSNT), Artificial Intelligence (AI), Database Management Systems (DB",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matthew Lease",
+        "rank": 117,
+        "score": 0.09,
+        "research": "Information Retrieval (IR), Crowdsourcing, Natural Language Processing (NLP)",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Neha Makhija",
+        "rank": 79,
+        "score": 0.1058,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Niranjan Balasubramanian",
+        "rank": 58,
+        "score": 0.1264,
+        "research": "Natural Language Processing (NLP) and information retrieval.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Paul Fodor",
+        "rank": 134,
+        "score": 0.0828,
+        "research": "Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, K",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Peter Haas",
+        "rank": 166,
+        "score": 0.0753,
+        "research": "Data Management, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Praveen Tripathi",
+        "rank": 26,
+        "score": 0.1766,
+        "research": "Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Raymond Mooney",
+        "rank": 70,
+        "score": 0.1157,
+        "research": "Natural Language Learning, Connecting Language and Perception, Statistical Relational Learning, Info",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Ritwik Banerjee",
+        "rank": 50,
+        "score": 0.1363,
+        "research": "Natural Language Processing (NLP), Computational Linguistics, Information Extraction",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Ruihong Huang",
+        "rank": 15,
+        "score": 0.2198,
+        "research": "Natural language processing (NLP), Information extraction, Machine learning, Artificial intelligence",
+        "university": "Texas A&M University"
+      },
+      {
+        "name": "W. Bruce Croft",
+        "rank": 106,
+        "score": 0.0921,
+        "research": "Artificial Intelligence, Human Language Technologies",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Yu Zhang",
+        "rank": 24,
+        "score": 0.1845,
+        "research": "Data mining, Natural language processing, Artificial intelligence (AI) for science",
+        "university": "Texas A&M University"
+      }
+    ],
+    "fp_universities": [],
+    "fn_universities": [
+      "University of Texas at Austin",
+      "Stony Brook University",
+      "UMass Amherst",
+      "Texas A&M University",
+      "UC Berkeley"
+    ]
+  },
+  "bm25": {
+    "tp": 3,
+    "fp": 1,
+    "fn": 21,
+    "false_positives": [
+      {
+        "name": "Greg Durrett",
+        "rank": 5,
+        "score": 37.7265,
+        "research": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+        "university": "University of Texas at Austin"
+      }
+    ],
+    "false_negatives": [
+      {
+        "name": "Aditya Parameswaran",
+        "rank": 232,
+        "score": 12.464,
+        "research": "Database Management Systems (DBMS), Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Ahmad Esmaili",
+        "rank": 23,
+        "score": 28.8423,
+        "research": "AI Tools in Teaching and Learning, Algorithm Design and Analysis, Web and Cloud-Based Technologies, ",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "David Bamman",
+        "rank": 16,
+        "score": 30.8921,
+        "research": "",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Fatma Tarlaci",
+        "rank": 26,
+        "score": 27.8037,
+        "research": "Natural Language Understanding & Large Language Models, Data Science & Machine Learning, Scientific ",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Hamed Zamani",
+        "rank": 107,
+        "score": 18.4129,
+        "research": "Artificial Intelligence, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "James Allan",
+        "rank": 132,
+        "score": 17.2489,
+        "research": "Human Language Technologies, Artificial Intelligence, Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Kia Teymourian",
+        "rank": 13,
+        "score": 32.5078,
+        "research": "Database Systems, Data Analytics, Distributed Event-Based Systems, Data Stream Processing, Knowledge",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Laura Haas",
+        "rank": 186,
+        "score": 14.8642,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Marti Hearst",
+        "rank": 205,
+        "score": 13.5974,
+        "research": "Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matei Zaharia",
+        "rank": 238,
+        "score": 12.1862,
+        "research": "Operating Systems & Networking (OSNT), Artificial Intelligence (AI), Database Management Systems (DB",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matthew Lease",
+        "rank": 44,
+        "score": 23.9123,
+        "research": "Information Retrieval (IR), Crowdsourcing, Natural Language Processing (NLP)",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Neha Makhija",
+        "rank": 108,
+        "score": 18.4009,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Niranjan Balasubramanian",
+        "rank": 29,
+        "score": 27.2053,
+        "research": "Natural Language Processing (NLP) and information retrieval.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Paul Fodor",
+        "rank": 51,
+        "score": 22.4558,
+        "research": "Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, K",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Peter Haas",
+        "rank": 145,
+        "score": 16.7753,
+        "research": "Data Management, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Praveen Tripathi",
+        "rank": 103,
+        "score": 18.6922,
+        "research": "Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Raymond Mooney",
+        "rank": 34,
+        "score": 25.8003,
+        "research": "Natural Language Learning, Connecting Language and Perception, Statistical Relational Learning, Info",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Ritwik Banerjee",
+        "rank": 28,
+        "score": 27.5169,
+        "research": "Natural Language Processing (NLP), Computational Linguistics, Information Extraction",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Ruihong Huang",
+        "rank": 12,
+        "score": 33.0308,
+        "research": "Natural language processing (NLP), Information extraction, Machine learning, Artificial intelligence",
+        "university": "Texas A&M University"
+      },
+      {
+        "name": "W. Bruce Croft",
+        "rank": 49,
+        "score": 22.7611,
+        "research": "Artificial Intelligence, Human Language Technologies",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Yu Zhang",
+        "rank": 46,
+        "score": 23.5171,
+        "research": "Data mining, Natural language processing, Artificial intelligence (AI) for science",
+        "university": "Texas A&M University"
+      }
+    ],
+    "fp_universities": [
+      "University of Texas at Austin"
+    ],
+    "fn_universities": [
+      "University of Texas at Austin",
+      "Stony Brook University",
+      "UMass Amherst",
+      "Texas A&M University",
+      "UC Berkeley"
+    ]
+  },
+  "semantic": {
+    "tp": 5,
+    "fp": 2,
+    "fn": 19,
+    "false_positives": [
+      {
+        "name": "Joseph Gonzalez",
+        "rank": 10,
+        "score": 0.5153,
+        "research": "Artificial Intelligence (AI), Database Management Systems (DBMS), Operating Systems & Networking (OS",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Yizhong Wang",
+        "rank": 5,
+        "score": 0.5364,
+        "research": "Artificial Intelligence, Machine Learning, Natural Language Processing",
+        "university": "University of Texas at Austin"
+      }
+    ],
+    "false_negatives": [
+      {
+        "name": "Aditya Parameswaran",
+        "rank": 15,
+        "score": 0.4902,
+        "research": "Database Management Systems (DBMS), Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Ahmad Esmaili",
+        "rank": 64,
+        "score": 0.427,
+        "research": "AI Tools in Teaching and Learning, Algorithm Design and Analysis, Web and Cloud-Based Technologies, ",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "David Bamman",
+        "rank": 71,
+        "score": 0.42,
+        "research": "",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Fatma Tarlaci",
+        "rank": 45,
+        "score": 0.4442,
+        "research": "Natural Language Understanding & Large Language Models, Data Science & Machine Learning, Scientific ",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Hamed Zamani",
+        "rank": 31,
+        "score": 0.4597,
+        "research": "Artificial Intelligence, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "James Allan",
+        "rank": 22,
+        "score": 0.4761,
+        "research": "Human Language Technologies, Artificial Intelligence, Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Laura Haas",
+        "rank": 55,
+        "score": 0.4349,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Marti Hearst",
+        "rank": 80,
+        "score": 0.4108,
+        "research": "Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matei Zaharia",
+        "rank": 38,
+        "score": 0.4513,
+        "research": "Operating Systems & Networking (OSNT), Artificial Intelligence (AI), Database Management Systems (DB",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matthew Lease",
+        "rank": 35,
+        "score": 0.4553,
+        "research": "Information Retrieval (IR), Crowdsourcing, Natural Language Processing (NLP)",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Neha Makhija",
+        "rank": 93,
+        "score": 0.4046,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Niranjan Balasubramanian",
+        "rank": 43,
+        "score": 0.4452,
+        "research": "Natural Language Processing (NLP) and information retrieval.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Paul Fodor",
+        "rank": 25,
+        "score": 0.4667,
+        "research": "Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, K",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Peter Haas",
+        "rank": 62,
+        "score": 0.4295,
+        "research": "Data Management, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Praveen Tripathi",
+        "rank": 232,
+        "score": 0.3267,
+        "research": "Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Raymond Mooney",
+        "rank": 51,
+        "score": 0.4391,
+        "research": "Natural Language Learning, Connecting Language and Perception, Statistical Relational Learning, Info",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Ritwik Banerjee",
+        "rank": 73,
+        "score": 0.4184,
+        "research": "Natural Language Processing (NLP), Computational Linguistics, Information Extraction",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "W. Bruce Croft",
+        "rank": 18,
+        "score": 0.4862,
+        "research": "Artificial Intelligence, Human Language Technologies",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Yu Zhang",
+        "rank": 14,
+        "score": 0.4936,
+        "research": "Data mining, Natural language processing, Artificial intelligence (AI) for science",
+        "university": "Texas A&M University"
+      }
+    ],
+    "fp_universities": [
+      "UC Berkeley",
+      "University of Texas at Austin"
+    ],
+    "fn_universities": [
+      "University of Texas at Austin",
+      "Stony Brook University",
+      "UMass Amherst",
+      "Texas A&M University",
+      "UC Berkeley"
+    ]
+  },
+  "hybrid": {
+    "tp": 4,
+    "fp": 0,
+    "fn": 20,
+    "false_positives": [],
+    "false_negatives": [
+      {
+        "name": "Aditya Parameswaran",
+        "rank": 64,
+        "score": 0.5649,
+        "research": "Database Management Systems (DBMS), Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Ahmad Esmaili",
+        "rank": 39,
+        "score": 0.6079,
+        "research": "AI Tools in Teaching and Learning, Algorithm Design and Analysis, Web and Cloud-Based Technologies, ",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "David Bamman",
+        "rank": 41,
+        "score": 0.602,
+        "research": "",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Fatma Tarlaci",
+        "rank": 33,
+        "score": 0.626,
+        "research": "Natural Language Understanding & Large Language Models, Data Science & Machine Learning, Scientific ",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Hamed Zamani",
+        "rank": 44,
+        "score": 0.5972,
+        "research": "Artificial Intelligence, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "James Allan",
+        "rank": 61,
+        "score": 0.5691,
+        "research": "Human Language Technologies, Artificial Intelligence, Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Kia Teymourian",
+        "rank": 11,
+        "score": 0.7802,
+        "research": "Database Systems, Data Analytics, Distributed Event-Based Systems, Data Stream Processing, Knowledge",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Laura Haas",
+        "rank": 115,
+        "score": 0.5042,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Marti Hearst",
+        "rank": 129,
+        "score": 0.4873,
+        "research": "Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matei Zaharia",
+        "rank": 103,
+        "score": 0.5227,
+        "research": "Operating Systems & Networking (OSNT), Artificial Intelligence (AI), Database Management Systems (DB",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matthew Lease",
+        "rank": 54,
+        "score": 0.5804,
+        "research": "Information Retrieval (IR), Crowdsourcing, Natural Language Processing (NLP)",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Neha Makhija",
+        "rank": 80,
+        "score": 0.5472,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Niranjan Balasubramanian",
+        "rank": 37,
+        "score": 0.6143,
+        "research": "Natural Language Processing (NLP) and information retrieval.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Paul Fodor",
+        "rank": 52,
+        "score": 0.5834,
+        "research": "Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, K",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Peter Haas",
+        "rank": 88,
+        "score": 0.5359,
+        "research": "Data Management, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Praveen Tripathi",
+        "rank": 74,
+        "score": 0.5528,
+        "research": "Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Raymond Mooney",
+        "rank": 46,
+        "score": 0.595,
+        "research": "Natural Language Learning, Connecting Language and Perception, Statistical Relational Learning, Info",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Ritwik Banerjee",
+        "rank": 42,
+        "score": 0.5985,
+        "research": "Natural Language Processing (NLP), Computational Linguistics, Information Extraction",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "W. Bruce Croft",
+        "rank": 36,
+        "score": 0.615,
+        "research": "Artificial Intelligence, Human Language Technologies",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Yu Zhang",
+        "rank": 17,
+        "score": 0.735,
+        "research": "Data mining, Natural language processing, Artificial intelligence (AI) for science",
+        "university": "Texas A&M University"
+      }
+    ],
+    "fp_universities": [],
+    "fn_universities": [
+      "University of Texas at Austin",
+      "Stony Brook University",
+      "UMass Amherst",
+      "Texas A&M University",
+      "UC Berkeley"
+    ]
+  },
+  "reranked": {
+    "tp": 5,
+    "fp": 0,
+    "fn": 19,
+    "false_positives": [],
+    "false_negatives": [
+      {
+        "name": "Aditya Parameswaran",
+        "rank": 60,
+        "score": 0.5864,
+        "research": "Database Management Systems (DBMS), Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Ahmad Esmaili",
+        "rank": 33,
+        "score": 0.6438,
+        "research": "AI Tools in Teaching and Learning, Algorithm Design and Analysis, Web and Cloud-Based Technologies, ",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "David Bamman",
+        "rank": 32,
+        "score": 0.6449,
+        "research": "",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Fatma Tarlaci",
+        "rank": 26,
+        "score": 0.6579,
+        "research": "Natural Language Understanding & Large Language Models, Data Science & Machine Learning, Scientific ",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Hamed Zamani",
+        "rank": 46,
+        "score": 0.6135,
+        "research": "Artificial Intelligence, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "James Allan",
+        "rank": 54,
+        "score": 0.6003,
+        "research": "Human Language Technologies, Artificial Intelligence, Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Laura Haas",
+        "rank": 103,
+        "score": 0.5361,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Marti Hearst",
+        "rank": 128,
+        "score": 0.5111,
+        "research": "Human-Computer Interaction (HCI), Artificial Intelligence (AI)",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matei Zaharia",
+        "rank": 95,
+        "score": 0.544,
+        "research": "Operating Systems & Networking (OSNT), Artificial Intelligence (AI), Database Management Systems (DB",
+        "university": "UC Berkeley"
+      },
+      {
+        "name": "Matthew Lease",
+        "rank": 41,
+        "score": 0.6223,
+        "research": "Information Retrieval (IR), Crowdsourcing, Natural Language Processing (NLP)",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Neha Makhija",
+        "rank": 82,
+        "score": 0.5604,
+        "research": "Data Management",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Niranjan Balasubramanian",
+        "rank": 31,
+        "score": 0.6494,
+        "research": "Natural Language Processing (NLP) and information retrieval.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Paul Fodor",
+        "rank": 40,
+        "score": 0.6237,
+        "research": "Artificial Intelligence, Natural Language Processing, Logic Programming, Complex Event Processing, K",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Peter Haas",
+        "rank": 84,
+        "score": 0.559,
+        "research": "Data Management, Machine Learning",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Praveen Tripathi",
+        "rank": 108,
+        "score": 0.5302,
+        "research": "Machine learning, Data mining, Spatio-temporal data analysis, Time series data analysis.",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "Raymond Mooney",
+        "rank": 37,
+        "score": 0.6305,
+        "research": "Natural Language Learning, Connecting Language and Perception, Statistical Relational Learning, Info",
+        "university": "University of Texas at Austin"
+      },
+      {
+        "name": "Ritwik Banerjee",
+        "rank": 38,
+        "score": 0.6297,
+        "research": "Natural Language Processing (NLP), Computational Linguistics, Information Extraction",
+        "university": "Stony Brook University"
+      },
+      {
+        "name": "W. Bruce Croft",
+        "rank": 28,
+        "score": 0.6515,
+        "research": "Artificial Intelligence, Human Language Technologies",
+        "university": "UMass Amherst"
+      },
+      {
+        "name": "Yu Zhang",
+        "rank": 20,
+        "score": 0.7262,
+        "research": "Data mining, Natural language processing, Artificial intelligence (AI) for science",
+        "university": "Texas A&M University"
+      }
+    ],
+    "fp_universities": [],
+    "fn_universities": [
+      "University of Texas at Austin",
+      "Stony Brook University",
+      "UMass Amherst",
+      "Texas A&M University",
+      "UC Berkeley"
+    ]
+  },
+  "cross_method": {
+    "missed_by_all": [
+      "Aditya Parameswaran",
+      "Ahmad Esmaili",
+      "David Bamman",
+      "Fatma Tarlaci",
+      "Hamed Zamani",
+      "James Allan",
+      "Laura Haas",
+      "Marti Hearst",
+      "Matei Zaharia",
+      "Matthew Lease",
+      "Neha Makhija",
+      "Niranjan Balasubramanian",
+      "Paul Fodor",
+      "Peter Haas",
+      "Praveen Tripathi",
+      "Raymond Mooney",
+      "Ritwik Banerjee",
+      "W. Bruce Croft",
+      "Yu Zhang"
+    ],
+    "count_missed_by_all": 19
+  }
+}
