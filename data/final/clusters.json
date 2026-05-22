@@ -1,0 +1,5668 @@
+{
+  "config": {
+    "n_clusters": 10,
+    "umap_neighbors": 15,
+    "umap_min_dist": 0.2,
+    "total_professors": 768
+  },
+  "my_interest": "I am interested in large-scale web data collection and information extraction \nsystems, web crawling and browser automation for structured data acquisition, \ndata engineering pipelines for cleaning and transforming heterogeneous data \nformats (JSON, CSV, Parquet). I have experience applying NLP and machine \nlearning to real-world problems including speech recognition with Whisper \nfor low-resource languages and computer vision for image colorization. \nI want to work on intelligent systems that automatically discover, extract, \nand organize knowledge from unstructured web and text data, with applications \nin information retrieval, natural language processing, and applied machine \nlearning for data science.",
+  "my_position": {
+    "umap_x": 12.419259071350098,
+    "umap_y": 8.128494262695312
+  },
+  "clusters": {
+    "0": {
+      "label": "Programming Languages / Computer Architecture / Software Engineering",
+      "top_terms": [
+        "programming languages",
+        "computer architecture",
+        "software engineering",
+        "distributed systems",
+        "databases",
+        "mobile computing",
+        "database management systems",
+        "programming systems"
+      ],
+      "size": 79,
+      "universities": {
+        "UC Berkeley": 8,
+        "Stony Brook University": 1,
+        "Texas A&M University": 14,
+        "University at Buffalo": 19,
+        "UMass Amherst": 4,
+        "University of Maryland": 7,
+        "University of Texas at Austin": 9,
+        "Virginia Tech": 17
+      },
+      "avg_distance": 0.8170276405562084,
+      "std_distance": 0.07218385431689295,
+      "cohesion": 0.55034936050499
+    },
+    "1": {
+      "label": "Scientific Computing / Artificial Intelligence / Graphics",
+      "top_terms": [
+        "scientific computing",
+        "artificial intelligence",
+        "graphics",
+        "theory",
+        "computer architecture & engineering",
+        "signal processing",
+        "biosystems & computational biology",
+        "human-computer interaction"
+      ],
+      "size": 89,
+      "universities": {
+        "UC Berkeley": 33,
+        "North Carolina State University": 3,
+        "Stony Brook University": 15,
+        "UMass Amherst": 6,
+        "University of Maryland": 5,
+        "University of Texas at Austin": 26,
+        "Virginia Tech": 1
+      },
+      "avg_distance": 0.7886802356486796,
+      "std_distance": 0.06950975751104134,
+      "cohesion": 0.5590714204080988
+    },
+    "2": {
+      "label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "top_terms": [
+        "artificial intelligence",
+        "artificial intelligence and intelligent agents",
+        "natural language processing",
+        "human-computer interaction",
+        "advanced learning technologies",
+        "machine learning",
+        "data sciences and analytics",
+        "computer and video games"
+      ],
+      "size": 88,
+      "universities": {
+        "UC Berkeley": 11,
+        "North Carolina State University": 17,
+        "Stony Brook University": 8,
+        "Texas A&M University": 3,
+        "University at Buffalo": 3,
+        "UMass Amherst": 16,
+        "University of Maryland": 3,
+        "University of Texas at Austin": 20,
+        "Virginia Tech": 7
+      },
+      "avg_distance": 0.7721510184886249,
+      "std_distance": 0.09020024143804584,
+      "cohesion": 0.5642859945722052
+    },
+    "3": {
+      "label": "Artificial Intelligence / Machine Learning / Control, Intelligent Systems, And Robotics",
+      "top_terms": [
+        "artificial intelligence",
+        "machine learning",
+        "control, intelligent systems, and robotics",
+        "ai and robotics",
+        "computer vision",
+        "machine learning and data science",
+        "computer vision and machine perception",
+        "robotics, computer vision, and graphics"
+      ],
+      "size": 108,
+      "universities": {
+        "UC Berkeley": 29,
+        "North Carolina State University": 6,
+        "Stony Brook University": 4,
+        "Texas A&M University": 6,
+        "University at Buffalo": 5,
+        "UMass Amherst": 17,
+        "University of Maryland": 12,
+        "University of Texas at Austin": 28,
+        "Virginia Tech": 1
+      },
+      "avg_distance": 0.7310899141194993,
+      "std_distance": 0.08086205716684998,
+      "cohesion": 0.5776707447970081
+    },
+    "4": {
+      "label": "Machine Learning / Algorithms And Theory / Biosystems & Computational Biology",
+      "top_terms": [
+        "machine learning",
+        "algorithms and theory",
+        "biosystems & computational biology",
+        "computational biology and bioinformatics",
+        "bioinformatics and computational biology",
+        "artificial intelligence",
+        "theory",
+        "algorithms and theory of computation"
+      ],
+      "size": 81,
+      "universities": {
+        "UC Berkeley": 9,
+        "North Carolina State University": 4,
+        "Stony Brook University": 6,
+        "Texas A&M University": 12,
+        "University at Buffalo": 12,
+        "UMass Amherst": 7,
+        "University of Maryland": 11,
+        "University of Texas at Austin": 12,
+        "Virginia Tech": 8
+      },
+      "avg_distance": 0.7576870260408156,
+      "std_distance": 0.07987680136241276,
+      "cohesion": 0.5689294994982678
+    },
+    "5": {
+      "label": "Operating Systems & Networking / Networking And Distributed Systems / Cloud Computing",
+      "top_terms": [
+        "operating systems & networking",
+        "networking and distributed systems",
+        "cloud computing",
+        "parallel and distributed systems",
+        "scientific and high performance computing",
+        "systems and networking",
+        "architecture and operating systems",
+        "embedded and real-time systems"
+      ],
+      "size": 72,
+      "universities": {
+        "UC Berkeley": 13,
+        "North Carolina State University": 12,
+        "Stony Brook University": 8,
+        "Texas A&M University": 1,
+        "UMass Amherst": 16,
+        "University of Maryland": 6,
+        "University of Texas at Austin": 15,
+        "Virginia Tech": 1
+      },
+      "avg_distance": 0.7356571581400269,
+      "std_distance": 0.06334281164246706,
+      "cohesion": 0.5761506500924554
+    },
+    "6": {
+      "label": "Computer Science Education / Human-Computer Interaction / Education",
+      "top_terms": [
+        "computer science education",
+        "human-computer interaction",
+        "education",
+        "software engineering",
+        "digital education",
+        "programming languages",
+        "electronic teaching",
+        "software engineering and programming languages"
+      ],
+      "size": 51,
+      "universities": {
+        "UC Berkeley": 7,
+        "North Carolina State University": 2,
+        "Stony Brook University": 2,
+        "Texas A&M University": 7,
+        "University at Buffalo": 9,
+        "UMass Amherst": 4,
+        "University of Maryland": 1,
+        "University of Texas at Austin": 2,
+        "Virginia Tech": 17
+      },
+      "avg_distance": 0.6924176380401601,
+      "std_distance": 0.11979044977024418,
+      "cohesion": 0.590870703260935
+    },
+    "7": {
+      "label": "Quantum Computing / Theory / Quantum Information Systems",
+      "top_terms": [
+        "quantum computing",
+        "theory",
+        "quantum information systems",
+        "algorithms and theory",
+        "quantum cryptography",
+        "coding theory",
+        "algorithms and theory of computation",
+        "algorithms"
+      ],
+      "size": 35,
+      "universities": {
+        "UC Berkeley": 6,
+        "North Carolina State University": 2,
+        "Stony Brook University": 4,
+        "Texas A&M University": 3,
+        "University at Buffalo": 1,
+        "UMass Amherst": 6,
+        "University of Maryland": 4,
+        "University of Texas at Austin": 6,
+        "Virginia Tech": 3
+      },
+      "avg_distance": 0.6925878741331711,
+      "std_distance": 0.10101431905402171,
+      "cohesion": 0.590811275019994
+    },
+    "8": {
+      "label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "top_terms": [
+        "machine learning",
+        "natural language processing",
+        "machine learning and data science",
+        "artificial intelligence",
+        "ai and robotics",
+        "human-computer interaction",
+        "graphics visualization and vr ar",
+        "computer graphics"
+      ],
+      "size": 79,
+      "universities": {
+        "UC Berkeley": 3,
+        "North Carolina State University": 2,
+        "Stony Brook University": 1,
+        "Texas A&M University": 21,
+        "University at Buffalo": 13,
+        "University of Maryland": 17,
+        "University of Texas at Austin": 1,
+        "Virginia Tech": 21
+      },
+      "avg_distance": 0.7244844915990133,
+      "std_distance": 0.09536676186899466,
+      "cohesion": 0.579883440455158
+    },
+    "9": {
+      "label": "Security And Privacy / Security / Cyber Security",
+      "top_terms": [
+        "security and privacy",
+        "security",
+        "cyber security",
+        "cybersecurity and cryptography",
+        "cybersecurity",
+        "operating systems & networking",
+        "artificial intelligence",
+        "applied cryptography"
+      ],
+      "size": 86,
+      "universities": {
+        "UC Berkeley": 9,
+        "North Carolina State University": 11,
+        "Stony Brook University": 9,
+        "Texas A&M University": 10,
+        "University at Buffalo": 3,
+        "UMass Amherst": 15,
+        "University of Maryland": 9,
+        "University of Texas at Austin": 8,
+        "Virginia Tech": 12
+      },
+      "avg_distance": 0.7415901117190562,
+      "std_distance": 0.07264463517611429,
+      "cohesion": 0.5741879178522314
+    }
+  },
+  "professors": [
+    {
+      "name": "Pieter Abbeel",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.839183807373047,
+      "umap_y": 11.21772289276123
+    },
+    {
+      "name": "Krste AsanoviÄ",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.23607063293457,
+      "umap_y": 5.125385284423828
+    },
+    {
+      "name": "Babak Ayazifar",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 12.55545425415039,
+      "umap_y": 10.374675750732422
+    },
+    {
+      "name": "Ruzena Bajcsy",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 12.442169189453125,
+      "umap_y": 10.37327766418457
+    },
+    {
+      "name": "Michael Ball",
+      "university": "UC Berkeley",
+      "cluster_id": 6,
+      "umap_x": 14.433807373046875,
+      "umap_y": 7.228349208831787
+    },
+    {
+      "name": "David Bamman",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 13.16792106628418,
+      "umap_y": 8.469340324401855
+    },
+    {
+      "name": "Brian A. Barsky",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 13.718340873718262,
+      "umap_y": 10.431221961975098
+    },
+    {
+      "name": "Peter Bartlett",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.856769561767578,
+      "umap_y": 10.991781234741211
+    },
+    {
+      "name": "Alexandre Bayen",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.989237785339355,
+      "umap_y": 11.493321418762207
+    },
+    {
+      "name": "Manuel Blum",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 8.146515846252441,
+      "umap_y": 8.175406455993652
+    },
+    {
+      "name": "Christian Borgs",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 11.904863357543945,
+      "umap_y": 10.40700912475586
+    },
+    {
+      "name": "Eric Brewer",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 9.951820373535156,
+      "umap_y": 4.740560531616211
+    },
+    {
+      "name": "John F. Canny",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.840883255004883,
+      "umap_y": 11.288450241088867
+    },
+    {
+      "name": "Serina Chang",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.128375053405762,
+      "umap_y": 9.761661529541016
+    },
+    {
+      "name": "Sarah Chasins",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 13.848159790039062,
+      "umap_y": 7.18262243270874
+    },
+    {
+      "name": "Jennifer Chayes",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 9.457738876342773,
+      "umap_y": 9.113893508911133
+    },
+    {
+      "name": "Irene Chen",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 10.572759628295898,
+      "umap_y": 9.741652488708496
+    },
+    {
+      "name": "Lijie Chen",
+      "university": "UC Berkeley",
+      "cluster_id": 7,
+      "umap_x": 7.401451587677002,
+      "umap_y": 7.825143337249756
+    },
+    {
+      "name": "Alvin Cheung",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 8.423810005187988,
+      "umap_y": 6.088300704956055
+    },
+    {
+      "name": "Henry Corrigan-Gibbs",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 9.914429664611816,
+      "umap_y": 3.937790632247925
+    },
+    {
+      "name": "Natacha Crooks",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 8.455527305603027,
+      "umap_y": 6.115762710571289
+    },
+    {
+      "name": "David E. Culler",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.085183143615723,
+      "umap_y": 4.8194427490234375
+    },
+    {
+      "name": "Trevor Darrell",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.673828125,
+      "umap_y": 11.219278335571289
+    },
+    {
+      "name": "James Demmel",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.35827922821045,
+      "umap_y": 5.126885890960693
+    },
+    {
+      "name": "John DeNero",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 14.273432731628418,
+      "umap_y": 7.710659980773926
+    },
+    {
+      "name": "Anca Dragan",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 14.023320198059082,
+      "umap_y": 8.093565940856934
+    },
+    {
+      "name": "Prabal Dutta",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 11.935551643371582,
+      "umap_y": 6.57130241394043
+    },
+    {
+      "name": "Alexei (Alyosha) Efros",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 13.306730270385742,
+      "umap_y": 10.906381607055664
+    },
+    {
+      "name": "Laurent El Ghaoui",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.951062202453613,
+      "umap_y": 11.15243148803711
+    },
+    {
+      "name": "Hany Farid",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 13.91740608215332,
+      "umap_y": 9.983355522155762
+    },
+    {
+      "name": "Richard J. Fateman",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 9.050873756408691,
+      "umap_y": 7.986795425415039
+    },
+    {
+      "name": "Jerome A. Feldman",
+      "university": "UC Berkeley",
+      "cluster_id": 8,
+      "umap_x": 10.855514526367188,
+      "umap_y": 8.78365707397461
+    },
+    {
+      "name": "Christopher Fletcher",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 10.415145874023438,
+      "umap_y": 5.4439568519592285
+    },
+    {
+      "name": "Armando Fox",
+      "university": "UC Berkeley",
+      "cluster_id": 6,
+      "umap_x": 14.290475845336914,
+      "umap_y": 6.963772773742676
+    },
+    {
+      "name": "Jack Gallant",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 9.357626914978027,
+      "umap_y": 9.640841484069824
+    },
+    {
+      "name": "Dan Garcia",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 14.307158470153809,
+      "umap_y": 6.780630588531494
+    },
+    {
+      "name": "Sanjam Garg",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 10.004233360290527,
+      "umap_y": 3.8230361938476562
+    },
+    {
+      "name": "Ali Ghodsi",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 8.539630889892578,
+      "umap_y": 6.1386399269104
+    },
+    {
+      "name": "Ken Goldberg",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.926753997802734,
+      "umap_y": 11.378454208374023
+    },
+    {
+      "name": "Shafi Goldwasser",
+      "university": "UC Berkeley",
+      "cluster_id": 7,
+      "umap_x": 7.76041841506958,
+      "umap_y": 8.087397575378418
+    },
+    {
+      "name": "Joseph Gonzalez",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 8.6487398147583,
+      "umap_y": 6.242952346801758
+    },
+    {
+      "name": "Susan L. Graham",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 13.772361755371094,
+      "umap_y": 6.955600261688232
+    },
+    {
+      "name": "Venkatesan Guruswami",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 7.5731329917907715,
+      "umap_y": 7.685357093811035
+    },
+    {
+      "name": "Nika Haghtalab",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.35837459564209,
+      "umap_y": 10.217595100402832
+    },
+    {
+      "name": "BjÃ¶rn Hartmann",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 14.279891014099121,
+      "umap_y": 7.754272937774658
+    },
+    {
+      "name": "Brian Harvey",
+      "university": "UC Berkeley",
+      "cluster_id": 6,
+      "umap_x": 14.29173755645752,
+      "umap_y": 6.540040969848633
+    },
+    {
+      "name": "Marti Hearst",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 14.091721534729004,
+      "umap_y": 7.919073581695557
+    },
+    {
+      "name": "Joseph M. Hellerstein",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 8.495302200317383,
+      "umap_y": 6.257566452026367
+    },
+    {
+      "name": "Paul N. Hilfinger",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 13.434388160705566,
+      "umap_y": 6.4668989181518555
+    },
+    {
+      "name": "Joshua Hug",
+      "university": "UC Berkeley",
+      "cluster_id": 6,
+      "umap_x": 14.800223350524902,
+      "umap_y": 6.611211776733398
+    },
+    {
+      "name": "Christopher Hunn",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 12.703482627868652,
+      "umap_y": 10.411545753479004
+    },
+    {
+      "name": "Nilah Ioannidis",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 10.006778717041016,
+      "umap_y": 9.968087196350098
+    },
+    {
+      "name": "Rishabh Iyer",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 9.895371437072754,
+      "umap_y": 4.915945529937744
+    },
+    {
+      "name": "Jiantao Jiao",
+      "university": "UC Berkeley",
+      "cluster_id": 8,
+      "umap_x": 11.733051300048828,
+      "umap_y": 7.729025840759277
+    },
+    {
+      "name": "Michael Jordan",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.204960823059082,
+      "umap_y": 10.91659164428711
+    },
+    {
+      "name": "Anthony D. Joseph",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 9.834002494812012,
+      "umap_y": 4.207306385040283
+    },
+    {
+      "name": "William M. Kahan",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.38787841796875,
+      "umap_y": 5.036844253540039
+    },
+    {
+      "name": "Angjoo Kanazawa",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.030247688293457,
+      "umap_y": 10.74069881439209
+    },
+    {
+      "name": "Richard M. Karp",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 8.944873809814453,
+      "umap_y": 9.266105651855469
+    },
+    {
+      "name": "Randy H. Katz",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 10.094977378845215,
+      "umap_y": 5.11623477935791
+    },
+    {
+      "name": "Kurt Keutzer",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.991799354553223,
+      "umap_y": 8.863829612731934
+    },
+    {
+      "name": "Daniel Klein",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 13.413646697998047,
+      "umap_y": 8.62549877166748
+    },
+    {
+      "name": "Aditi Krishnapriyan",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.737178802490234,
+      "umap_y": 9.691603660583496
+    },
+    {
+      "name": "John D. Kubiatowicz",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 9.722858428955078,
+      "umap_y": 4.314575672149658
+    },
+    {
+      "name": "Edward A. Lee",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.686471939086914,
+      "umap_y": 5.2409210205078125
+    },
+    {
+      "name": "Jason Lee",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.689972877502441,
+      "umap_y": 10.474178314208984
+    },
+    {
+      "name": "Sergey Levine",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.84018611907959,
+      "umap_y": 11.223133087158203
+    },
+    {
+      "name": "Jennifer Listgarten",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 9.909729957580566,
+      "umap_y": 9.7086763381958
+    },
+    {
+      "name": "Michael Lustig",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 13.068342208862305,
+      "umap_y": 10.693482398986816
+    },
+    {
+      "name": "Jitendra Malik",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.297124862670898,
+      "umap_y": 10.965744018554688
+    },
+    {
+      "name": "Sewon Min",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 13.42634105682373,
+      "umap_y": 8.624950408935547
+    },
+    {
+      "name": "Jelani Nelson",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 8.326577186584473,
+      "umap_y": 6.224319934844971
+    },
+    {
+      "name": "Ren Ng",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 13.258469581604004,
+      "umap_y": 10.897673606872559
+    },
+    {
+      "name": "Narges Norouzi",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.676278114318848,
+      "umap_y": 10.712942123413086
+    },
+    {
+      "name": "James O'Brien",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 14.26272964477539,
+      "umap_y": 9.445122718811035
+    },
+    {
+      "name": "Kay Ousterhout",
+      "university": "UC Berkeley",
+      "cluster_id": 6,
+      "umap_x": 14.833349227905273,
+      "umap_y": 6.5248799324035645
+    },
+    {
+      "name": "Christos Papadimitriou",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 8.971480369567871,
+      "umap_y": 9.313474655151367
+    },
+    {
+      "name": "Aditya Parameswaran",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 8.5181245803833,
+      "umap_y": 6.395726680755615
+    },
+    {
+      "name": "David A. Patterson",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 10.012672424316406,
+      "umap_y": 5.09812593460083
+    },
+    {
+      "name": "Eric Paulos",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 14.071369171142578,
+      "umap_y": 7.697587013244629
+    },
+    {
+      "name": "Vern Paxson",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 9.902815818786621,
+      "umap_y": 4.196944236755371
+    },
+    {
+      "name": "Emma Pierson",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 10.859519004821777,
+      "umap_y": 9.69430160522461
+    },
+    {
+      "name": "Kristofer Pister",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 12.085005760192871,
+      "umap_y": 11.267849922180176
+    },
+    {
+      "name": "Raluca Ada Popa",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 10.01497745513916,
+      "umap_y": 3.955698013305664
+    },
+    {
+      "name": "Prasad Raghavendra",
+      "university": "UC Berkeley",
+      "cluster_id": 7,
+      "umap_x": 7.49662446975708,
+      "umap_y": 7.716282367706299
+    },
+    {
+      "name": "Kannan Ramchandran",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 12.925312995910645,
+      "umap_y": 10.713080406188965
+    },
+    {
+      "name": "Satish Rao",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 9.170243263244629,
+      "umap_y": 9.630114555358887
+    },
+    {
+      "name": "Sylvia Ratnasamy",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 9.62539005279541,
+      "umap_y": 4.9239397048950195
+    },
+    {
+      "name": "Benjamin Recht",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 12.180763244628906,
+      "umap_y": 10.883111953735352
+    },
+    {
+      "name": "Lawrence A. Rowe",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 13.940871238708496,
+      "umap_y": 6.460513114929199
+    },
+    {
+      "name": "Jaijeet Roychowdhury",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 10.77043628692627,
+      "umap_y": 5.7496657371521
+    },
+    {
+      "name": "Stuart J. Russell",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.787347793579102,
+      "umap_y": 11.112133026123047
+    },
+    {
+      "name": "Manuel Sabin",
+      "university": "UC Berkeley",
+      "cluster_id": 6,
+      "umap_x": 14.801319122314453,
+      "umap_y": 6.563847541809082
+    },
+    {
+      "name": "Anant Sahai",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 12.290757179260254,
+      "umap_y": 10.792706489562988
+    },
+    {
+      "name": "Nilou Salehi",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 13.974344253540039,
+      "umap_y": 7.983465194702148
+    },
+    {
+      "name": "Koushik Sen",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 11.086335182189941,
+      "umap_y": 4.321910381317139
+    },
+    {
+      "name": "Carlo H. SÃ©quin",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.295912742614746,
+      "umap_y": 6.442255973815918
+    },
+    {
+      "name": "Sanjit A. Seshia",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 10.927706718444824,
+      "umap_y": 5.080443859100342
+    },
+    {
+      "name": "Sophia Shao",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 11.115232467651367,
+      "umap_y": 5.695836544036865
+    },
+    {
+      "name": "Scott Shenker",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 9.707664489746094,
+      "umap_y": 4.8090410232543945
+    },
+    {
+      "name": "Jonathan Shewchuk",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 9.269414901733398,
+      "umap_y": 7.1406378746032715
+    },
+    {
+      "name": "Alistair Sinclair",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 7.723228454589844,
+      "umap_y": 7.870981693267822
+    },
+    {
+      "name": "Alan J. Smith",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 9.79204273223877,
+      "umap_y": 4.787388324737549
+    },
+    {
+      "name": "Dawn Song",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 10.311702728271484,
+      "umap_y": 4.2556891441345215
+    },
+    {
+      "name": "Yun S. Song",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 9.235596656799316,
+      "umap_y": 9.737996101379395
+    },
+    {
+      "name": "Costas J. Spanos",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.48719596862793,
+      "umap_y": 5.700955390930176
+    },
+    {
+      "name": "Jacob Steinhardt",
+      "university": "UC Berkeley",
+      "cluster_id": 8,
+      "umap_x": 11.719488143920898,
+      "umap_y": 8.251569747924805
+    },
+    {
+      "name": "Ion Stoica",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 9.74471664428711,
+      "umap_y": 4.4524126052856445
+    },
+    {
+      "name": "Michael Stonebraker",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 8.82356071472168,
+      "umap_y": 6.417586326599121
+    },
+    {
+      "name": "Jonathan Stray",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.788739204406738,
+      "umap_y": 10.06440544128418
+    },
+    {
+      "name": "Bernd Sturmfels",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 8.91299819946289,
+      "umap_y": 9.50346851348877
+    },
+    {
+      "name": "Alane Suhr",
+      "university": "UC Berkeley",
+      "cluster_id": 2,
+      "umap_x": 13.027928352355957,
+      "umap_y": 8.954744338989258
+    },
+    {
+      "name": "Avishay Tal",
+      "university": "UC Berkeley",
+      "cluster_id": 7,
+      "umap_x": 7.46421480178833,
+      "umap_y": 7.744970798492432
+    },
+    {
+      "name": "Claire Tomlin",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.821342468261719,
+      "umap_y": 11.210799217224121
+    },
+    {
+      "name": "Umesh Vazirani",
+      "university": "UC Berkeley",
+      "cluster_id": 7,
+      "umap_x": 6.783931255340576,
+      "umap_y": 7.732020854949951
+    },
+    {
+      "name": "Allon Wagner",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 9.3869047164917,
+      "umap_y": 9.910649299621582
+    },
+    {
+      "name": "David Wagner",
+      "university": "UC Berkeley",
+      "cluster_id": 9,
+      "umap_x": 10.106379508972168,
+      "umap_y": 3.782433271408081
+    },
+    {
+      "name": "Laura Waller",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 13.725852012634277,
+      "umap_y": 10.304436683654785
+    },
+    {
+      "name": "Jean Walrand",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 9.473599433898926,
+      "umap_y": 5.710286617279053
+    },
+    {
+      "name": "John Wawrzynek",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 10.456597328186035,
+      "umap_y": 5.054702281951904
+    },
+    {
+      "name": "Max Willsey",
+      "university": "UC Berkeley",
+      "cluster_id": 0,
+      "umap_x": 13.420235633850098,
+      "umap_y": 6.689962863922119
+    },
+    {
+      "name": "John Wright",
+      "university": "UC Berkeley",
+      "cluster_id": 7,
+      "umap_x": 7.339850425720215,
+      "umap_y": 7.783353328704834
+    },
+    {
+      "name": "Adam Yala",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 11.063824653625488,
+      "umap_y": 9.526093482971191
+    },
+    {
+      "name": "Lisa Yan",
+      "university": "UC Berkeley",
+      "cluster_id": 6,
+      "umap_x": 14.722039222717285,
+      "umap_y": 6.729284763336182
+    },
+    {
+      "name": "Katherine A. Yelick",
+      "university": "UC Berkeley",
+      "cluster_id": 1,
+      "umap_x": 13.159725189208984,
+      "umap_y": 6.591257095336914
+    },
+    {
+      "name": "Bin Yu",
+      "university": "UC Berkeley",
+      "cluster_id": 4,
+      "umap_x": 12.255245208740234,
+      "umap_y": 10.614538192749023
+    },
+    {
+      "name": "Stella Yu",
+      "university": "UC Berkeley",
+      "cluster_id": 3,
+      "umap_x": 13.127799034118652,
+      "umap_y": 10.95828628540039
+    },
+    {
+      "name": "Matei Zaharia",
+      "university": "UC Berkeley",
+      "cluster_id": 5,
+      "umap_x": 8.644025802612305,
+      "umap_y": 6.2634172439575195
+    },
+    {
+      "name": "Tiffany Barnes",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.74849796295166,
+      "umap_y": 7.974462985992432
+    },
+    {
+      "name": "Min Chi",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.84284496307373,
+      "umap_y": 7.703541278839111
+    },
+    {
+      "name": "Rada Chirkova",
+      "university": "North Carolina State University",
+      "cluster_id": 4,
+      "umap_x": 9.159955978393555,
+      "umap_y": 7.893268585205078
+    },
+    {
+      "name": "Rudra Dutta",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.72811222076416,
+      "umap_y": 5.856390476226807
+    },
+    {
+      "name": "William Enck",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.84244441986084,
+      "umap_y": 3.363905191421509
+    },
+    {
+      "name": "Edward Gehringer",
+      "university": "North Carolina State University",
+      "cluster_id": 1,
+      "umap_x": 14.936007499694824,
+      "umap_y": 7.594194412231445
+    },
+    {
+      "name": "Xiaohui (Helen) Gu",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.550326347351074,
+      "umap_y": 5.978682041168213
+    },
+    {
+      "name": "Christopher Healey",
+      "university": "North Carolina State University",
+      "cluster_id": 1,
+      "umap_x": 13.25506591796875,
+      "umap_y": 7.439798355102539
+    },
+    {
+      "name": "Steffen Heber",
+      "university": "North Carolina State University",
+      "cluster_id": 1,
+      "umap_x": 9.934804916381836,
+      "umap_y": 10.12614631652832
+    },
+    {
+      "name": "James Lester",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.820993423461914,
+      "umap_y": 7.981287479400635
+    },
+    {
+      "name": "Timothy Menzies",
+      "university": "North Carolina State University",
+      "cluster_id": 8,
+      "umap_x": 11.703664779663086,
+      "umap_y": 7.868916988372803
+    },
+    {
+      "name": "Frank Mueller",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.876795768737793,
+      "umap_y": 6.166958332061768
+    },
+    {
+      "name": "George Rouskas",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.441693305969238,
+      "umap_y": 5.459660530090332
+    },
+    {
+      "name": "Xipeng (Gracen) Shen",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.94489574432373,
+      "umap_y": 5.994757652282715
+    },
+    {
+      "name": "Munindar Singh",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 11.1995849609375,
+      "umap_y": 10.534388542175293
+    },
+    {
+      "name": "Matthias Stallmann",
+      "university": "North Carolina State University",
+      "cluster_id": 4,
+      "umap_x": 9.020502090454102,
+      "umap_y": 8.542301177978516
+    },
+    {
+      "name": "Ranga Raju Vatsavai",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.5242338180542,
+      "umap_y": 7.836062431335449
+    },
+    {
+      "name": "Laurie Williams",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 11.023232460021973,
+      "umap_y": 3.7316086292266846
+    },
+    {
+      "name": "Justin Bradley",
+      "university": "North Carolina State University",
+      "cluster_id": 3,
+      "umap_x": 12.112080574035645,
+      "umap_y": 11.691144943237305
+    },
+    {
+      "name": "Marcelo D'Amorim",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 11.9983491897583,
+      "umap_y": 5.432508945465088
+    },
+    {
+      "name": "Anupam Das",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.806611061096191,
+      "umap_y": 3.684868574142456
+    },
+    {
+      "name": "Zhishan Guo",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 10.043469429016113,
+      "umap_y": 6.573641777038574
+    },
+    {
+      "name": "Khaled Abdel Harfoush",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.694931983947754,
+      "umap_y": 3.5005125999450684
+    },
+    {
+      "name": "Arnav Jhala",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.577496528625488,
+      "umap_y": 8.522298812866211
+    },
+    {
+      "name": "Alexandros Kapravelos",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.838030815124512,
+      "umap_y": 3.3796753883361816
+    },
+    {
+      "name": "Sandeep Kuttal",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.963993072509766,
+      "umap_y": 7.69607400894165
+    },
+    {
+      "name": "Jianqing Liu",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 9.958393096923828,
+      "umap_y": 6.135359287261963
+    },
+    {
+      "name": "Collin Lynch",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.759824752807617,
+      "umap_y": 7.64824914932251
+    },
+    {
+      "name": "Noboru Matsuda",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.899041175842285,
+      "umap_y": 7.756746292114258
+    },
+    {
+      "name": "Kemafor Anyanwu Ogan",
+      "university": "North Carolina State University",
+      "cluster_id": 8,
+      "umap_x": 9.71374797821045,
+      "umap_y": 7.393890380859375
+    },
+    {
+      "name": "Thomas Price",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.744321823120117,
+      "umap_y": 7.54400634765625
+    },
+    {
+      "name": "Bradley Reaves",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.72259521484375,
+      "umap_y": 3.2875657081604004
+    },
+    {
+      "name": "David Roberts",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.51300048828125,
+      "umap_y": 8.550578117370605
+    },
+    {
+      "name": "Alessandra Scafuro",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 11.826416969299316,
+      "umap_y": 3.807065486907959
+    },
+    {
+      "name": "Muhammad Shahzad",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.583043098449707,
+      "umap_y": 6.3079915046691895
+    },
+    {
+      "name": "Donald Sheehy",
+      "university": "North Carolina State University",
+      "cluster_id": 4,
+      "umap_x": 8.794764518737793,
+      "umap_y": 8.562230110168457
+    },
+    {
+      "name": "Kathryn Stolee",
+      "university": "North Carolina State University",
+      "cluster_id": 6,
+      "umap_x": 12.293167114257812,
+      "umap_y": 5.391968727111816
+    },
+    {
+      "name": "Sharma Thankachan",
+      "university": "North Carolina State University",
+      "cluster_id": 4,
+      "umap_x": 8.686027526855469,
+      "umap_y": 8.716731071472168
+    },
+    {
+      "name": "Benjamin Watson",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.668889045715332,
+      "umap_y": 8.507705688476562
+    },
+    {
+      "name": "Wujie Wen",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.993221282958984,
+      "umap_y": 5.53371000289917
+    },
+    {
+      "name": "Bita Akram",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.92237663269043,
+      "umap_y": 7.759158134460449
+    },
+    {
+      "name": "Veronica Catete",
+      "university": "North Carolina State University",
+      "cluster_id": 6,
+      "umap_x": 14.766090393066406,
+      "umap_y": 7.323070049285889
+    },
+    {
+      "name": "Peng Gao",
+      "university": "North Carolina State University",
+      "cluster_id": 3,
+      "umap_x": 12.192605972290039,
+      "umap_y": 11.215462684631348
+    },
+    {
+      "name": "Qiao (Georgie) Jin",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.55314826965332,
+      "umap_y": 8.073456764221191
+    },
+    {
+      "name": "Jung-Eun Kim",
+      "university": "North Carolina State University",
+      "cluster_id": 3,
+      "umap_x": 10.082002639770508,
+      "umap_y": 6.4029645919799805
+    },
+    {
+      "name": "Chin Ho Lee",
+      "university": "North Carolina State University",
+      "cluster_id": 7,
+      "umap_x": 8.305570602416992,
+      "umap_y": 8.252614974975586
+    },
+    {
+      "name": "Huining Li",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 10.687000274658203,
+      "umap_y": 6.832880973815918
+    },
+    {
+      "name": "Jiajia Li",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.749661445617676,
+      "umap_y": 7.64115571975708
+    },
+    {
+      "name": "Xiaorui Liu",
+      "university": "North Carolina State University",
+      "cluster_id": 3,
+      "umap_x": 11.164294242858887,
+      "umap_y": 9.953361511230469
+    },
+    {
+      "name": "Yuan Liu",
+      "university": "North Carolina State University",
+      "cluster_id": 7,
+      "umap_x": 6.615788459777832,
+      "umap_y": 7.8552656173706055
+    },
+    {
+      "name": "Yuchen Liu",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.92751693725586,
+      "umap_y": 6.480580806732178
+    },
+    {
+      "name": "Aditi Mallavarapu",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 14.83090877532959,
+      "umap_y": 7.882203578948975
+    },
+    {
+      "name": "John-Paul Ore",
+      "university": "North Carolina State University",
+      "cluster_id": 3,
+      "umap_x": 12.210067749023438,
+      "umap_y": 11.737802505493164
+    },
+    {
+      "name": "Dominik Wermke",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.954643249511719,
+      "umap_y": 3.5618350505828857
+    },
+    {
+      "name": "Bowen Xu",
+      "university": "North Carolina State University",
+      "cluster_id": 2,
+      "umap_x": 11.707695007324219,
+      "umap_y": 5.9134931564331055
+    },
+    {
+      "name": "Chenhan Xu",
+      "university": "North Carolina State University",
+      "cluster_id": 9,
+      "umap_x": 10.810057640075684,
+      "umap_y": 6.612490177154541
+    },
+    {
+      "name": "Dongkuan \"DK\" Xu",
+      "university": "North Carolina State University",
+      "cluster_id": 3,
+      "umap_x": 11.80448055267334,
+      "umap_y": 10.603723526000977
+    },
+    {
+      "name": "Man-Ki Yoon",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.995134353637695,
+      "umap_y": 5.453156471252441
+    },
+    {
+      "name": "Ruozhou Yu",
+      "university": "North Carolina State University",
+      "cluster_id": 5,
+      "umap_x": 9.72437572479248,
+      "umap_y": 6.307413578033447
+    },
+    {
+      "name": "Mohammad Javad Amiri",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 9.002294540405273,
+      "umap_y": 5.70874547958374
+    },
+    {
+      "name": "Stanley Bak",
+      "university": "Stony Brook University",
+      "cluster_id": 3,
+      "umap_x": 10.648131370544434,
+      "umap_y": 5.99721097946167
+    },
+    {
+      "name": "Aruna Balasubramanian",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 9.492463111877441,
+      "umap_y": 5.283347129821777
+    },
+    {
+      "name": "Niranjan Balasubramanian",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 13.66174602508545,
+      "umap_y": 8.505218505859375
+    },
+    {
+      "name": "Ritwik Banerjee",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 13.456741333007812,
+      "umap_y": 8.524221420288086
+    },
+    {
+      "name": "Michael Bender",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 9.022302627563477,
+      "umap_y": 8.554490089416504
+    },
+    {
+      "name": "Daniel Benz",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 10.179300308227539,
+      "umap_y": 5.2734880447387695
+    },
+    {
+      "name": "Xiaojun Bi",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 14.222272872924805,
+      "umap_y": 7.935873031616211
+    },
+    {
+      "name": "Paola Cascante-Bonilla",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 13.03891372680664,
+      "umap_y": 10.456835746765137
+    },
+    {
+      "name": "Tuhin Chakrabarty",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 13.715547561645508,
+      "umap_y": 8.545100212097168
+    },
+    {
+      "name": "Omar Chowdhury",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 10.857017517089844,
+      "umap_y": 4.206481456756592
+    },
+    {
+      "name": "Rezaul Chowdhury",
+      "university": "Stony Brook University",
+      "cluster_id": 4,
+      "umap_x": 8.95822525024414,
+      "umap_y": 9.0430326461792
+    },
+    {
+      "name": "Samir R. Das",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 9.2942533493042,
+      "umap_y": 5.371673107147217
+    },
+    {
+      "name": "Akshat Dave",
+      "university": "Stony Brook University",
+      "cluster_id": 3,
+      "umap_x": 13.121917724609375,
+      "umap_y": 10.792145729064941
+    },
+    {
+      "name": "Ahmad Esmaili",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 14.603133201599121,
+      "umap_y": 7.809326648712158
+    },
+    {
+      "name": "Michael Ferdman",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 10.080750465393066,
+      "umap_y": 5.406740665435791
+    },
+    {
+      "name": "Paul Fodor",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 13.467476844787598,
+      "umap_y": 8.663763046264648
+    },
+    {
+      "name": "Pramod Ganapathi",
+      "university": "Stony Brook University",
+      "cluster_id": 4,
+      "umap_x": 8.837152481079102,
+      "umap_y": 8.63133430480957
+    },
+    {
+      "name": "Anshul Gandhi",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 9.662651062011719,
+      "umap_y": 5.8297905921936035
+    },
+    {
+      "name": "Xianfeng Gu",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 11.656360626220703,
+      "umap_y": 9.127904891967773
+    },
+    {
+      "name": "Himanshu Gupta",
+      "university": "Stony Brook University",
+      "cluster_id": 7,
+      "umap_x": 6.39818000793457,
+      "umap_y": 7.948550224304199
+    },
+    {
+      "name": "Jalaa Hoblos",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 9.22062873840332,
+      "umap_y": 5.185808181762695
+    },
+    {
+      "name": "Shubham Jain",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 10.675721168518066,
+      "umap_y": 6.7085700035095215
+    },
+    {
+      "name": "Christopher Kane",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 11.036115646362305,
+      "umap_y": 4.258497714996338
+    },
+    {
+      "name": "Arie Kaufman",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 14.172088623046875,
+      "umap_y": 9.10350513458252
+    },
+    {
+      "name": "Robert F. Kelly",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 13.44817066192627,
+      "umap_y": 5.554826736450195
+    },
+    {
+      "name": "Dominik Kempa",
+      "university": "Stony Brook University",
+      "cluster_id": 4,
+      "umap_x": 8.887256622314453,
+      "umap_y": 8.878278732299805
+    },
+    {
+      "name": "Dongyoon Lee",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 10.481841087341309,
+      "umap_y": 4.8010334968566895
+    },
+    {
+      "name": "Y. Annie Liu",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 10.92429256439209,
+      "umap_y": 4.386318206787109
+    },
+    {
+      "name": "Abid M. Malik",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 10.69295597076416,
+      "umap_y": 5.711550712585449
+    },
+    {
+      "name": "Kevin McDonnell",
+      "university": "Stony Brook University",
+      "cluster_id": 6,
+      "umap_x": 12.7766752243042,
+      "umap_y": 6.828914165496826
+    },
+    {
+      "name": "Richard McKenna",
+      "university": "Stony Brook University",
+      "cluster_id": 6,
+      "umap_x": 13.814054489135742,
+      "umap_y": 5.34736442565918
+    },
+    {
+      "name": "Shuai Mu",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 9.077387809753418,
+      "umap_y": 5.583156585693359
+    },
+    {
+      "name": "Klaus Mueller",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 13.806365013122559,
+      "umap_y": 10.093109130859375
+    },
+    {
+      "name": "Nick Nikiforakis",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.514272689819336,
+      "umap_y": 3.2714054584503174
+    },
+    {
+      "name": "Omkant Pandey",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.360801696777344,
+      "umap_y": 3.817594289779663
+    },
+    {
+      "name": "Supartha Podder",
+      "university": "Stony Brook University",
+      "cluster_id": 7,
+      "umap_x": 6.63735818862915,
+      "umap_y": 7.906191349029541
+    },
+    {
+      "name": "Michalis Polychronakis",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.602675437927246,
+      "umap_y": 3.453059434890747
+    },
+    {
+      "name": "Hong Qin",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 12.279510498046875,
+      "umap_y": 9.028853416442871
+    },
+    {
+      "name": "Amir Rahmati",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.43710708618164,
+      "umap_y": 3.8127810955047607
+    },
+    {
+      "name": "C.R. Ramakrishnan",
+      "university": "Stony Brook University",
+      "cluster_id": 7,
+      "umap_x": 6.607425212860107,
+      "umap_y": 7.777232646942139
+    },
+    {
+      "name": "I.V. Ramakrishnan",
+      "university": "Stony Brook University",
+      "cluster_id": 2,
+      "umap_x": 12.476799011230469,
+      "umap_y": 9.291935920715332
+    },
+    {
+      "name": "Michael Ryoo",
+      "university": "Stony Brook University",
+      "cluster_id": 3,
+      "umap_x": 12.899696350097656,
+      "umap_y": 11.020463943481445
+    },
+    {
+      "name": "Dimitris Samaras",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 13.351835250854492,
+      "umap_y": 10.877273559570312
+    },
+    {
+      "name": "Tony Scarlatos",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 14.260302543640137,
+      "umap_y": 9.075152397155762
+    },
+    {
+      "name": "R. Sekar",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.978928565979004,
+      "umap_y": 4.561703205108643
+    },
+    {
+      "name": "Radu Sion",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.511985778808594,
+      "umap_y": 3.7186474800109863
+    },
+    {
+      "name": "Steven Skiena",
+      "university": "Stony Brook University",
+      "cluster_id": 4,
+      "umap_x": 9.17068099975586,
+      "umap_y": 8.960389137268066
+    },
+    {
+      "name": "Scott Smolka",
+      "university": "Stony Brook University",
+      "cluster_id": 0,
+      "umap_x": 11.417755126953125,
+      "umap_y": 4.949163436889648
+    },
+    {
+      "name": "Scott Stoller",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.989133834838867,
+      "umap_y": 4.666750907897949
+    },
+    {
+      "name": "Yifan Sun",
+      "university": "Stony Brook University",
+      "cluster_id": 4,
+      "umap_x": 11.065837860107422,
+      "umap_y": 9.482207298278809
+    },
+    {
+      "name": "Praveen Tripathi",
+      "university": "Stony Brook University",
+      "cluster_id": 8,
+      "umap_x": 11.319366455078125,
+      "umap_y": 8.174012184143066
+    },
+    {
+      "name": "Fusheng Wang",
+      "university": "Stony Brook University",
+      "cluster_id": 1,
+      "umap_x": 12.936577796936035,
+      "umap_y": 10.55887508392334
+    },
+    {
+      "name": "Ting Wang",
+      "university": "Stony Brook University",
+      "cluster_id": 9,
+      "umap_x": 10.495899200439453,
+      "umap_y": 4.0694732666015625
+    },
+    {
+      "name": "Anita Wasilewska",
+      "university": "Stony Brook University",
+      "cluster_id": 4,
+      "umap_x": 9.392574310302734,
+      "umap_y": 9.153550148010254
+    },
+    {
+      "name": "Zhaozheng Yin",
+      "university": "Stony Brook University",
+      "cluster_id": 3,
+      "umap_x": 13.100704193115234,
+      "umap_y": 10.680935859680176
+    },
+    {
+      "name": "Nengkun Yu",
+      "university": "Stony Brook University",
+      "cluster_id": 7,
+      "umap_x": 6.393068313598633,
+      "umap_y": 7.807588577270508
+    },
+    {
+      "name": "Erez Zadok",
+      "university": "Stony Brook University",
+      "cluster_id": 5,
+      "umap_x": 9.48593521118164,
+      "umap_y": 6.313307285308838
+    },
+    {
+      "name": "Anxiao \"Andrew\" Jiang",
+      "university": "Texas A&M University",
+      "cluster_id": 7,
+      "umap_x": 7.4896039962768555,
+      "umap_y": 8.087231636047363
+    },
+    {
+      "name": "Andreas Klappenecker",
+      "university": "Texas A&M University",
+      "cluster_id": 7,
+      "umap_x": 6.344898700714111,
+      "umap_y": 7.937197685241699
+    },
+    {
+      "name": "Ariful Azad",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 9.890503883361816,
+      "umap_y": 8.824084281921387
+    },
+    {
+      "name": "Riccardo Bettati",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 11.848478317260742,
+      "umap_y": 4.136349201202393
+    },
+    {
+      "name": "Marcus Botacin",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 12.16427230834961,
+      "umap_y": 3.9321208000183105
+    },
+    {
+      "name": "Zoran BudimliÄ",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 10.256736755371094,
+      "umap_y": 7.4705119132995605
+    },
+    {
+      "name": "Martin Carlisle",
+      "university": "Texas A&M University",
+      "cluster_id": 6,
+      "umap_x": 13.031888008117676,
+      "umap_y": 4.970453262329102
+    },
+    {
+      "name": "Wenhui Chu",
+      "university": "Texas A&M University",
+      "cluster_id": 3,
+      "umap_x": 12.154163360595703,
+      "umap_y": 9.501907348632812
+    },
+    {
+      "name": "Victoria Crawford",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 10.359098434448242,
+      "umap_y": 8.771316528320312
+    },
+    {
+      "name": "Yoonsuck Choe",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.583015441894531,
+      "umap_y": 9.072142601013184
+    },
+    {
+      "name": "Dilma Da Silva",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 9.950858116149902,
+      "umap_y": 7.1042938232421875
+    },
+    {
+      "name": "Tim Davis",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 9.638677597045898,
+      "umap_y": 7.9687089920043945
+    },
+    {
+      "name": "Dmitri Loguinov",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 10.00673770904541,
+      "umap_y": 7.9267144203186035
+    },
+    {
+      "name": "Dylan Shell",
+      "university": "Texas A&M University",
+      "cluster_id": 3,
+      "umap_x": 12.208314895629883,
+      "umap_y": 10.321125984191895
+    },
+    {
+      "name": "Alpaslan Duysak",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.694730758666992,
+      "umap_y": 9.250692367553711
+    },
+    {
+      "name": "Eun Jung \"EJ\" Kim",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 9.937835693359375,
+      "umap_y": 7.2084808349609375
+    },
+    {
+      "name": "Frank M. Shipman",
+      "university": "Texas A&M University",
+      "cluster_id": 2,
+      "umap_x": 12.875534057617188,
+      "umap_y": 7.237641334533691
+    },
+    {
+      "name": "Tomer Galanti",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 12.260878562927246,
+      "umap_y": 8.896456718444824
+    },
+    {
+      "name": "Juan Garay",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 11.987595558166504,
+      "umap_y": 3.8421871662139893
+    },
+    {
+      "name": "Guofei Gu",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 12.607124328613281,
+      "umap_y": 4.510981559753418
+    },
+    {
+      "name": "Drew Hamilton",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 12.296590805053711,
+      "umap_y": 3.9423067569732666
+    },
+    {
+      "name": "Hyunyoung Lee",
+      "university": "Texas A&M University",
+      "cluster_id": 5,
+      "umap_x": 9.647839546203613,
+      "umap_y": 6.336434364318848
+    },
+    {
+      "name": "David Kebo Houngninou",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 11.267329216003418,
+      "umap_y": 5.520016670227051
+    },
+    {
+      "name": "Jeff Huang",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 12.024458885192871,
+      "umap_y": 5.353663444519043
+    },
+    {
+      "name": "Kuan-Hao Huang",
+      "university": "Texas A&M University",
+      "cluster_id": 2,
+      "umap_x": 12.714272499084473,
+      "umap_y": 8.803431510925293
+    },
+    {
+      "name": "Ruihong Huang",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 12.43424129486084,
+      "umap_y": 8.272868156433105
+    },
+    {
+      "name": "James Caverlee",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 9.083020210266113,
+      "umap_y": 6.8880743980407715
+    },
+    {
+      "name": "Jianer Chen",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 9.704115867614746,
+      "umap_y": 9.208603858947754
+    },
+    {
+      "name": "Shuiwang Ji",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 12.302647590637207,
+      "umap_y": 8.949795722961426
+    },
+    {
+      "name": "John Keyser",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.493351936340332,
+      "umap_y": 9.153410911560059
+    },
+    {
+      "name": "Ki Hwan Yum",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 9.869194030761719,
+      "umap_y": 6.968100547790527
+    },
+    {
+      "name": "Jeeeun Kim",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 12.251709938049316,
+      "umap_y": 9.20095157623291
+    },
+    {
+      "name": "Alan Kuhnle",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 10.412348747253418,
+      "umap_y": 8.767278671264648
+    },
+    {
+      "name": "Sandeep Kumar",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 11.66771125793457,
+      "umap_y": 3.647700548171997
+    },
+    {
+      "name": "Shreyas Kumar",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 12.72665786743164,
+      "umap_y": 4.393311977386475
+    },
+    {
+      "name": "Zbigniew Leyk",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 10.416661262512207,
+      "umap_y": 7.91416597366333
+    },
+    {
+      "name": "Robert Lightfoot",
+      "university": "Texas A&M University",
+      "cluster_id": 6,
+      "umap_x": 13.20219612121582,
+      "umap_y": 4.805465221405029
+    },
+    {
+      "name": "Yiruo Lin",
+      "university": "Texas A&M University",
+      "cluster_id": 7,
+      "umap_x": 6.593096733093262,
+      "umap_y": 7.921926021575928
+    },
+    {
+      "name": "Si Liu",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 11.304841995239258,
+      "umap_y": 4.618547439575195
+    },
+    {
+      "name": "Yiwei Lyu",
+      "university": "Texas A&M University",
+      "cluster_id": 3,
+      "umap_x": 12.32322883605957,
+      "umap_y": 10.158934593200684
+    },
+    {
+      "name": "J. Michael Moore",
+      "university": "Texas A&M University",
+      "cluster_id": 6,
+      "umap_x": 12.876338005065918,
+      "umap_y": 6.786791801452637
+    },
+    {
+      "name": "Bobak Mortazavi",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.29280948638916,
+      "umap_y": 7.9086761474609375
+    },
+    {
+      "name": "Abdullah Muzahid",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 11.24576473236084,
+      "umap_y": 7.508145809173584
+    },
+    {
+      "name": "Khanh Nguyen",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 10.336065292358398,
+      "umap_y": 7.102389335632324
+    },
+    {
+      "name": "Nima Kalantari",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.818755149841309,
+      "umap_y": 8.931814193725586
+    },
+    {
+      "name": "Jason O'Kane",
+      "university": "Texas A&M University",
+      "cluster_id": 3,
+      "umap_x": 12.424641609191895,
+      "umap_y": 10.28007698059082
+    },
+    {
+      "name": "Ricardo Gutierrez-Osuna",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.55119800567627,
+      "umap_y": 7.097607612609863
+    },
+    {
+      "name": "Philip Ritchey",
+      "university": "Texas A&M University",
+      "cluster_id": 6,
+      "umap_x": 12.923216819763184,
+      "umap_y": 5.011868476867676
+    },
+    {
+      "name": "Rabi N. Mahapatra",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 10.961336135864258,
+      "umap_y": 6.97020959854126
+    },
+    {
+      "name": "Radu Stoleru",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 10.981103897094727,
+      "umap_y": 6.9466447830200195
+    },
+    {
+      "name": "Nitesh Saxena",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 12.77099323272705,
+      "umap_y": 4.654307842254639
+    },
+    {
+      "name": "Scott Schaefer",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.391194343566895,
+      "umap_y": 9.013907432556152
+    },
+    {
+      "name": "Guni Sharon",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.092363357543945,
+      "umap_y": 10.699572563171387
+    },
+    {
+      "name": "Sing-Hoi Sze",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 9.643245697021484,
+      "umap_y": 9.578115463256836
+    },
+    {
+      "name": "Shawna Thomas",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 10.081655502319336,
+      "umap_y": 9.62695598602295
+    },
+    {
+      "name": "Shinjiro Sueda",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.8674898147583,
+      "umap_y": 9.16481876373291
+    },
+    {
+      "name": "Paul Taele",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 12.765400886535645,
+      "umap_y": 7.882471561431885
+    },
+    {
+      "name": "Tracy Anne Hammond",
+      "university": "Texas A&M University",
+      "cluster_id": 6,
+      "umap_x": 12.612905502319336,
+      "umap_y": 7.651920318603516
+    },
+    {
+      "name": "Thomas R. Ioerger",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.143476486206055,
+      "umap_y": 8.672183990478516
+    },
+    {
+      "name": "Teresa Leyk",
+      "university": "Texas A&M University",
+      "cluster_id": 6,
+      "umap_x": 13.976682662963867,
+      "umap_y": 5.516841888427734
+    },
+    {
+      "name": "Han Tran",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 9.732686042785645,
+      "umap_y": 8.196672439575195
+    },
+    {
+      "name": "Zhengzhong Tu",
+      "university": "Texas A&M University",
+      "cluster_id": 3,
+      "umap_x": 12.170546531677246,
+      "umap_y": 9.651337623596191
+    },
+    {
+      "name": "Aakash Tyagi",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 10.511551856994629,
+      "umap_y": 5.39658784866333
+    },
+    {
+      "name": "Nate Veldt",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 10.840516090393066,
+      "umap_y": 8.236265182495117
+    },
+    {
+      "name": "Vivek Sarin",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 9.8062162399292,
+      "umap_y": 8.381989479064941
+    },
+    {
+      "name": "Pauline Wade",
+      "university": "Texas A&M University",
+      "cluster_id": 6,
+      "umap_x": 12.863457679748535,
+      "umap_y": 5.670130729675293
+    },
+    {
+      "name": "Duncan M. \"Hank\" Walker",
+      "university": "Texas A&M University",
+      "cluster_id": 0,
+      "umap_x": 11.575836181640625,
+      "umap_y": 5.687694549560547
+    },
+    {
+      "name": "Wenping Wang",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.74298095703125,
+      "umap_y": 8.917677879333496
+    },
+    {
+      "name": "Yanlai Wu",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 12.054986000061035,
+      "umap_y": 4.283877372741699
+    },
+    {
+      "name": "Meng Xia",
+      "university": "Texas A&M University",
+      "cluster_id": 2,
+      "umap_x": 13.566230773925781,
+      "umap_y": 7.516203880310059
+    },
+    {
+      "name": "Tianbao Yang",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.033761978149414,
+      "umap_y": 8.866016387939453
+    },
+    {
+      "name": "Zhiyuan Yu",
+      "university": "Texas A&M University",
+      "cluster_id": 3,
+      "umap_x": 11.713384628295898,
+      "umap_y": 9.548672676086426
+    },
+    {
+      "name": "Marian Zaki",
+      "university": "Texas A&M University",
+      "cluster_id": 9,
+      "umap_x": 11.843565940856934,
+      "umap_y": 3.9247934818267822
+    },
+    {
+      "name": "Cheng Zhang",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 11.971196174621582,
+      "umap_y": 8.747502326965332
+    },
+    {
+      "name": "Yu Zhang",
+      "university": "Texas A&M University",
+      "cluster_id": 8,
+      "umap_x": 12.568317413330078,
+      "umap_y": 8.58646011352539
+    },
+    {
+      "name": "Samson Zhou",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 10.42739200592041,
+      "umap_y": 8.784388542175293
+    },
+    {
+      "name": "Yi Zhou",
+      "university": "Texas A&M University",
+      "cluster_id": 4,
+      "umap_x": 10.926836967468262,
+      "umap_y": 9.078853607177734
+    },
+    {
+      "name": "Adekunle Afolabi,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.88758659362793,
+      "umap_y": 8.028901100158691
+    },
+    {
+      "name": "Nasrin Akhter,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 9.768085479736328,
+      "umap_y": 9.611161231994629
+    },
+    {
+      "name": "Bakr Albahri,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.531502723693848,
+      "umap_y": 7.948963165283203
+    },
+    {
+      "name": "Carl Alphonce,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 13.975415229797363,
+      "umap_y": 5.341829299926758
+    },
+    {
+      "name": "Roshan Ayyalasomayajula,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.330611228942871,
+      "umap_y": 7.347507953643799
+    },
+    {
+      "name": "Ethan Blanton,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 10.643239974975586,
+      "umap_y": 5.518693923950195
+    },
+    {
+      "name": "Marina Blanton,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 9,
+      "umap_x": 12.040034294128418,
+      "umap_y": 3.7231907844543457
+    },
+    {
+      "name": "Yorah Bosse,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 13.958858489990234,
+      "umap_y": 5.616223335266113
+    },
+    {
+      "name": "Haipeng Cai,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 12.01069164276123,
+      "umap_y": 6.1899614334106445
+    },
+    {
+      "name": "Charlie Carlson,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 10.16390609741211,
+      "umap_y": 8.597112655639648
+    },
+    {
+      "name": "Varun Chandola,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 10.074355125427246,
+      "umap_y": 9.115860939025879
+    },
+    {
+      "name": "Changyou Chen,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 3,
+      "umap_x": 11.41169261932373,
+      "umap_y": 10.493959426879883
+    },
+    {
+      "name": "Karthik Dantu,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.124171257019043,
+      "umap_y": 6.974510192871094
+    },
+    {
+      "name": "Sreyasee Das Bhattacharjee,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.602090835571289,
+      "umap_y": 8.354290008544922
+    },
+    {
+      "name": "Justin Del Vecchio,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.60914421081543,
+      "umap_y": 6.205276966094971
+    },
+    {
+      "name": "Paul Dickson,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 13.956483840942383,
+      "umap_y": 5.406937599182129
+    },
+    {
+      "name": "David Doermann,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 12.071820259094238,
+      "umap_y": 8.36001205444336
+    },
+    {
+      "name": "Mingchen Gao,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.376230239868164,
+      "umap_y": 8.608220100402832
+    },
+    {
+      "name": "Harrison Goldstein,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 12.647900581359863,
+      "umap_y": 6.203361511230469
+    },
+    {
+      "name": "Venu Govindaraju,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.717095375061035,
+      "umap_y": 6.965590953826904
+    },
+    {
+      "name": "Xiangyu Guo,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 10.166849136352539,
+      "umap_y": 8.62360954284668
+    },
+    {
+      "name": "Jesse Hartloff,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 14.11058235168457,
+      "umap_y": 5.431828498840332
+    },
+    {
+      "name": "Tom Hayes,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 10.466513633728027,
+      "umap_y": 8.666609764099121
+    },
+    {
+      "name": "Matthew Hertz,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 10.4082612991333,
+      "umap_y": 7.245176792144775
+    },
+    {
+      "name": "Andrew Hirsch,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.904242515563965,
+      "umap_y": 5.172789573669434
+    },
+    {
+      "name": "Christopher Hoadley,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 13.078187942504883,
+      "umap_y": 6.338389873504639
+    },
+    {
+      "name": "Hongxin Hu,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 9,
+      "umap_x": 12.078286170959473,
+      "umap_y": 4.539073944091797
+    },
+    {
+      "name": "Alan Hunt,MS",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.82679557800293,
+      "umap_y": 5.97944974899292
+    },
+    {
+      "name": "Asif Imran,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.240547180175781,
+      "umap_y": 6.081544876098633
+    },
+    {
+      "name": "Kaiyi Ji,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 10.90059757232666,
+      "umap_y": 8.677742958068848
+    },
+    {
+      "name": "Kenneth Joseph,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 2,
+      "umap_x": 12.324640274047852,
+      "umap_y": 9.143608093261719
+    },
+    {
+      "name": "Oliver Kennedy,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 10.267040252685547,
+      "umap_y": 6.885274410247803
+    },
+    {
+      "name": "Matthew Knepley,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 9.749698638916016,
+      "umap_y": 8.431934356689453
+    },
+    {
+      "name": "Tevfik Kosar,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 9.705623626708984,
+      "umap_y": 7.115467548370361
+    },
+    {
+      "name": "Vishnu Lokhande,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.556853294372559,
+      "umap_y": 8.83739948272705
+    },
+    {
+      "name": "Haonan Lu,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 8.658846855163574,
+      "umap_y": 6.009601593017578
+    },
+    {
+      "name": "Xi Lu,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 12.590648651123047,
+      "umap_y": 7.052952766418457
+    },
+    {
+      "name": "Kelin Luo,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 10.249512672424316,
+      "umap_y": 8.747868537902832
+    },
+    {
+      "name": "Siwei Lyu,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.950272560119629,
+      "umap_y": 8.546754837036133
+    },
+    {
+      "name": "Naeem Maroof,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.038752555847168,
+      "umap_y": 6.846694469451904
+    },
+    {
+      "name": "Eric Mikida,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 14.098337173461914,
+      "umap_y": 5.434150218963623
+    },
+    {
+      "name": "Russ Miller,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 9.635355949401855,
+      "umap_y": 8.677523612976074
+    },
+    {
+      "name": "Mostafa Mohammed,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 6,
+      "umap_x": 14.021846771240234,
+      "umap_y": 5.421782493591309
+    },
+    {
+      "name": "Ifeoma Nwogu,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 2,
+      "umap_x": 11.924501419067383,
+      "umap_y": 9.97208309173584
+    },
+    {
+      "name": "Shamsad Parvin,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.504006385803223,
+      "umap_y": 7.438169002532959
+    },
+    {
+      "name": "Chunming Qiao,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.021567344665527,
+      "umap_y": 6.85396146774292
+    },
+    {
+      "name": "Bina Ramamurthy,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 9.781612396240234,
+      "umap_y": 7.247949123382568
+    },
+    {
+      "name": "Nalini Ratha,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 3,
+      "umap_x": 12.323346138000488,
+      "umap_y": 9.419981956481934
+    },
+    {
+      "name": "Ken Regan,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 7,
+      "umap_x": 8.48970890045166,
+      "umap_y": 8.403940200805664
+    },
+    {
+      "name": "Atri Rudra,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 8.789254188537598,
+      "umap_y": 8.471101760864258
+    },
+    {
+      "name": "A. Erdem Sariyuce,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 10.419041633605957,
+      "umap_y": 8.046853065490723
+    },
+    {
+      "name": "Kris Schindler,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 10.596827507019043,
+      "umap_y": 5.79949951171875
+    },
+    {
+      "name": "Ramalingam Sridhar,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.046138763427734,
+      "umap_y": 6.543059349060059
+    },
+    {
+      "name": "Rohini Srihari,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 2,
+      "umap_x": 12.739740371704102,
+      "umap_y": 8.313484191894531
+    },
+    {
+      "name": "Ryan St. Pierre,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 3,
+      "umap_x": 12.01740550994873,
+      "umap_y": 10.203536987304688
+    },
+    {
+      "name": "Shambhu Upadhyaya,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.601570129394531,
+      "umap_y": 6.429571151733398
+    },
+    {
+      "name": "Alina Vereshchaka,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 3,
+      "umap_x": 11.2000093460083,
+      "umap_y": 10.970499992370605
+    },
+    {
+      "name": "Chen Wang,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 3,
+      "umap_x": 12.672211647033691,
+      "umap_y": 10.301874160766602
+    },
+    {
+      "name": "Yaxiong Xie,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 10.99989128112793,
+      "umap_y": 7.096419334411621
+    },
+    {
+      "name": "Wenyao Xu,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.318755149841309,
+      "umap_y": 7.045327186584473
+    },
+    {
+      "name": "Qianchuan Ye,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 11.832412719726562,
+      "umap_y": 5.02110481262207
+    },
+    {
+      "name": "Junsong Yuan,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 8,
+      "umap_x": 11.985292434692383,
+      "umap_y": 8.6038179397583
+    },
+    {
+      "name": "Zhuoyue Zhao,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 9,
+      "umap_x": 8.630194664001465,
+      "umap_y": 5.760751724243164
+    },
+    {
+      "name": "Lukasz (Luke) Ziarek,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 0,
+      "umap_x": 10.81146240234375,
+      "umap_y": 5.8033552169799805
+    },
+    {
+      "name": "Jaroslaw (Jaric) Zola,PhD",
+      "university": "University at Buffalo",
+      "cluster_id": 4,
+      "umap_x": 9.626219749450684,
+      "umap_y": 8.966865539550781
+    },
+    {
+      "name": "W. Richards Adrion",
+      "university": "UMass Amherst",
+      "cluster_id": 6,
+      "umap_x": 14.505758285522461,
+      "umap_y": 7.069113254547119
+    },
+    {
+      "name": "James Allan",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.821619987487793,
+      "umap_y": 8.123851776123047
+    },
+    {
+      "name": "Gordon Anderson",
+      "university": "UMass Amherst",
+      "cluster_id": 1,
+      "umap_x": 14.182327270507812,
+      "umap_y": 5.882734298706055
+    },
+    {
+      "name": "Ivon Arroyo",
+      "university": "UMass Amherst",
+      "cluster_id": 6,
+      "umap_x": 14.589221954345703,
+      "umap_y": 7.0713958740234375
+    },
+    {
+      "name": "Eugene Bagdasarian",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.3977689743042,
+      "umap_y": 3.8745996952056885
+    },
+    {
+      "name": "David A. Mix Barrington",
+      "university": "UMass Amherst",
+      "cluster_id": 7,
+      "umap_x": 8.226280212402344,
+      "umap_y": 8.189806938171387
+    },
+    {
+      "name": "Andrew G. Barto",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 10.284122467041016,
+      "umap_y": 10.335128784179688
+    },
+    {
+      "name": "Emery Berger",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 10.628974914550781,
+      "umap_y": 4.2665300369262695
+    },
+    {
+      "name": "Francine Berman",
+      "university": "UMass Amherst",
+      "cluster_id": 1,
+      "umap_x": 14.247249603271484,
+      "umap_y": 6.282776355743408
+    },
+    {
+      "name": "Hedyeh Beyhaghi",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 11.074859619140625,
+      "umap_y": 10.124920845031738
+    },
+    {
+      "name": "George Bissias",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.333929061889648,
+      "umap_y": 3.431514024734497
+    },
+    {
+      "name": "Nikko Bovornkeeratiroj",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 9.142548561096191,
+      "umap_y": 5.478609561920166
+    },
+    {
+      "name": "Yuriy Brun",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 11.070643424987793,
+      "umap_y": 4.160732269287109
+    },
+    {
+      "name": "Marvin Cable",
+      "university": "UMass Amherst",
+      "cluster_id": 1,
+      "umap_x": 9.934652328491211,
+      "umap_y": 3.4805643558502197
+    },
+    {
+      "name": "Bruno Castro da Silva",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 11.168930053710938,
+      "umap_y": 10.999533653259277
+    },
+    {
+      "name": "Joe Chiu",
+      "university": "UMass Amherst",
+      "cluster_id": 0,
+      "umap_x": 10.775933265686035,
+      "umap_y": 5.501247882843018
+    },
+    {
+      "name": "Lori Clarke",
+      "university": "UMass Amherst",
+      "cluster_id": 0,
+      "umap_x": 11.661455154418945,
+      "umap_y": 5.0604705810546875
+    },
+    {
+      "name": "W. Bruce Croft",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.588154792785645,
+      "umap_y": 8.336236953735352
+    },
+    {
+      "name": "Pubali Datta",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.530097007751465,
+      "umap_y": 3.7850213050842285
+    },
+    {
+      "name": "Jaime Davila",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 14.241564750671387,
+      "umap_y": 6.098977565765381
+    },
+    {
+      "name": "Justin Domke",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 11.306953430175781,
+      "umap_y": 10.368221282958984
+    },
+    {
+      "name": "Madeline Endres",
+      "university": "UMass Amherst",
+      "cluster_id": 0,
+      "umap_x": 12.150384902954102,
+      "umap_y": 5.410144329071045
+    },
+    {
+      "name": "Katrin Erk",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.706066131591797,
+      "umap_y": 8.293110847473145
+    },
+    {
+      "name": "Ina Fiterau Brostean",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 10.873129844665527,
+      "umap_y": 9.5128173828125
+    },
+    {
+      "name": "Deepak Ganesan",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 10.793068885803223,
+      "umap_y": 6.788248062133789
+    },
+    {
+      "name": "Anna Green",
+      "university": "UMass Amherst",
+      "cluster_id": 4,
+      "umap_x": 9.711784362792969,
+      "umap_y": 9.868673324584961
+    },
+    {
+      "name": "Hui Guan",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 11.57323932647705,
+      "umap_y": 10.074821472167969
+    },
+    {
+      "name": "Laura Haas",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 8.5271635055542,
+      "umap_y": 6.632435321807861
+    },
+    {
+      "name": "Peter Haas",
+      "university": "UMass Amherst",
+      "cluster_id": 4,
+      "umap_x": 10.902397155761719,
+      "umap_y": 9.519964218139648
+    },
+    {
+      "name": "Mohammad Hajiesmaili",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 11.054603576660156,
+      "umap_y": 9.899516105651855
+    },
+    {
+      "name": "Amir Houmansadr",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.33036994934082,
+      "umap_y": 3.6845755577087402
+    },
+    {
+      "name": "David Jensen",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.587974548339844,
+      "umap_y": 3.972771406173706
+    },
+    {
+      "name": "Vangelis Kalogerakis",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 13.301651000976562,
+      "umap_y": 10.943835258483887
+    },
+    {
+      "name": "Ravi Karkar",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 11.895061492919922,
+      "umap_y": 7.6403398513793945
+    },
+    {
+      "name": "Parviz Kermani",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.094276428222656,
+      "umap_y": 3.4299371242523193
+    },
+    {
+      "name": "Donghyun Kim",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 12.657133102416992,
+      "umap_y": 11.0049409866333
+    },
+    {
+      "name": "Peter Klemperer",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.832133293151855,
+      "umap_y": 4.088715076446533
+    },
+    {
+      "name": "Stefan Krastanov",
+      "university": "UMass Amherst",
+      "cluster_id": 7,
+      "umap_x": 6.21311616897583,
+      "umap_y": 7.894820690155029
+    },
+    {
+      "name": "James Kurose",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 9.135828971862793,
+      "umap_y": 5.286918640136719
+    },
+    {
+      "name": "Andrew Lan",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 14.836957931518555,
+      "umap_y": 7.612381458282471
+    },
+    {
+      "name": "Hung Le",
+      "university": "UMass Amherst",
+      "cluster_id": 4,
+      "umap_x": 9.513710021972656,
+      "umap_y": 8.513693809509277
+    },
+    {
+      "name": "Erik Learned-Miller",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 13.026823043823242,
+      "umap_y": 11.259221076965332
+    },
+    {
+      "name": "Ivan Lee",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 10.84839153289795,
+      "umap_y": 6.980946063995361
+    },
+    {
+      "name": "Brian Levine",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.403112411499023,
+      "umap_y": 3.423107385635376
+    },
+    {
+      "name": "Marc Liberatore",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.518017768859863,
+      "umap_y": 3.4136695861816406
+    },
+    {
+      "name": "Shiqing Ma",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.581636428833008,
+      "umap_y": 4.282155990600586
+    },
+    {
+      "name": "Narges Mahyar",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.080886840820312,
+      "umap_y": 8.031717300415039
+    },
+    {
+      "name": "Subhransu Maji",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 13.110452651977539,
+      "umap_y": 11.090815544128418
+    },
+    {
+      "name": "Neha Makhija",
+      "university": "UMass Amherst",
+      "cluster_id": 4,
+      "umap_x": 8.478039741516113,
+      "umap_y": 6.666642665863037
+    },
+    {
+      "name": "Ben Marlin",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 10.956808090209961,
+      "umap_y": 9.82210922241211
+    },
+    {
+      "name": "Andrew McCallum",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.208189010620117,
+      "umap_y": 8.406294822692871
+    },
+    {
+      "name": "Andrew McGregor",
+      "university": "UMass Amherst",
+      "cluster_id": 4,
+      "umap_x": 8.79256534576416,
+      "umap_y": 8.206656455993652
+    },
+    {
+      "name": "Siobhan Mei",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.646946907043457,
+      "umap_y": 8.522706985473633
+    },
+    {
+      "name": "Alexandra Meliou",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 8.507046699523926,
+      "umap_y": 6.551205158233643
+    },
+    {
+      "name": "Nick Merlino",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.51904010772705,
+      "umap_y": 3.426496744155884
+    },
+    {
+      "name": "Marius Minea",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 11.396353721618652,
+      "umap_y": 4.4403157234191895
+    },
+    {
+      "name": "J. Eliot Moss",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 10.467114448547363,
+      "umap_y": 5.599611282348633
+    },
+    {
+      "name": "Cameron Musco",
+      "university": "UMass Amherst",
+      "cluster_id": 1,
+      "umap_x": 8.869813919067383,
+      "umap_y": 7.917326927185059
+    },
+    {
+      "name": "VP Nguyen",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 10.722891807556152,
+      "umap_y": 6.7644548416137695
+    },
+    {
+      "name": "Scott Niekum",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 12.654153823852539,
+      "umap_y": 11.139359474182129
+    },
+    {
+      "name": "Emily Nutwell",
+      "university": "UMass Amherst",
+      "cluster_id": 1,
+      "umap_x": 14.435269355773926,
+      "umap_y": 6.199699401855469
+    },
+    {
+      "name": "Brendan O'Connor",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.601154327392578,
+      "umap_y": 8.428487777709961
+    },
+    {
+      "name": "Adam O'Neill",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 10.66893196105957,
+      "umap_y": 3.8762013912200928
+    },
+    {
+      "name": "Leon Osterweil",
+      "university": "UMass Amherst",
+      "cluster_id": 0,
+      "umap_x": 12.076178550720215,
+      "umap_y": 5.288325786590576
+    },
+    {
+      "name": "Ghazaleh Parvini",
+      "university": "UMass Amherst",
+      "cluster_id": 4,
+      "umap_x": 9.387866973876953,
+      "umap_y": 9.491609573364258
+    },
+    {
+      "name": "Mingda Qiao",
+      "university": "UMass Amherst",
+      "cluster_id": 7,
+      "umap_x": 11.416789054870605,
+      "umap_y": 10.122136116027832
+    },
+    {
+      "name": "Razieh Rahimi",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.258345603942871,
+      "umap_y": 8.227699279785156
+    },
+    {
+      "name": "Matthew Rattigan",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.207876205444336,
+      "umap_y": 7.386521339416504
+    },
+    {
+      "name": "Cole Reilly",
+      "university": "UMass Amherst",
+      "cluster_id": 6,
+      "umap_x": 13.979035377502441,
+      "umap_y": 6.238603115081787
+    },
+    {
+      "name": "Tim Richards",
+      "university": "UMass Amherst",
+      "cluster_id": 6,
+      "umap_x": 14.71679401397705,
+      "umap_y": 7.0374674797058105
+    },
+    {
+      "name": "Filip Rozpedek",
+      "university": "UMass Amherst",
+      "cluster_id": 7,
+      "umap_x": 6.381295204162598,
+      "umap_y": 7.858857154846191
+    },
+    {
+      "name": "Marco Serafini",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 8.830469131469727,
+      "umap_y": 5.933526992797852
+    },
+    {
+      "name": "Dan Sheldon",
+      "university": "UMass Amherst",
+      "cluster_id": 4,
+      "umap_x": 9.84443473815918,
+      "umap_y": 9.329636573791504
+    },
+    {
+      "name": "Prashant Shenoy",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 9.269257545471191,
+      "umap_y": 5.742147445678711
+    },
+    {
+      "name": "Hava Siegelmann",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 10.100628852844238,
+      "umap_y": 10.228253364562988
+    },
+    {
+      "name": "Ramesh Sitaraman",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 9.126523971557617,
+      "umap_y": 5.624769687652588
+    },
+    {
+      "name": "Jay Taneja",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 9.698233604431152,
+      "umap_y": 6.232837200164795
+    },
+    {
+      "name": "Philip Thomas",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 11.145502090454102,
+      "umap_y": 10.996545791625977
+    },
+    {
+      "name": "Don Towsley",
+      "university": "UMass Amherst",
+      "cluster_id": 7,
+      "umap_x": 6.5005693435668945,
+      "umap_y": 7.564392566680908
+    },
+    {
+      "name": "Grant Van Horn",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 13.013906478881836,
+      "umap_y": 11.164115905761719
+    },
+    {
+      "name": "Gayane Vardoyan",
+      "university": "UMass Amherst",
+      "cluster_id": 7,
+      "umap_x": 6.639711856842041,
+      "umap_y": 7.734965801239014
+    },
+    {
+      "name": "Arun Venkataramani",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 9.275775909423828,
+      "umap_y": 5.423872947692871
+    },
+    {
+      "name": "Chip Weems",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 10.189242362976074,
+      "umap_y": 5.60520601272583
+    },
+    {
+      "name": "Jack Wileden",
+      "university": "UMass Amherst",
+      "cluster_id": 5,
+      "umap_x": 10.104790687561035,
+      "umap_y": 5.558542728424072
+    },
+    {
+      "name": "Beverly Woolf",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 14.694326400756836,
+      "umap_y": 7.312614917755127
+    },
+    {
+      "name": "Hamed Zamani",
+      "university": "UMass Amherst",
+      "cluster_id": 2,
+      "umap_x": 13.338888168334961,
+      "umap_y": 8.249420166015625
+    },
+    {
+      "name": "Juan Zhai",
+      "university": "UMass Amherst",
+      "cluster_id": 9,
+      "umap_x": 11.51280403137207,
+      "umap_y": 4.853131294250488
+    },
+    {
+      "name": "Hao Zhang",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 12.523600578308105,
+      "umap_y": 11.115141868591309
+    },
+    {
+      "name": "Yair Zick",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 11.119403839111328,
+      "umap_y": 10.474719047546387
+    },
+    {
+      "name": "Shlomo Zilberstein",
+      "university": "UMass Amherst",
+      "cluster_id": 3,
+      "umap_x": 11.07063102722168,
+      "umap_y": 10.80705738067627
+    },
+    {
+      "name": "Ethan Zuckerman",
+      "university": "UMass Amherst",
+      "cluster_id": 1,
+      "umap_x": 13.412729263305664,
+      "umap_y": 7.2227325439453125
+    },
+    {
+      "name": "Daniel Abadi",
+      "university": "University of Maryland",
+      "cluster_id": 5,
+      "umap_x": 8.632458686828613,
+      "umap_y": 6.467226982116699
+    },
+    {
+      "name": "Ashok Agrawala",
+      "university": "University of Maryland",
+      "cluster_id": 5,
+      "umap_x": 10.813411712646484,
+      "umap_y": 6.619434356689453
+    },
+    {
+      "name": "Fardina Alam",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.934067726135254,
+      "umap_y": 9.440180778503418
+    },
+    {
+      "name": "John Aloimonos",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 13.125630378723145,
+      "umap_y": 9.751044273376465
+    },
+    {
+      "name": "Bahar Asgari",
+      "university": "University of Maryland",
+      "cluster_id": 5,
+      "umap_x": 9.882429122924805,
+      "umap_y": 5.524247169494629
+    },
+    {
+      "name": "Clifford Bakalian",
+      "university": "University of Maryland",
+      "cluster_id": 6,
+      "umap_x": 13.606942176818848,
+      "umap_y": 6.139701843261719
+    },
+    {
+      "name": "Calin Belta",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 11.572104454040527,
+      "umap_y": 11.170806884765625
+    },
+    {
+      "name": "Abhinav Bhatele",
+      "university": "University of Maryland",
+      "cluster_id": 5,
+      "umap_x": 9.758506774902344,
+      "umap_y": 6.633786678314209
+    },
+    {
+      "name": "Bobby Bhattacharjee",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 12.13922119140625,
+      "umap_y": 3.780834913253784
+    },
+    {
+      "name": "Jordan Boyd-Graber",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.143073081970215,
+      "umap_y": 8.231353759765625
+    },
+    {
+      "name": "Marine Carpuat",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.22124195098877,
+      "umap_y": 8.474759101867676
+    },
+    {
+      "name": "Yizheng Chen",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 10.546311378479004,
+      "umap_y": 4.001861572265625
+    },
+    {
+      "name": "Andrew Childs",
+      "university": "University of Maryland",
+      "cluster_id": 7,
+      "umap_x": 6.310112953186035,
+      "umap_y": 7.981760501861572
+    },
+    {
+      "name": "Hal Daumé III",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.318794250488281,
+      "umap_y": 8.583818435668945
+    },
+    {
+      "name": "Amol Deshpande",
+      "university": "University of Maryland",
+      "cluster_id": 5,
+      "umap_x": 8.681679725646973,
+      "umap_y": 6.927003860473633
+    },
+    {
+      "name": "Laxman Dhulipala",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.518162727355957,
+      "umap_y": 8.182201385498047
+    },
+    {
+      "name": "Ramani Duraiswami",
+      "university": "University of Maryland",
+      "cluster_id": 1,
+      "umap_x": 13.45938777923584,
+      "umap_y": 10.709240913391113
+    },
+    {
+      "name": "Roger Eastman",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 13.047411918640137,
+      "umap_y": 9.744095802307129
+    },
+    {
+      "name": "Soheil Feizi",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 12.75955581665039,
+      "umap_y": 10.754552841186523
+    },
+    {
+      "name": "Can Firtina",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.538450241088867,
+      "umap_y": 9.347321510314941
+    },
+    {
+      "name": "Hervé Franceschi",
+      "university": "University of Maryland",
+      "cluster_id": 2,
+      "umap_x": 14.730114936828613,
+      "umap_y": 7.484456539154053
+    },
+    {
+      "name": "Ruohan Gao",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 13.448149681091309,
+      "umap_y": 10.670160293579102
+    },
+    {
+      "name": "William Gasarch",
+      "university": "University of Maryland",
+      "cluster_id": 1,
+      "umap_x": 8.54077434539795,
+      "umap_y": 8.493253707885742
+    },
+    {
+      "name": "Tom Goldstein",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 13.013870239257812,
+      "umap_y": 11.270341873168945
+    },
+    {
+      "name": "Evan Golub",
+      "university": "University of Maryland",
+      "cluster_id": 2,
+      "umap_x": 14.43717098236084,
+      "umap_y": 7.922502517700195
+    },
+    {
+      "name": "Daniel Gottesman",
+      "university": "University of Maryland",
+      "cluster_id": 7,
+      "umap_x": 6.342605113983154,
+      "umap_y": 8.08299732208252
+    },
+    {
+      "name": "Ritwik Gupta",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 13.303236961364746,
+      "umap_y": 11.107466697692871
+    },
+    {
+      "name": "Mohammad Hajiaghayi",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.141529083251953,
+      "umap_y": 8.385026931762695
+    },
+    {
+      "name": "Jeffrey K. Hollingsworth",
+      "university": "University of Maryland",
+      "cluster_id": 1,
+      "umap_x": 9.677669525146484,
+      "umap_y": 5.12075662612915
+    },
+    {
+      "name": "Furong Huang",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 11.485588073730469,
+      "umap_y": 10.59962272644043
+    },
+    {
+      "name": "Jia-Bin Huang",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.9339017868042,
+      "umap_y": 9.599899291992188
+    },
+    {
+      "name": "Heng Huang",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 11.93522834777832,
+      "umap_y": 8.483726501464844
+    },
+    {
+      "name": "Mohit Iyyer",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.527499198913574,
+      "umap_y": 8.394938468933105
+    },
+    {
+      "name": "David Jacobs",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 12.737627029418945,
+      "umap_y": 9.758891105651855
+    },
+    {
+      "name": "Pete Keleher",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 12.045276641845703,
+      "umap_y": 3.782147169113159
+    },
+    {
+      "name": "Clyde Kruskal",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.729409217834473,
+      "umap_y": 8.652652740478516
+    },
+    {
+      "name": "Leonidas Lampropoulos",
+      "university": "University of Maryland",
+      "cluster_id": 0,
+      "umap_x": 12.32935619354248,
+      "umap_y": 5.452847003936768
+    },
+    {
+      "name": "Myungin Lee",
+      "university": "University of Maryland",
+      "cluster_id": 2,
+      "umap_x": 12.38647747039795,
+      "umap_y": 9.476065635681152
+    },
+    {
+      "name": "Dave Levin",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 10.223114013671875,
+      "umap_y": 3.604705572128296
+    },
+    {
+      "name": "Ming Lin",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.82691764831543,
+      "umap_y": 9.456949234008789
+    },
+    {
+      "name": "Zhicheng Liu",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 13.298032760620117,
+      "umap_y": 9.688210487365723
+    },
+    {
+      "name": "Ruoshi Liu",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 13.227885246276855,
+      "umap_y": 10.260807991027832
+    },
+    {
+      "name": "Alan Zaoxing Liu",
+      "university": "University of Maryland",
+      "cluster_id": 5,
+      "umap_x": 10.305499076843262,
+      "umap_y": 4.410737991333008
+    },
+    {
+      "name": "Dinesh Manocha",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 13.34171199798584,
+      "umap_y": 9.89333438873291
+    },
+    {
+      "name": "Michael Marsh",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 12.0906982421875,
+      "umap_y": 3.8036386966705322
+    },
+    {
+      "name": "Michelle Mazurek",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 12.165048599243164,
+      "umap_y": 3.8368804454803467
+    },
+    {
+      "name": "Christopher Metzler",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 13.208233833312988,
+      "umap_y": 11.0412015914917
+    },
+    {
+      "name": "Ian Miers",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 12.173593521118164,
+      "umap_y": 3.6970207691192627
+    },
+    {
+      "name": "Stevens Miller",
+      "university": "University of Maryland",
+      "cluster_id": 0,
+      "umap_x": 12.909381866455078,
+      "umap_y": 5.872632026672363
+    },
+    {
+      "name": "Erin Molloy",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.587379455566406,
+      "umap_y": 9.574729919433594
+    },
+    {
+      "name": "David Mount",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.20499038696289,
+      "umap_y": 8.428449630737305
+    },
+    {
+      "name": "Jun Nishida",
+      "university": "University of Maryland",
+      "cluster_id": 0,
+      "umap_x": 11.343771934509277,
+      "umap_y": 6.645491123199463
+    },
+    {
+      "name": "Rob Patro",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.670098304748535,
+      "umap_y": 9.326749801635742
+    },
+    {
+      "name": "Binghui Peng",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 10.926427841186523,
+      "umap_y": 10.055538177490234
+    },
+    {
+      "name": "Huaishu Peng",
+      "university": "University of Maryland",
+      "cluster_id": 0,
+      "umap_x": 11.35123062133789,
+      "umap_y": 6.626891613006592
+    },
+    {
+      "name": "Mihai Pop",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.390519142150879,
+      "umap_y": 9.726763725280762
+    },
+    {
+      "name": "Adam Porter",
+      "university": "University of Maryland",
+      "cluster_id": 0,
+      "umap_x": 12.247976303100586,
+      "umap_y": 5.470872402191162
+    },
+    {
+      "name": "William Regli",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 13.397985458374023,
+      "umap_y": 10.419698715209961
+    },
+    {
+      "name": "Nirupam Roy",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 11.35678768157959,
+      "umap_y": 6.295441627502441
+    },
+    {
+      "name": "Rachel Rudinger",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.355833053588867,
+      "umap_y": 8.41079330444336
+    },
+    {
+      "name": "Hanan Samet",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.135398864746094,
+      "umap_y": 8.115593910217285
+    },
+    {
+      "name": "Han Shao",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 11.147007942199707,
+      "umap_y": 10.374788284301758
+    },
+    {
+      "name": "Abhinav Shrivastava",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 13.174479484558105,
+      "umap_y": 9.632159233093262
+    },
+    {
+      "name": "Aravind Srinivasan",
+      "university": "University of Maryland",
+      "cluster_id": 4,
+      "umap_x": 9.155168533325195,
+      "umap_y": 9.206976890563965
+    },
+    {
+      "name": "Milijana Surbatovich",
+      "university": "University of Maryland",
+      "cluster_id": 0,
+      "umap_x": 12.207143783569336,
+      "umap_y": 5.604249954223633
+    },
+    {
+      "name": "Alan Sussman",
+      "university": "University of Maryland",
+      "cluster_id": 0,
+      "umap_x": 9.21780776977539,
+      "umap_y": 7.039437294006348
+    },
+    {
+      "name": "Runzhou Tao",
+      "university": "University of Maryland",
+      "cluster_id": 7,
+      "umap_x": 6.493783473968506,
+      "umap_y": 7.907346725463867
+    },
+    {
+      "name": "Mohammad Nayeem Teli",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.138593673706055,
+      "umap_y": 9.005995750427246
+    },
+    {
+      "name": "Pratap Tokekar",
+      "university": "University of Maryland",
+      "cluster_id": 3,
+      "umap_x": 12.048833847045898,
+      "umap_y": 11.464902877807617
+    },
+    {
+      "name": "David Van Horn",
+      "university": "University of Maryland",
+      "cluster_id": 9,
+      "umap_x": 10.948678016662598,
+      "umap_y": 3.925760507583618
+    },
+    {
+      "name": "Amitabh Varshney",
+      "university": "University of Maryland",
+      "cluster_id": 1,
+      "umap_x": 13.909350395202637,
+      "umap_y": 9.770039558410645
+    },
+    {
+      "name": "Sarah Wiegreffe",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 12.65933609008789,
+      "umap_y": 8.366473197937012
+    },
+    {
+      "name": "Xiaodi Wu",
+      "university": "University of Maryland",
+      "cluster_id": 7,
+      "umap_x": 6.553400993347168,
+      "umap_y": 7.872858047485352
+    },
+    {
+      "name": "Fumeng Yang",
+      "university": "University of Maryland",
+      "cluster_id": 8,
+      "umap_x": 13.4603853225708,
+      "umap_y": 9.76175308227539
+    },
+    {
+      "name": "Matthias Zwicker",
+      "university": "University of Maryland",
+      "cluster_id": 1,
+      "umap_x": 13.690740585327148,
+      "umap_y": 9.834781646728516
+    },
+    {
+      "name": "Scott Aaronson",
+      "university": "University of Texas at Austin",
+      "cluster_id": 7,
+      "umap_x": 6.931416034698486,
+      "umap_y": 7.7784857749938965
+    },
+    {
+      "name": "Sarah Abraham",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.11401081085205,
+      "umap_y": 9.740951538085938
+    },
+    {
+      "name": "Aditya Akella",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.555585861206055,
+      "umap_y": 5.873354434967041
+    },
+    {
+      "name": "Lorenzo Alvisi",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.465860366821289,
+      "umap_y": 5.440676212310791
+    },
+    {
+      "name": "Venkat Arun",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.438495635986328,
+      "umap_y": 5.5946855545043945
+    },
+    {
+      "name": "Joshua Baer",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 9.13322639465332,
+      "umap_y": 6.601808071136475
+    },
+    {
+      "name": "Chandrajit Bajaj",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 11.240315437316895,
+      "umap_y": 9.060870170593262
+    },
+    {
+      "name": "Don Batory",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 11.890000343322754,
+      "umap_y": 5.233779430389404
+    },
+    {
+      "name": "Angela Beasley",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 11.561509132385254,
+      "umap_y": 10.036039352416992
+    },
+    {
+      "name": "Joydeep Biswas",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.405009269714355,
+      "umap_y": 11.234127044677734
+    },
+    {
+      "name": "William Bulko",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.157295227050781,
+      "umap_y": 7.831295490264893
+    },
+    {
+      "name": "Siddhartha Chatterjee",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 10.205653190612793,
+      "umap_y": 5.129913330078125
+    },
+    {
+      "name": "Swarat Chaudhuri",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.389042854309082,
+      "umap_y": 10.118815422058105
+    },
+    {
+      "name": "Shuchi Chawla",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 8.569324493408203,
+      "umap_y": 7.87714958190918
+    },
+    {
+      "name": "Vijay Chidambaram",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 8.737262725830078,
+      "umap_y": 6.3497419357299805
+    },
+    {
+      "name": "Alan Cline",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 8.682500839233398,
+      "umap_y": 8.474430084228516
+    },
+    {
+      "name": "Shirley Cohen",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 8.52586555480957,
+      "umap_y": 6.256890296936035
+    },
+    {
+      "name": "Inderjit Dhillon",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.764347076416016,
+      "umap_y": 9.196146011352539
+    },
+    {
+      "name": "Daniel Diaz",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 9.949591636657715,
+      "umap_y": 10.112229347229004
+    },
+    {
+      "name": "Işıl Dillig",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 11.978057861328125,
+      "umap_y": 5.34509801864624
+    },
+    {
+      "name": "Glenn Downing",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 12.693157196044922,
+      "umap_y": 5.654148101806641
+    },
+    {
+      "name": "Mootaz Elnozahy",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 10.122092247009277,
+      "umap_y": 5.375423431396484
+    },
+    {
+      "name": "Morgan M. Fong",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 13.748737335205078,
+      "umap_y": 5.435583591461182
+    },
+    {
+      "name": "Fares Fraij",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.50416374206543,
+      "umap_y": 7.032674789428711
+    },
+    {
+      "name": "Don Fussell",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 10.375617027282715,
+      "umap_y": 5.458216667175293
+    },
+    {
+      "name": "Anna Gal",
+      "university": "University of Texas at Austin",
+      "cluster_id": 7,
+      "umap_x": 8.28744125366211,
+      "umap_y": 8.384636878967285
+    },
+    {
+      "name": "Ahmed Gheith",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 10.372591972351074,
+      "umap_y": 5.118218898773193
+    },
+    {
+      "name": "Noah Golowich",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.13258171081543,
+      "umap_y": 10.576211929321289
+    },
+    {
+      "name": "Jesse Goodman",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 8.189141273498535,
+      "umap_y": 8.184423446655273
+    },
+    {
+      "name": "Uli Grasemann",
+      "university": "University of Texas at Austin",
+      "cluster_id": 8,
+      "umap_x": 10.35568904876709,
+      "umap_y": 9.867032051086426
+    },
+    {
+      "name": "Kristen Grauman",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 13.204000473022461,
+      "umap_y": 11.1598482131958
+    },
+    {
+      "name": "Justin Hart",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.150903701782227,
+      "umap_y": 11.64888858795166
+    },
+    {
+      "name": "David Harwath",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 12.949674606323242,
+      "umap_y": 8.939473152160645
+    },
+    {
+      "name": "Andrew Hintz",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 10.552711486816406,
+      "umap_y": 3.3272228240966797
+    },
+    {
+      "name": "Qixing Huang",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.86461067199707,
+      "umap_y": 10.554159164428711
+    },
+    {
+      "name": "Warren Hunt Jr.",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 11.096315383911133,
+      "umap_y": 5.482998847961426
+    },
+    {
+      "name": "Nick Hunter-Jones",
+      "university": "University of Texas at Austin",
+      "cluster_id": 7,
+      "umap_x": 6.772216796875,
+      "umap_y": 7.8857741355896
+    },
+    {
+      "name": "Volkan Isler",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.301654815673828,
+      "umap_y": 11.356528282165527
+    },
+    {
+      "name": "Prashant D. Joshi",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 10.299744606018066,
+      "umap_y": 5.320744514465332
+    },
+    {
+      "name": "Amrita Kaur",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 14.998706817626953,
+      "umap_y": 7.745009899139404
+    },
+    {
+      "name": "Daehyeok Kim",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.275026321411133,
+      "umap_y": 5.310371398925781
+    },
+    {
+      "name": "Adam Klivans",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 10.500911712646484,
+      "umap_y": 9.593884468078613
+    },
+    {
+      "name": "Brad Knox",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.474462509155273,
+      "umap_y": 11.121197700500488
+    },
+    {
+      "name": "Philipp Krähenbühl",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 13.263204574584961,
+      "umap_y": 11.038168907165527
+    },
+    {
+      "name": "William Kretschmer",
+      "university": "University of Texas at Austin",
+      "cluster_id": 7,
+      "umap_x": 6.828155517578125,
+      "umap_y": 7.958470344543457
+    },
+    {
+      "name": "Benjamin Kuipers",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.1990966796875,
+      "umap_y": 11.441729545593262
+    },
+    {
+      "name": "Devdatta Kulkarni",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 8.902520179748535,
+      "umap_y": 6.2179646492004395
+    },
+    {
+      "name": "Simon Lam",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 10.002049446105957,
+      "umap_y": 3.639193058013916
+    },
+    {
+      "name": "Karen Landolt",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.374767303466797,
+      "umap_y": 6.210195064544678
+    },
+    {
+      "name": "Elad Liebman",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 11.932555198669434,
+      "umap_y": 10.238468170166016
+    },
+    {
+      "name": "Vladimir Lifschitz",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 10.530379295349121,
+      "umap_y": 10.55041790008545
+    },
+    {
+      "name": "Calvin Lin",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 13.68484115600586,
+      "umap_y": 5.721147060394287
+    },
+    {
+      "name": "Shuijing Liu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.444878578186035,
+      "umap_y": 10.267189979553223
+    },
+    {
+      "name": "Qiang Liu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.239222526550293,
+      "umap_y": 10.348764419555664
+    },
+    {
+      "name": "Roberto Martin-Martin",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.81688404083252,
+      "umap_y": 11.11012077331543
+    },
+    {
+      "name": "Ken McMillan",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 11.61191177368164,
+      "umap_y": 5.19124698638916
+    },
+    {
+      "name": "Risto Miikkulainen",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.543316841125488,
+      "umap_y": 10.433746337890625
+    },
+    {
+      "name": "Daniel P. Miranker",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 10.084216117858887,
+      "umap_y": 9.224364280700684
+    },
+    {
+      "name": "Jayadev Misra",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 11.784177780151367,
+      "umap_y": 5.227942943572998
+    },
+    {
+      "name": "Shyamal Mitra",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 12.793241500854492,
+      "umap_y": 8.53503131866455
+    },
+    {
+      "name": "Aloysius K. Mok",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 10.292496681213379,
+      "umap_y": 6.404443740844727
+    },
+    {
+      "name": "Raymond Mooney",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.329426765441895,
+      "umap_y": 8.325274467468262
+    },
+    {
+      "name": "J Strother Moore",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 8.567706108093262,
+      "umap_y": 8.150146484375
+    },
+    {
+      "name": "Dana Moshkovitz",
+      "university": "University of Texas at Austin",
+      "cluster_id": 7,
+      "umap_x": 8.156155586242676,
+      "umap_y": 8.32968807220459
+    },
+    {
+      "name": "Margaret Myers",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 8.44822883605957,
+      "umap_y": 8.467881202697754
+    },
+    {
+      "name": "Shravan Narayan",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 10.979397773742676,
+      "umap_y": 4.236598968505859
+    },
+    {
+      "name": "Seth Nielson",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 10.382601737976074,
+      "umap_y": 3.6718714237213135
+    },
+    {
+      "name": "Alison Norman",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 12.875151634216309,
+      "umap_y": 5.800702095031738
+    },
+    {
+      "name": "Gordon Novak",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 13.459593772888184,
+      "umap_y": 6.025376796722412
+    },
+    {
+      "name": "J Marcos Palacios",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.376254081726074,
+      "umap_y": 6.68759298324585
+    },
+    {
+      "name": "Georgios Pavlakos",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 13.329243659973145,
+      "umap_y": 10.975518226623535
+    },
+    {
+      "name": "Arthur Peters",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 11.311934471130371,
+      "umap_y": 5.147311687469482
+    },
+    {
+      "name": "Tina Peterson",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 13.868378639221191,
+      "umap_y": 6.332399368286133
+    },
+    {
+      "name": "Keshav Pingali",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.84604549407959,
+      "umap_y": 7.2326860427856445
+    },
+    {
+      "name": "Greg Plaxton",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.018447875976562,
+      "umap_y": 8.508461952209473
+    },
+    {
+      "name": "Bruce Porter",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.881099700927734,
+      "umap_y": 8.388611793518066
+    },
+    {
+      "name": "Bill Press",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 8.952474594116211,
+      "umap_y": 9.417502403259277
+    },
+    {
+      "name": "Eric Price",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 8.58463191986084,
+      "umap_y": 8.505475044250488
+    },
+    {
+      "name": "Lili Qiu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.275764465332031,
+      "umap_y": 5.41953706741333
+    },
+    {
+      "name": "Michelann Quimby",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 14.43789291381836,
+      "umap_y": 8.068206787109375
+    },
+    {
+      "name": "Arrasy Rahman",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.400569915771484,
+      "umap_y": 10.911373138427734
+    },
+    {
+      "name": "Vijaya Ramachandran",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.289267539978027,
+      "umap_y": 8.337203025817871
+    },
+    {
+      "name": "Carol Ramsey",
+      "university": "University of Texas at Austin",
+      "cluster_id": 6,
+      "umap_x": 14.08716869354248,
+      "umap_y": 5.4295334815979
+    },
+    {
+      "name": "Veena Ravishankar",
+      "university": "University of Texas at Austin",
+      "cluster_id": 6,
+      "umap_x": 13.88280963897705,
+      "umap_y": 5.24647331237793
+    },
+    {
+      "name": "Christopher Rossbach",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 10.534144401550293,
+      "umap_y": 5.804116725921631
+    },
+    {
+      "name": "Sujay Sanghavi",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.388261795043945,
+      "umap_y": 7.680948734283447
+    },
+    {
+      "name": "Michael Scott",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.140206336975098,
+      "umap_y": 5.578780651092529
+    },
+    {
+      "name": "Sanjay Shakkottai",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.337010383605957,
+      "umap_y": 10.429274559020996
+    },
+    {
+      "name": "Elias Stengel-Eskin",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.43674373626709,
+      "umap_y": 8.70042896270752
+    },
+    {
+      "name": "Jovan Stojkovic",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.94662857055664,
+      "umap_y": 5.460639953613281
+    },
+    {
+      "name": "Peter Stone",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.288277626037598,
+      "umap_y": 10.92563533782959
+    },
+    {
+      "name": "Dixin Tang",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 8.57431697845459,
+      "umap_y": 6.590014457702637
+    },
+    {
+      "name": "Fatma Tarlaci",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 14.373543739318848,
+      "umap_y": 7.891112327575684
+    },
+    {
+      "name": "Kia Teymourian",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 8.754180908203125,
+      "umap_y": 6.771219730377197
+    },
+    {
+      "name": "Kevin Tian",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.066250801086426,
+      "umap_y": 9.88415813446045
+    },
+    {
+      "name": "Paul Toprac",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.663938522338867,
+      "umap_y": 8.693902015686035
+    },
+    {
+      "name": "Robert van de Geijn",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 9.27102279663086,
+      "umap_y": 8.386178016662598
+    },
+    {
+      "name": "Etienne Vouga",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.151739120483398,
+      "umap_y": 9.323065757751465
+    },
+    {
+      "name": "Yizhong Wang",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.176859855651855,
+      "umap_y": 8.77658462524414
+    },
+    {
+      "name": "Garrett Warnell",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.189579963684082,
+      "umap_y": 11.438720703125
+    },
+    {
+      "name": "Brent Waters",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 10.160505294799805,
+      "umap_y": 3.6845109462738037
+    },
+    {
+      "name": "Emmett Witchel",
+      "university": "University of Texas at Austin",
+      "cluster_id": 0,
+      "umap_x": 10.504883766174316,
+      "umap_y": 5.9040069580078125
+    },
+    {
+      "name": "David Wu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 10.276799201965332,
+      "umap_y": 3.650655508041382
+    },
+    {
+      "name": "Chenfeng Xu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.875885009765625,
+      "umap_y": 11.120659828186035
+    },
+    {
+      "name": "William Young",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 11.751932144165039,
+      "umap_y": 4.55591344833374
+    },
+    {
+      "name": "Chen Yu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 12.103007316589355,
+      "umap_y": 10.343216896057129
+    },
+    {
+      "name": "Yuke Zhu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.761457443237305,
+      "umap_y": 11.038716316223145
+    },
+    {
+      "name": "David Zuckerman",
+      "university": "University of Texas at Austin",
+      "cluster_id": 7,
+      "umap_x": 8.078194618225098,
+      "umap_y": 8.252273559570312
+    },
+    {
+      "name": "George Biros",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.551980018615723,
+      "umap_y": 8.412691116333008
+    },
+    {
+      "name": "Eunsol Choi",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.512819290161133,
+      "umap_y": 8.657347679138184
+    },
+    {
+      "name": "Greg Durrett",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.344295501708984,
+      "umap_y": 8.401867866516113
+    },
+    {
+      "name": "Ilias Georgakopoulos-Soares",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.59623908996582,
+      "umap_y": 9.912033081054688
+    },
+    {
+      "name": "Joydeep Ghosh",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 13.646905899047852,
+      "umap_y": 7.440834045410156
+    },
+    {
+      "name": "Milos Gligoric",
+      "university": "University of Texas at Austin",
+      "cluster_id": 5,
+      "umap_x": 9.815375328063965,
+      "umap_y": 5.179559707641602
+    },
+    {
+      "name": "Matthew Lease",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.372672080993652,
+      "umap_y": 8.308314323425293
+    },
+    {
+      "name": "Yan Leng",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.583020210266113,
+      "umap_y": 10.511191368103027
+    },
+    {
+      "name": "Jessy Li",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 13.635547637939453,
+      "umap_y": 8.531729698181152
+    },
+    {
+      "name": "Leqi Liu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 12.97114086151123,
+      "umap_y": 8.8728609085083
+    },
+    {
+      "name": "Amy Pavel",
+      "university": "University of Texas at Austin",
+      "cluster_id": 2,
+      "umap_x": 14.291790962219238,
+      "umap_y": 8.289921760559082
+    },
+    {
+      "name": "Purnamrita Sarkar",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.43039608001709,
+      "umap_y": 8.568815231323242
+    },
+    {
+      "name": "Hovav Shacham",
+      "university": "University of Texas at Austin",
+      "cluster_id": 9,
+      "umap_x": 10.103279113769531,
+      "umap_y": 3.8894567489624023
+    },
+    {
+      "name": "David Soloveichik",
+      "university": "University of Texas at Austin",
+      "cluster_id": 4,
+      "umap_x": 9.441130638122559,
+      "umap_y": 9.556313514709473
+    },
+    {
+      "name": "Ufuk Topcu",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.1676664352417,
+      "umap_y": 11.528007507324219
+    },
+    {
+      "name": "Atlas Wang",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 12.952957153320312,
+      "umap_y": 10.661428451538086
+    },
+    {
+      "name": "Karen E. Willcox",
+      "university": "University of Texas at Austin",
+      "cluster_id": 1,
+      "umap_x": 14.134867668151855,
+      "umap_y": 9.56924819946289
+    },
+    {
+      "name": "Amy Zhang",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.185279846191406,
+      "umap_y": 11.010241508483887
+    },
+    {
+      "name": "Mingyuan Zhou",
+      "university": "University of Texas at Austin",
+      "cluster_id": 3,
+      "umap_x": 11.285622596740723,
+      "umap_y": 10.226977348327637
+    },
+    {
+      "name": "Shengwei An",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 10.773950576782227,
+      "umap_y": 3.9996860027313232
+    },
+    {
+      "name": "Godmar Back",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.12464427947998,
+      "umap_y": 5.581692218780518
+    },
+    {
+      "name": "Debswapna Bhattacharya",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 10.239387512207031,
+      "umap_y": 9.219741821289062
+    },
+    {
+      "name": "Doug Bowman",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 13.196422576904297,
+      "umap_y": 9.531413078308105
+    },
+    {
+      "name": "Chris Brown",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.286017417907715,
+      "umap_y": 6.233796119689941
+    },
+    {
+      "name": "Ali Butt",
+      "university": "Virginia Tech",
+      "cluster_id": 5,
+      "umap_x": 9.696505546569824,
+      "umap_y": 6.900500297546387
+    },
+    {
+      "name": "Kirk Cameron",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 10.945991516113281,
+      "umap_y": 7.892825603485107
+    },
+    {
+      "name": "Alberto Cano",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 10.493327140808105,
+      "umap_y": 7.992789268493652
+    },
+    {
+      "name": "Siwei Cao",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.743249893188477,
+      "umap_y": 5.699395179748535
+    },
+    {
+      "name": "Yang Cao",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 9.627169609069824,
+      "umap_y": 9.361726760864258
+    },
+    {
+      "name": "Yan Chen",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.02194595336914,
+      "umap_y": 6.516687393188477
+    },
+    {
+      "name": "Jin-Hee Cho",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 12.733684539794922,
+      "umap_y": 4.380782127380371
+    },
+    {
+      "name": "Tijay Chung",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 11.273442268371582,
+      "umap_y": 3.3899660110473633
+    },
+    {
+      "name": "Jiaming Cui",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.698197364807129,
+      "umap_y": 8.978903770446777
+    },
+    {
+      "name": "Sanmay Das",
+      "university": "Virginia Tech",
+      "cluster_id": 2,
+      "umap_x": 13.754815101623535,
+      "umap_y": 8.309830665588379
+    },
+    {
+      "name": "Brendan David-John",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 13.099112510681152,
+      "umap_y": 9.433460235595703
+    },
+    {
+      "name": "Dan Dunlap",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.930567741394043,
+      "umap_y": 7.0737385749816895
+    },
+    {
+      "name": "Bob Edmison",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.86896800994873,
+      "umap_y": 5.442080497741699
+    },
+    {
+      "name": "Stephen Edwards",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.894804954528809,
+      "umap_y": 5.251011848449707
+    },
+    {
+      "name": "Hoda Eldardiry",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.299592971801758,
+      "umap_y": 8.140878677368164
+    },
+    {
+      "name": "Margaret Ellis",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 14.060750961303711,
+      "umap_y": 5.439001560211182
+    },
+    {
+      "name": "Onyeka Emebo",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 12.056371688842773,
+      "umap_y": 7.430284023284912
+    },
+    {
+      "name": "Mohammed Farghally",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 12.905235290527344,
+      "umap_y": 6.867955207824707
+    },
+    {
+      "name": "Wu-chun Feng",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 9.8563814163208,
+      "umap_y": 8.971467018127441
+    },
+    {
+      "name": "Steven Flammia",
+      "university": "Virginia Tech",
+      "cluster_id": 1,
+      "umap_x": 6.528031349182129,
+      "umap_y": 7.603392601013184
+    },
+    {
+      "name": "Peng Gao",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.637517929077148,
+      "umap_y": 7.648314476013184
+    },
+    {
+      "name": "Vaibhav Garg",
+      "university": "Virginia Tech",
+      "cluster_id": 2,
+      "umap_x": 10.844451904296875,
+      "umap_y": 3.352503538131714
+    },
+    {
+      "name": "Denis Gracanin",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 13.16530704498291,
+      "umap_y": 9.33815860748291
+    },
+    {
+      "name": "Muhammad Ali Gulzar",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.3535737991333,
+      "umap_y": 5.55047607421875
+    },
+    {
+      "name": "Sally Hamouda",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 12.485262870788574,
+      "umap_y": 7.274498462677002
+    },
+    {
+      "name": "Shaddi Hasan",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 11.441751480102539,
+      "umap_y": 6.854630947113037
+    },
+    {
+      "name": "Matthew Hicks",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 11.108559608459473,
+      "umap_y": 6.8586649894714355
+    },
+    {
+      "name": "Thang Hoang",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 12.218486785888672,
+      "umap_y": 3.689345359802246
+    },
+    {
+      "name": "Sara Hooshangi",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 14.05276107788086,
+      "umap_y": 5.369101047515869
+    },
+    {
+      "name": "Reza Jafari",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.432754516601562,
+      "umap_y": 7.913412570953369
+    },
+    {
+      "name": "Bo Ji",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 13.103076934814453,
+      "umap_y": 9.379732131958008
+    },
+    {
+      "name": "Xun (Steve) Jian",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 10.266875267028809,
+      "umap_y": 5.739628791809082
+    },
+    {
+      "name": "Christine Julien",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.154308319091797,
+      "umap_y": 6.622127532958984
+    },
+    {
+      "name": "Murat Kantarcioglu",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 11.940919876098633,
+      "umap_y": 4.048926830291748
+    },
+    {
+      "name": "Anuj Karpatne",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.314351081848145,
+      "umap_y": 8.218313217163086
+    },
+    {
+      "name": "Sumeet Khatri",
+      "university": "Virginia Tech",
+      "cluster_id": 7,
+      "umap_x": 6.5183610916137695,
+      "umap_y": 8.013699531555176
+    },
+    {
+      "name": "Greg Kulczycki",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.738038063049316,
+      "umap_y": 6.102569103240967
+    },
+    {
+      "name": "Sang Won Lee",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.727584838867188,
+      "umap_y": 7.1168413162231445
+    },
+    {
+      "name": "Huaicheng Li",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 10.887502670288086,
+      "umap_y": 6.091912269592285
+    },
+    {
+      "name": "Wenjing Lou",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 12.254350662231445,
+      "umap_y": 4.321815490722656
+    },
+    {
+      "name": "Chang-Tien Lu",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.439513206481934,
+      "umap_y": 8.169398307800293
+    },
+    {
+      "name": "Kurt Luther",
+      "university": "Virginia Tech",
+      "cluster_id": 2,
+      "umap_x": 13.026606559753418,
+      "umap_y": 8.289520263671875
+    },
+    {
+      "name": "Atul Mantri",
+      "university": "Virginia Tech",
+      "cluster_id": 7,
+      "umap_x": 6.245696544647217,
+      "umap_y": 7.971806526184082
+    },
+    {
+      "name": "Scott McCrickard",
+      "university": "Virginia Tech",
+      "cluster_id": 2,
+      "umap_x": 11.686766624450684,
+      "umap_y": 6.801123142242432
+    },
+    {
+      "name": "Ryan P. McMahan",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 13.019232749938965,
+      "umap_y": 9.59796142578125
+    },
+    {
+      "name": "David McPherson",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.927643775939941,
+      "umap_y": 5.2724409103393555
+    },
+    {
+      "name": "Na Meng",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.3298978805542,
+      "umap_y": 5.50396728515625
+    },
+    {
+      "name": "Tessema Mengistu",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.248457908630371,
+      "umap_y": 7.4047088623046875
+    },
+    {
+      "name": "T. M. Murali",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 9.441522598266602,
+      "umap_y": 9.622817993164062
+    },
+    {
+      "name": "Dimitrios Nikolopoulos",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 10.177851676940918,
+      "umap_y": 7.079658508300781
+    },
+    {
+      "name": "Saad Nizamani",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 12.931482315063477,
+      "umap_y": 6.577756404876709
+    },
+    {
+      "name": "Sehrish Basir Nizamani",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 12.728431701660156,
+      "umap_y": 6.627222537994385
+    },
+    {
+      "name": "Sam H. Noh",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 9.967911720275879,
+      "umap_y": 6.927066802978516
+    },
+    {
+      "name": "Chris North",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 12.296982765197754,
+      "umap_y": 7.739906311035156
+    },
+    {
+      "name": "Erika Olimpiew",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.129133224487305,
+      "umap_y": 6.301270484924316
+    },
+    {
+      "name": "Alexey Onufriev",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 9.589131355285645,
+      "umap_y": 9.232107162475586
+    },
+    {
+      "name": "Eric Pauley",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 11.324678421020508,
+      "umap_y": 3.4594380855560303
+    },
+    {
+      "name": "Naren Ramakrishnan",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.655141830444336,
+      "umap_y": 8.166723251342773
+    },
+    {
+      "name": "Chandan Reddy",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.455408096313477,
+      "umap_y": 8.47488021850586
+    },
+    {
+      "name": "Eugenia Rho",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 11.803972244262695,
+      "umap_y": 7.809088706970215
+    },
+    {
+      "name": "Cal Ribbens",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 10.171746253967285,
+      "umap_y": 7.697295188903809
+    },
+    {
+      "name": "Kirsten E. Richards",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.022981643676758,
+      "umap_y": 4.770960330963135
+    },
+    {
+      "name": "Timothy Richards",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 12.97146224975586,
+      "umap_y": 7.871648788452148
+    },
+    {
+      "name": "Adrian Sandu",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 10.340558052062988,
+      "umap_y": 8.703263282775879
+    },
+    {
+      "name": "Palash Sashittal",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 9.428853034973145,
+      "umap_y": 9.668737411499023
+    },
+    {
+      "name": "Allyson Senger",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.755447387695312,
+      "umap_y": 6.020460605621338
+    },
+    {
+      "name": "Mohammed Seyam",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 12.431004524230957,
+      "umap_y": 6.288100719451904
+    },
+    {
+      "name": "Cliff Shaffer",
+      "university": "Virginia Tech",
+      "cluster_id": 6,
+      "umap_x": 13.044097900390625,
+      "umap_y": 6.76154088973999
+    },
+    {
+      "name": "Jamie Sikora",
+      "university": "Virginia Tech",
+      "cluster_id": 7,
+      "umap_x": 6.3015313148498535,
+      "umap_y": 8.017512321472168
+    },
+    {
+      "name": "David H Smith IV",
+      "university": "Virginia Tech",
+      "cluster_id": 2,
+      "umap_x": 13.843692779541016,
+      "umap_y": 7.75898551940918
+    },
+    {
+      "name": "Kirshanthan Sundararajah",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 10.188530921936035,
+      "umap_y": 7.391384124755859
+    },
+    {
+      "name": "Chris Thomas",
+      "university": "Virginia Tech",
+      "cluster_id": 2,
+      "umap_x": 12.423567771911621,
+      "umap_y": 8.682175636291504
+    },
+    {
+      "name": "Eli Tilevich",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 12.09031867980957,
+      "umap_y": 6.280221939086914
+    },
+    {
+      "name": "Ali Vakilian",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 10.574875831604004,
+      "umap_y": 9.198200225830078
+    },
+    {
+      "name": "Bimal Viswanath",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 12.01468276977539,
+      "umap_y": 4.4976911544799805
+    },
+    {
+      "name": "Tu Vu",
+      "university": "Virginia Tech",
+      "cluster_id": 2,
+      "umap_x": 12.799051284790039,
+      "umap_y": 8.754124641418457
+    },
+    {
+      "name": "Xuan Wang",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 12.654434204101562,
+      "umap_y": 8.349648475646973
+    },
+    {
+      "name": "Dan Williams",
+      "university": "Virginia Tech",
+      "cluster_id": 0,
+      "umap_x": 10.970502853393555,
+      "umap_y": 4.283754825592041
+    },
+    {
+      "name": "Ihudiya Finda Williams",
+      "university": "Virginia Tech",
+      "cluster_id": 8,
+      "umap_x": 12.695725440979004,
+      "umap_y": 6.873703956604004
+    },
+    {
+      "name": "Pinar Yanardag",
+      "university": "Virginia Tech",
+      "cluster_id": 3,
+      "umap_x": 12.551542282104492,
+      "umap_y": 9.617513656616211
+    },
+    {
+      "name": "Daphne Yao",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 12.23281478881836,
+      "umap_y": 4.138149261474609
+    },
+    {
+      "name": "Liqing Zhang",
+      "university": "Virginia Tech",
+      "cluster_id": 4,
+      "umap_x": 10.08413028717041,
+      "umap_y": 9.281532287597656
+    },
+    {
+      "name": "Dawei Zhou",
+      "university": "Virginia Tech",
+      "cluster_id": 9,
+      "umap_x": 12.824873924255371,
+      "umap_y": 4.560391426086426
+    }
+  ]
+}
