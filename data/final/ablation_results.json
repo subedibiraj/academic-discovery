@@ -1,0 +1,187 @@
+{
+  "ablations": [
+    {
+      "ablation": "Full Model",
+      "ndcg_at_k": 0.5934,
+      "map_at_k": 0.3877,
+      "empty_docs": 0,
+      "top_5": [
+        [
+          "Andrew McCallum",
+          0.6283
+        ],
+        [
+          "Kia Teymourian",
+          0.5644
+        ],
+        [
+          "Sarah Wiegreffe",
+          0.5514
+        ],
+        [
+          "Daniel P. Miranker",
+          0.5495
+        ],
+        [
+          "Yizhong Wang",
+          0.5364
+        ]
+      ],
+      "ndcg_delta": 0.0,
+      "map_delta": 0.0
+    },
+    {
+      "ablation": "-Biography",
+      "ndcg_at_k": 0.4632,
+      "map_at_k": 0.2442,
+      "empty_docs": 38,
+      "top_5": [
+        [
+          "Daniel P. Miranker",
+          0.6102
+        ],
+        [
+          "Sarah Wiegreffe",
+          0.5514
+        ],
+        [
+          "Paul Fodor",
+          0.5436
+        ],
+        [
+          "Yizhong Wang",
+          0.5426
+        ],
+        [
+          "Elias Stengel-Eskin",
+          0.5426
+        ]
+      ],
+      "ndcg_delta": -0.1302,
+      "map_delta": -0.1435
+    },
+    {
+      "ablation": "-Research Areas",
+      "ndcg_at_k": 0.634,
+      "map_at_k": 0.428,
+      "empty_docs": 291,
+      "top_5": [
+        [
+          "Andrew McCallum",
+          0.5628
+        ],
+        [
+          "Joseph Gonzalez",
+          0.4814
+        ],
+        [
+          "Daniel P. Miranker",
+          0.4561
+        ],
+        [
+          "Kia Teymourian",
+          0.4521
+        ],
+        [
+          "Kemafor Anyanwu Ogan",
+          0.441
+        ]
+      ],
+      "ndcg_delta": 0.0406,
+      "map_delta": 0.0403
+    },
+    {
+      "ablation": "-arXiv Papers",
+      "ndcg_at_k": 0.5934,
+      "map_at_k": 0.3877,
+      "empty_docs": 0,
+      "top_5": [
+        [
+          "Andrew McCallum",
+          0.6283
+        ],
+        [
+          "Kia Teymourian",
+          0.5644
+        ],
+        [
+          "Sarah Wiegreffe",
+          0.5514
+        ],
+        [
+          "Daniel P. Miranker",
+          0.5495
+        ],
+        [
+          "Yizhong Wang",
+          0.5364
+        ]
+      ],
+      "ndcg_delta": 0.0,
+      "map_delta": 0.0
+    },
+    {
+      "ablation": "-Bio -arXiv (profile only)",
+      "ndcg_at_k": 0.4632,
+      "map_at_k": 0.2442,
+      "empty_docs": 38,
+      "top_5": [
+        [
+          "Daniel P. Miranker",
+          0.6102
+        ],
+        [
+          "Sarah Wiegreffe",
+          0.5514
+        ],
+        [
+          "Paul Fodor",
+          0.5436
+        ],
+        [
+          "Yizhong Wang",
+          0.5426
+        ],
+        [
+          "Elias Stengel-Eskin",
+          0.5426
+        ]
+      ],
+      "ndcg_delta": -0.1302,
+      "map_delta": -0.1435
+    },
+    {
+      "ablation": "Research Areas Only",
+      "ndcg_at_k": 0.4265,
+      "map_at_k": 0.2061,
+      "empty_docs": 38,
+      "top_5": [
+        [
+          "Daniel P. Miranker",
+          0.6102
+        ],
+        [
+          "Sarah Wiegreffe",
+          0.5514
+        ],
+        [
+          "Yizhong Wang",
+          0.5426
+        ],
+        [
+          "Greg Durrett",
+          0.5426
+        ],
+        [
+          "Elias Stengel-Eskin",
+          0.5426
+        ]
+      ],
+      "ndcg_delta": -0.1669,
+      "map_delta": -0.1816
+    }
+  ],
+  "config": {
+    "top_k": 10
+  }
+}

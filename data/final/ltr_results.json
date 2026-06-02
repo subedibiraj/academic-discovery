@@ -1,0 +1,72 @@
+{
+  "ltr_ndcg": 0.5679,
+  "ltr_map": 0.48,
+  "feature_importances": {
+    "reranked_score": 0.2565,
+    "tfidf_score": 0.177,
+    "semantic_score": 0.1577,
+    "bm25_score": 0.1172,
+    "hybrid_score": 0.0984,
+    "bio_length": 0.0895,
+    "jaccard_score": 0.0845,
+    "n_research_areas": 0.0191,
+    "has_arxiv": 0.0
+  },
+  "top_10": [
+    {
+      "rank": 1,
+      "name": "David Bamman",
+      "score": 0.9974
+    },
+    {
+      "rank": 2,
+      "name": "Kemafor Anyanwu Ogan",
+      "score": 0.9955
+    },
+    {
+      "rank": 3,
+      "name": "Daniel P. Miranker",
+      "score": 0.9954
+    },
+    {
+      "rank": 4,
+      "name": "Fatma Tarlaci",
+      "score": 0.9945
+    },
+    {
+      "rank": 5,
+      "name": "Ahmad Esmaili",
+      "score": 0.9945
+    },
+    {
+      "rank": 6,
+      "name": "Ruihong Huang",
+      "score": 0.994
+    },
+    {
+      "rank": 7,
+      "name": "Eugenia Rho",
+      "score": 0.9939
+    },
+    {
+      "rank": 8,
+      "name": "Laura Haas",
+      "score": 0.9934
+    },
+    {
+      "rank": 9,
+      "name": "Sreyasee Das Bhattacharjee,PhD",
+      "score": 0.992
+    },
+    {
+      "rank": 10,
+      "name": "Debswapna Bhattacharya",
+      "score": 0.992
+    }
+  ],
+  "comparison": {
+    "semantic_ndcg": 0.5934,
+    "bm25_ndcg": 0.4537,
+    "tfidf_ndcg": 0.0948
+  }
+}
