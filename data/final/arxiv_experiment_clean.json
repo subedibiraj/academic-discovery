@@ -1,0 +1,76 @@
+{
+  "experiment_design": {
+    "subpopulation": 296,
+    "with_arxiv_papers": 79,
+    "conditions": {
+      "A": "profile-only (research_text + biography[:500])",
+      "B": "arXiv-enriched (profile + abstract[:300] x top-3 papers)"
+    },
+    "control": "Same professors, same query, same model \u2014 only embedding content changes",
+    "confounds_fixed": [
+      "Population restricted to same 296 professors in both conditions",
+      "Document length effect isolated (same population)",
+      "No cross-population comparison"
+    ]
+  },
+  "metrics": {
+    "profile_only": {
+      "ndcg_at_k": 0.7722,
+      "precision_at_k": 0.7,
+      "recall_at_k": 0.2917
+    },
+    "arxiv_enriched": {
+      "ndcg_at_k": 0.5958,
+      "precision_at_k": 0.5,
+      "recall_at_k": 0.2083
+    },
+    "delta": {
+      "ndcg": -0.1764,
+      "precision": -0.2,
+      "recall": -0.0833
+    }
+  },
+  "top10_changes": {
+    "dropped": [
+      "James Caverlee",
+      "Joseph Gonzalez",
+      "Ruihong Huang",
+      "Yu Zhang"
+    ],
+    "gained": [
+      "Daniel Klein",
+      "Hamed Zamani",
+      "Hui Guan",
+      "Sarah Chasins"
+    ],
+    "relevant_dropped": [
+      "James Caverlee",
+      "Ruihong Huang",
+      "Yu Zhang"
+    ],
+    "relevant_gained": [
+      "Hamed Zamani"
+    ]
+  },
+  "hypothesis_1_jargon_dilution": {
+    "avg_delta_relevant": -0.2375,
+    "avg_delta_irrelevant": -0.1387,
+    "supported": true,
+    "n_relevant_tested": 3,
+    "n_irrelevant_tested": 17,
+    "caveat": "n_relevant_tested=3 is a SMALL sample -- only 3 of the corpus's relevant professors happened to fall within the pre-selected 'biggest_score_changes' list (top-20 by magnitude among 79 professors with arXiv papers). This result should be treated as suggestive, not confirmatory. A systematic test across all relevant professors (not just the largest-change subset) is needed before treating H1 as established."
+  },
+  "hypothesis_2_recency_bias": {
+    "pct_papers_2025_2026": 71.9,
+    "year_distribution": {
+      "2020": 9,
+      "2021": 13,
+      "2022": 15,
+      "2023": 22,
+      "2024": 39,
+      "2025": 103,
+      "2026": 148
+    },
+    "interpretation": "73%+ papers from 2025-2026; may not reflect primary expertise"
+  }
+}
