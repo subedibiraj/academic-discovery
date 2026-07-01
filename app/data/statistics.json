@@ -1,0 +1,278 @@
+{
+  "total_professors": 768,
+  "universities": {
+    "UC Berkeley": 128,
+    "University of Texas at Austin": 127,
+    "UMass Amherst": 91,
+    "Virginia Tech": 88,
+    "Texas A&M University": 77,
+    "University of Maryland": 75,
+    "University at Buffalo": 65,
+    "North Carolina State University": 59,
+    "Stony Brook University": 58
+  },
+  "coverage": {
+    "email": {
+      "count": 683,
+      "pct": 88.9
+    },
+    "biography": {
+      "count": 477,
+      "pct": 62.1
+    },
+    "research_text": {
+      "count": 730,
+      "pct": 95.1
+    },
+    "education": {
+      "count": 414,
+      "pct": 53.9
+    },
+    "awards": {
+      "count": 322,
+      "pct": 41.9
+    },
+    "publications": {
+      "count": 73,
+      "pct": 9.5
+    },
+    "personal_website": {
+      "count": 437,
+      "pct": 56.9
+    },
+    "google_scholar": {
+      "count": 272,
+      "pct": 35.4
+    },
+    "phone": {
+      "count": 437,
+      "pct": 56.9
+    },
+    "office": {
+      "count": 702,
+      "pct": 91.4
+    }
+  },
+  "research_text_length": {
+    "mean": 97.2,
+    "median": 77.0,
+    "stdev": 223.3,
+    "min": 0,
+    "max": 5949,
+    "empty": 38
+  },
+  "biography_length": {
+    "mean": 593.2,
+    "median": 426.0,
+    "stdev": 700.4,
+    "min": 0,
+    "max": 4407,
+    "empty": 291
+  },
+  "total_unique_areas": 1065,
+  "total_area_mentions": 2451,
+  "top_30_areas": [
+    {
+      "area": "Artificial Intelligence",
+      "count": 116
+    },
+    {
+      "area": "Machine Learning",
+      "count": 73
+    },
+    {
+      "area": "Human-Computer Interaction",
+      "count": 38
+    },
+    {
+      "area": "Computer Science Education",
+      "count": 33
+    },
+    {
+      "area": "Machine Learning and Data Science",
+      "count": 31
+    },
+    {
+      "area": "Artificial Intelligence and Intelligent Agents",
+      "count": 29
+    },
+    {
+      "area": "Natural Language Processing",
+      "count": 29
+    },
+    {
+      "area": "Theory",
+      "count": 25
+    },
+    {
+      "area": "Security and Privacy",
+      "count": 25
+    },
+    {
+      "area": "Operating Systems & Networking",
+      "count": 24
+    },
+    {
+      "area": "Security",
+      "count": 24
+    },
+    {
+      "area": "AI and Robotics",
+      "count": 23
+    },
+    {
+      "area": "Control, Intelligent Systems, and Robotics",
+      "count": 22
+    },
+    {
+      "area": "Computer Vision",
+      "count": 21
+    },
+    {
+      "area": "Biosystems & Computational Biology",
+      "count": 20
+    },
+    {
+      "area": "Data Sciences and Analytics",
+      "count": 18
+    },
+    {
+      "area": "Computer Architecture",
+      "count": 18
+    },
+    {
+      "area": "Computer Vision and Machine Perception",
+      "count": 18
+    },
+    {
+      "area": "Scientific Computing",
+      "count": 17
+    },
+    {
+      "area": "Cyber Security",
+      "count": 17
+    },
+    {
+      "area": "Software Engineering",
+      "count": 17
+    },
+    {
+      "area": "Algorithms and theory",
+      "count": 17
+    },
+    {
+      "area": "Cyber-Physical Systems",
+      "count": 16
+    },
+    {
+      "area": "Computer Graphics",
+      "count": 16
+    },
+    {
+      "area": "theoretical computer science",
+      "count": 16
+    },
+    {
+      "area": "Systems, Networking, and Architecture",
+      "count": 16
+    },
+    {
+      "area": "Computer Architecture & Engineering",
+      "count": 15
+    },
+    {
+      "area": "Programming Systems",
+      "count": 15
+    },
+    {
+      "area": "Programming Languages",
+      "count": 15
+    },
+    {
+      "area": "Graphics",
+      "count": 14
+    }
+  ],
+  "title_distribution": {
+    "Full Professor": 270,
+    "Assistant Professor": 210,
+    "Associate Professor": 198,
+    "Emeritus": 50,
+    "Lecturer": 20,
+    "Other": 20
+  },
+  "per_university": {
+    "UC Berkeley": {
+      "total": 128,
+      "has_email": 125,
+      "has_bio": 108,
+      "has_research": 122,
+      "has_pubs": 0,
+      "has_scholar": 0
+    },
+    "North Carolina State University": {
+      "total": 59,
+      "has_email": 59,
+      "has_bio": 58,
+      "has_research": 58,
+      "has_pubs": 0,
+      "has_scholar": 0
+    },
+    "Stony Brook University": {
+      "total": 58,
+      "has_email": 58,
+      "has_bio": 56,
+      "has_research": 58,
+      "has_pubs": 0,
+      "has_scholar": 0
+    },
+    "Texas A&M University": {
+      "total": 77,
+      "has_email": 77,
+      "has_bio": 0,
+      "has_research": 77,
+      "has_pubs": 73,
+      "has_scholar": 70
+    },
+    "University at Buffalo": {
+      "total": 65,
+      "has_email": 65,
+      "has_bio": 0,
+      "has_research": 65,
+      "has_pubs": 0,
+      "has_scholar": 52
+    },
+    "UMass Amherst": {
+      "total": 91,
+      "has_email": 91,
+      "has_bio": 91,
+      "has_research": 74,
+      "has_pubs": 0,
+      "has_scholar": 0
+    },
+    "University of Maryland": {
+      "total": 75,
+      "has_email": 0,
+      "has_bio": 40,
+      "has_research": 71,
+      "has_pubs": 0,
+      "has_scholar": 68
+    },
+    "University of Texas at Austin": {
+      "total": 127,
+      "has_email": 123,
+      "has_bio": 121,
+      "has_research": 120,
+      "has_pubs": 0,
+      "has_scholar": 0
+    },
+    "Virginia Tech": {
+      "total": 88,
+      "has_email": 85,
+      "has_bio": 3,
+      "has_research": 85,
+      "has_pubs": 0,
+      "has_scholar": 82
+    }
+  }
+}

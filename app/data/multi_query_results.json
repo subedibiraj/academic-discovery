@@ -1,0 +1,340 @@
+{
+  "queries": {
+    "Q1_web_ir_nlp": {
+      "persona": "Web IR & NLP Engineer",
+      "text": "I am interested in large-scale web data collection and information extraction systems, web crawling and browser automation for structured data acquisition, data engineering pipelines for cleaning and transforming heterogeneous data formats (JSON, CSV, Parquet). I have experience applying NLP and machine learning to real-world problems including speech recognition with Whisper for low-resource languages and computer vision for image colorization. I want to work on intelligent systems that automatically discover, extract, and organize knowledge from unstructured web and text data, with applications in information retrieval, natural language processing, and applied machine learning for data science.",
+      "source": "Author's own research interest (original Q1 query — embed.py version)"
+    },
+    "Q2_cv_robotics": {
+      "persona": "Computer Vision & Robot Learning",
+      "text": "I want to work on computer vision and robot learning — specifically teaching robots to perceive and interact with their physical environment using visual inputs. My interests include deep learning for 3D scene understanding, object detection and tracking, robotic manipulation and grasping, reinforcement learning for continuous control, and building autonomous agents that can generalize across environments. I am drawn to labs that combine perception and action in real physical systems rather than purely simulation.",
+      "source": "Composite of r/gradadmissions profiles: applicants describing interests in visual perception, robot manipulation, and embodied AI"
+    },
+    "Q3_security_privacy": {
+      "persona": "Systems Security & Applied Cryptography",
+      "text": "My research interests are in systems security and applied cryptography. I am interested in understanding and defending against real-world attacks on networked systems, including vulnerability discovery, malware analysis, and network intrusion detection. On the cryptographic side I am drawn to privacy-preserving computation, secure multiparty protocols, and cryptographic techniques that can be deployed in practical systems. I am also interested in the security of mobile and IoT devices, and in using machine learning to detect anomalous behavior in large-scale networks.",
+      "source": "Composite of r/netsec and r/gradadmissions profiles: applicants describing interests in offensive/defensive security and privacy-preserving systems"
+    },
+    "Q4_systems_distributed": {
+      "persona": "Distributed Systems & Cloud Infrastructure",
+      "text": "I am interested in the design and implementation of large-scale distributed systems — the kind of infrastructure that powers cloud computing platforms at Google, Amazon, and Microsoft. My specific interests include distributed storage systems, consistency and replication protocols, fault tolerance and reliability in the presence of failures, operating system kernels and resource scheduling, and the intersection of systems software with machine learning workloads. I want to build systems that are fast, reliable, and easy for developers to reason about.",
+      "source": "Composite of r/cscareerquestions and r/gradadmissions profiles: applicants with systems engineering background targeting distributed systems or cloud computing research"
+    },
+    "Q5_bio_health": {
+      "persona": "Computational Biology & Health Informatics",
+      "text": "I come from a background in both computer science and molecular biology and I want to apply machine learning and statistical methods to biological and medical problems. My interests include computational genomics, protein structure prediction, single-cell RNA sequencing analysis, and using deep learning to interpret clinical data and medical imaging. I am particularly drawn to research that connects algorithmic advances to real clinical impact — drug target discovery, precision medicine, and early disease detection using multi-modal patient data.",
+      "source": "Composite of r/bioinformatics and r/gradadmissions profiles: applicants from biology/CS backgrounds targeting computational genomics or medical AI research"
+    }
+  },
+  "per_query_ndcg": {
+    "Q1_web_ir_nlp": {
+      "jaccard": 0.2115,
+      "tfidf": 0.11,
+      "bm25": 0.4537,
+      "semantic": 0.5934,
+      "hybrid": 0.4131,
+      "reranked": 0.5581
+    },
+    "Q2_cv_robotics": {
+      "jaccard": 0.7156,
+      "tfidf": 0.3273,
+      "bm25": 0.4666,
+      "semantic": 0.611,
+      "hybrid": 0.5428,
+      "reranked": 0.6547
+    },
+    "Q3_security_privacy": {
+      "jaccard": 0.2533,
+      "tfidf": 0.3437,
+      "bm25": 0.4487,
+      "semantic": 0.4153,
+      "hybrid": 0.4789,
+      "reranked": 0.4912
+    },
+    "Q4_systems_distributed": {
+      "jaccard": 0.2697,
+      "tfidf": 0.2759,
+      "bm25": 0.4106,
+      "semantic": 0.3445,
+      "hybrid": 0.3783,
+      "reranked": 0.368
+    },
+    "Q5_bio_health": {
+      "jaccard": 0.0663,
+      "tfidf": 0.1732,
+      "bm25": 0.2489,
+      "semantic": 0.2895,
+      "hybrid": 0.2935,
+      "reranked": 0.3149
+    }
+  },
+  "per_query_map": {
+    "Q1_web_ir_nlp": {
+      "jaccard": 0.0717,
+      "tfidf": 0.0333,
+      "bm25": 0.275,
+      "semantic": 0.3877,
+      "hybrid": 0.2278,
+      "reranked": 0.3463
+    },
+    "Q2_cv_robotics": {
+      "jaccard": 0.569,
+      "tfidf": 0.1667,
+      "bm25": 0.2571,
+      "semantic": 0.4167,
+      "hybrid": 0.3296,
+      "reranked": 0.4717
+    },
+    "Q3_security_privacy": {
+      "jaccard": 0.1079,
+      "tfidf": 0.1917,
+      "bm25": 0.2544,
+      "semantic": 0.2267,
+      "hybrid": 0.2667,
+      "reranked": 0.2861
+    },
+    "Q4_systems_distributed": {
+      "jaccard": 0.1462,
+      "tfidf": 0.1553,
+      "bm25": 0.2971,
+      "semantic": 0.1706,
+      "hybrid": 0.2489,
+      "reranked": 0.2433
+    },
+    "Q5_bio_health": {
+      "jaccard": 0.0111,
+      "tfidf": 0.0583,
+      "bm25": 0.1167,
+      "semantic": 0.125,
+      "hybrid": 0.1286,
+      "reranked": 0.15
+    }
+  },
+  "aggregate": {
+    "jaccard": {
+      "mean_ndcg": 0.3033,
+      "std_ndcg": 0.244,
+      "min_ndcg": 0.0663,
+      "max_ndcg": 0.7156,
+      "per_query": {
+        "Q1_web_ir_nlp": 0.2115,
+        "Q2_cv_robotics": 0.7156,
+        "Q3_security_privacy": 0.2533,
+        "Q4_systems_distributed": 0.2697,
+        "Q5_bio_health": 0.0663
+      }
+    },
+    "tfidf": {
+      "mean_ndcg": 0.246,
+      "std_ndcg": 0.1011,
+      "min_ndcg": 0.11,
+      "max_ndcg": 0.3437,
+      "per_query": {
+        "Q1_web_ir_nlp": 0.11,
+        "Q2_cv_robotics": 0.3273,
+        "Q3_security_privacy": 0.3437,
+        "Q4_systems_distributed": 0.2759,
+        "Q5_bio_health": 0.1732
+      }
+    },
+    "bm25": {
+      "mean_ndcg": 0.4057,
+      "std_ndcg": 0.0901,
+      "min_ndcg": 0.2489,
+      "max_ndcg": 0.4666,
+      "per_query": {
+        "Q1_web_ir_nlp": 0.4537,
+        "Q2_cv_robotics": 0.4666,
+        "Q3_security_privacy": 0.4487,
+        "Q4_systems_distributed": 0.4106,
+        "Q5_bio_health": 0.2489
+      }
+    },
+    "semantic": {
+      "mean_ndcg": 0.4507,
+      "std_ndcg": 0.1454,
+      "min_ndcg": 0.2895,
+      "max_ndcg": 0.611,
+      "per_query": {
+        "Q1_web_ir_nlp": 0.5934,
+        "Q2_cv_robotics": 0.611,
+        "Q3_security_privacy": 0.4153,
+        "Q4_systems_distributed": 0.3445,
+        "Q5_bio_health": 0.2895
+      }
+    },
+    "hybrid": {
+      "mean_ndcg": 0.4213,
+      "std_ndcg": 0.0953,
+      "min_ndcg": 0.2935,
+      "max_ndcg": 0.5428,
+      "per_query": {
+        "Q1_web_ir_nlp": 0.4131,
+        "Q2_cv_robotics": 0.5428,
+        "Q3_security_privacy": 0.4789,
+        "Q4_systems_distributed": 0.3783,
+        "Q5_bio_health": 0.2935
+      }
+    },
+    "reranked": {
+      "mean_ndcg": 0.4774,
+      "std_ndcg": 0.1383,
+      "min_ndcg": 0.3149,
+      "max_ndcg": 0.6547,
+      "per_query": {
+        "Q1_web_ir_nlp": 0.5581,
+        "Q2_cv_robotics": 0.6547,
+        "Q3_security_privacy": 0.4912,
+        "Q4_systems_distributed": 0.368,
+        "Q5_bio_health": 0.3149
+      }
+    }
+  },
+  "bootstrap_ci": {
+    "jaccard": {
+      "ci_low": 0.1411,
+      "ci_high": 0.5256
+    },
+    "tfidf": {
+      "ci_low": 0.1661,
+      "ci_high": 0.3203
+    },
+    "bm25": {
+      "ci_low": 0.3222,
+      "ci_high": 0.4579
+    },
+    "semantic": {
+      "ci_low": 0.3367,
+      "ci_high": 0.5648
+    },
+    "hybrid": {
+      "ci_low": 0.3475,
+      "ci_high": 0.4917
+    },
+    "reranked": {
+      "ci_low": 0.3714,
+      "ci_high": 0.5834
+    }
+  },
+  "pairwise_kw": {
+    "jaccard vs tfidf": {
+      "mean_diff": 0.0578,
+      "p_raw": 0.546,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "jaccard vs bm25": {
+      "mean_diff": -0.1016,
+      "p_raw": 0.1642,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "tfidf vs bm25": {
+      "mean_diff": -0.1594,
+      "p_raw": 0.0,
+      "p_bonf": 0.0,
+      "significant": true
+    }
+  },
+  "pairwise_all": {
+    "jaccard vs tfidf": {
+      "mean_diff": 0.0578,
+      "p_raw": 0.546,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "jaccard vs bm25": {
+      "mean_diff": -0.1016,
+      "p_raw": 0.1642,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "jaccard vs semantic": {
+      "mean_diff": -0.1467,
+      "p_raw": 0.0426,
+      "p_bonf": 0.639,
+      "significant": false
+    },
+    "jaccard vs hybrid": {
+      "mean_diff": -0.1173,
+      "p_raw": 0.1204,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "jaccard vs reranked": {
+      "mean_diff": -0.1732,
+      "p_raw": 0.007,
+      "p_bonf": 0.105,
+      "significant": false
+    },
+    "tfidf vs bm25": {
+      "mean_diff": -0.1594,
+      "p_raw": 0.0,
+      "p_bonf": 0.0,
+      "significant": true
+    },
+    "tfidf vs semantic": {
+      "mean_diff": -0.2045,
+      "p_raw": 0.0,
+      "p_bonf": 0.0,
+      "significant": true
+    },
+    "tfidf vs hybrid": {
+      "mean_diff": -0.1751,
+      "p_raw": 0.0,
+      "p_bonf": 0.0,
+      "significant": true
+    },
+    "tfidf vs reranked": {
+      "mean_diff": -0.231,
+      "p_raw": 0.0,
+      "p_bonf": 0.0,
+      "significant": true
+    },
+    "bm25 vs semantic": {
+      "mean_diff": -0.0451,
+      "p_raw": 0.2422,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "bm25 vs hybrid": {
+      "mean_diff": -0.0157,
+      "p_raw": 0.4418,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "bm25 vs reranked": {
+      "mean_diff": -0.0717,
+      "p_raw": 0.0306,
+      "p_bonf": 0.459,
+      "significant": false
+    },
+    "semantic vs hybrid": {
+      "mean_diff": 0.0294,
+      "p_raw": 0.4612,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "semantic vs reranked": {
+      "mean_diff": -0.0265,
+      "p_raw": 0.0964,
+      "p_bonf": 1.0,
+      "significant": false
+    },
+    "hybrid vs reranked": {
+      "mean_diff": -0.056,
+      "p_raw": 0.014,
+      "p_bonf": 0.21,
+      "significant": false
+    }
+  },
+  "config": {
+    "n_queries": 5,
+    "n_bootstrap": 10000,
+    "top_k": 10,
+    "n_methods_active": 6,
+    "n_comparisons": 15,
+    "semantic_available": true,
+    "note": "Semantic/hybrid/reranked for Q2-Q5 require running analysis/embed_queries.py with HuggingFace access. pairwise_all == pairwise_kw when semantic data is unavailable (only 3 keyword methods are active)."
+  }
+}

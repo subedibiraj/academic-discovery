@@ -1,0 +1,390 @@
+{
+  "arxiv_coverage": {
+    "professors_with_papers": 79,
+    "total_professors": 296,
+    "coverage_pct": 26.7,
+    "total_papers": 349,
+    "avg_papers_per_prof": 4.4,
+    "year_distribution": {
+      "2020": 9,
+      "2021": 13,
+      "2022": 15,
+      "2023": 22,
+      "2024": 39,
+      "2025": 103,
+      "2026": 148
+    },
+    "top_categories": [
+      {
+        "category": "cs.LG",
+        "count": 104
+      },
+      {
+        "category": "cs.AI",
+        "count": 100
+      },
+      {
+        "category": "cs.CL",
+        "count": 59
+      },
+      {
+        "category": "cs.CV",
+        "count": 55
+      },
+      {
+        "category": "cs.CR",
+        "count": 49
+      },
+      {
+        "category": "cs.RO",
+        "count": 36
+      },
+      {
+        "category": "cs.HC",
+        "count": 27
+      },
+      {
+        "category": "cs.GR",
+        "count": 22
+      },
+      {
+        "category": "cs.CY",
+        "count": 20
+      },
+      {
+        "category": "cs.DS",
+        "count": 18
+      },
+      {
+        "category": "stat.ML",
+        "count": 14
+      },
+      {
+        "category": "cs.DC",
+        "count": 13
+      },
+      {
+        "category": "cs.CC",
+        "count": 12
+      },
+      {
+        "category": "cs.IT",
+        "count": 10
+      },
+      {
+        "category": "eess.AS",
+        "count": 10
+      }
+    ]
+  },
+  "ranking_comparison": {
+    "top_k": 10,
+    "overlap_count": 6,
+    "overlap_names": [
+      "Aditya Parameswaran",
+      "Andrew Lan",
+      "Andrew McCallum",
+      "Ina Fiterau Brostean",
+      "James Allan",
+      "W. Bruce Croft"
+    ],
+    "profile_only": [
+      "James Caverlee",
+      "Joseph Gonzalez",
+      "Ruihong Huang",
+      "Yu Zhang"
+    ],
+    "arxiv_enriched_only": [
+      "Daniel Klein",
+      "Hamed Zamani",
+      "Hui Guan",
+      "Sarah Chasins"
+    ],
+    "top_k_profile": [
+      {
+        "rank": 1,
+        "name": "Andrew McCallum",
+        "university": "UMass Amherst",
+        "score": 0.6283
+      },
+      {
+        "rank": 2,
+        "name": "James Caverlee",
+        "university": "Texas A&M University",
+        "score": 0.526
+      },
+      {
+        "rank": 3,
+        "name": "Ruihong Huang",
+        "university": "Texas A&M University",
+        "score": 0.5164
+      },
+      {
+        "rank": 4,
+        "name": "Joseph Gonzalez",
+        "university": "UC Berkeley",
+        "score": 0.5153
+      },
+      {
+        "rank": 5,
+        "name": "Yu Zhang",
+        "university": "Texas A&M University",
+        "score": 0.4936
+      },
+      {
+        "rank": 6,
+        "name": "Aditya Parameswaran",
+        "university": "UC Berkeley",
+        "score": 0.4902
+      },
+      {
+        "rank": 7,
+        "name": "W. Bruce Croft",
+        "university": "UMass Amherst",
+        "score": 0.4862
+      },
+      {
+        "rank": 8,
+        "name": "Ina Fiterau Brostean",
+        "university": "UMass Amherst",
+        "score": 0.4837
+      },
+      {
+        "rank": 9,
+        "name": "James Allan",
+        "university": "UMass Amherst",
+        "score": 0.4761
+      },
+      {
+        "rank": 10,
+        "name": "Andrew Lan",
+        "university": "UMass Amherst",
+        "score": 0.4755
+      }
+    ],
+    "top_k_arxiv": [
+      {
+        "rank": 1,
+        "name": "Andrew McCallum",
+        "university": "UMass Amherst",
+        "score": 0.6283
+      },
+      {
+        "rank": 2,
+        "name": "Aditya Parameswaran",
+        "university": "UC Berkeley",
+        "score": 0.4902
+      },
+      {
+        "rank": 3,
+        "name": "Sarah Chasins",
+        "university": "UC Berkeley",
+        "score": 0.49
+      },
+      {
+        "rank": 4,
+        "name": "W. Bruce Croft",
+        "university": "UMass Amherst",
+        "score": 0.4862
+      },
+      {
+        "rank": 5,
+        "name": "Ina Fiterau Brostean",
+        "university": "UMass Amherst",
+        "score": 0.4837
+      },
+      {
+        "rank": 6,
+        "name": "James Allan",
+        "university": "UMass Amherst",
+        "score": 0.4761
+      },
+      {
+        "rank": 7,
+        "name": "Andrew Lan",
+        "university": "UMass Amherst",
+        "score": 0.4755
+      },
+      {
+        "rank": 8,
+        "name": "Daniel Klein",
+        "university": "UC Berkeley",
+        "score": 0.4633
+      },
+      {
+        "rank": 9,
+        "name": "Hui Guan",
+        "university": "UMass Amherst",
+        "score": 0.4622
+      },
+      {
+        "rank": 10,
+        "name": "Hamed Zamani",
+        "university": "UMass Amherst",
+        "score": 0.4597
+      }
+    ]
+  },
+  "biggest_score_changes": [
+    {
+      "name": "Ruihong Huang",
+      "university": "Texas A&M University",
+      "profile_score": 0.5164,
+      "arxiv_score": 0.2306,
+      "change": -0.2857,
+      "has_papers": true
+    },
+    {
+      "name": "James Caverlee",
+      "university": "Texas A&M University",
+      "profile_score": 0.526,
+      "arxiv_score": 0.295,
+      "change": -0.231,
+      "has_papers": true
+    },
+    {
+      "name": "Abdullah Muzahid",
+      "university": "Texas A&M University",
+      "profile_score": 0.3668,
+      "arxiv_score": 0.1471,
+      "change": -0.2197,
+      "has_papers": true
+    },
+    {
+      "name": "Scott Schaefer",
+      "university": "Texas A&M University",
+      "profile_score": 0.2211,
+      "arxiv_score": 0.0118,
+      "change": -0.2093,
+      "has_papers": true
+    },
+    {
+      "name": "Nima Kalantari",
+      "university": "Texas A&M University",
+      "profile_score": 0.2834,
+      "arxiv_score": 0.0755,
+      "change": -0.2079,
+      "has_papers": true
+    },
+    {
+      "name": "Shuiwang Ji",
+      "university": "Texas A&M University",
+      "profile_score": 0.4491,
+      "arxiv_score": 0.2468,
+      "change": -0.2022,
+      "has_papers": true
+    },
+    {
+      "name": "Wenping Wang",
+      "university": "Texas A&M University",
+      "profile_score": 0.3371,
+      "arxiv_score": 0.136,
+      "change": -0.2011,
+      "has_papers": true
+    },
+    {
+      "name": "Venkatesan Guruswami",
+      "university": "UC Berkeley",
+      "profile_score": 0.2832,
+      "arxiv_score": 0.0841,
+      "change": -0.1991,
+      "has_papers": true
+    },
+    {
+      "name": "Yu Zhang",
+      "university": "Texas A&M University",
+      "profile_score": 0.4936,
+      "arxiv_score": 0.298,
+      "change": -0.1957,
+      "has_papers": true
+    },
+    {
+      "name": "Sarah Chasins",
+      "university": "UC Berkeley",
+      "profile_score": 0.2984,
+      "arxiv_score": 0.49,
+      "change": 0.1915,
+      "has_papers": true
+    },
+    {
+      "name": "Tomer Galanti",
+      "university": "Texas A&M University",
+      "profile_score": 0.3763,
+      "arxiv_score": 0.1937,
+      "change": -0.1825,
+      "has_papers": true
+    },
+    {
+      "name": "Khanh Nguyen",
+      "university": "Texas A&M University",
+      "profile_score": 0.3989,
+      "arxiv_score": 0.2267,
+      "change": -0.1722,
+      "has_papers": true
+    },
+    {
+      "name": "Ariful Azad",
+      "university": "Texas A&M University",
+      "profile_score": 0.3738,
+      "arxiv_score": 0.2021,
+      "change": -0.1717,
+      "has_papers": true
+    },
+    {
+      "name": "Joseph Gonzalez",
+      "university": "UC Berkeley",
+      "profile_score": 0.5153,
+      "arxiv_score": 0.3458,
+      "change": -0.1695,
+      "has_papers": true
+    },
+    {
+      "name": "Jeff Huang",
+      "university": "Texas A&M University",
+      "profile_score": 0.1953,
+      "arxiv_score": 0.3542,
+      "change": 0.1589,
+      "has_papers": true
+    },
+    {
+      "name": "Kuan-Hao Huang",
+      "university": "Texas A&M University",
+      "profile_score": 0.3704,
+      "arxiv_score": 0.2126,
+      "change": -0.1578,
+      "has_papers": true
+    },
+    {
+      "name": "Natacha Crooks",
+      "university": "UC Berkeley",
+      "profile_score": 0.2493,
+      "arxiv_score": 0.0933,
+      "change": -0.156,
+      "has_papers": true
+    },
+    {
+      "name": "John DeNero",
+      "university": "UC Berkeley",
+      "profile_score": 0.435,
+      "arxiv_score": 0.2791,
+      "change": -0.1559,
+      "has_papers": true
+    },
+    {
+      "name": "Alan Kuhnle",
+      "university": "Texas A&M University",
+      "profile_score": 0.3434,
+      "arxiv_score": 0.1912,
+      "change": -0.1521,
+      "has_papers": true
+    },
+    {
+      "name": "Wenhui Chu",
+      "university": "Texas A&M University",
+      "profile_score": 0.3182,
+      "arxiv_score": 0.1671,
+      "change": -0.1511,
+      "has_papers": true
+    }
+  ]
+}

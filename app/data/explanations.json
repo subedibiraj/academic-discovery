@@ -1,0 +1,2256 @@
+{
+  "my_interest": "I am interested in large-scale web data collection and information extraction \nsystems, web crawling and browser automation for structured data acquisition, \ndata engineering pipelines for cleaning and transforming heterogeneous data \nformats (JSON, CSV, Parquet). I have experience applying NLP and machine \nlearning to real-world problems including speech recognition with Whisper \nfor low-resource languages and computer vision for image colorization. \nI want to work on intelligent systems that automatically discover, extract, \nand organize knowledge from unstructured web and text data, with applications \nin information retrieval, natural language processing, and applied machine \nlearning for data science.",
+  "total_explained": 50,
+  "explanations": {
+    "Sarah Wiegreffe": {
+      "rank": 1,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.091
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0303
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0303
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0303
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0152
+        },
+        {
+          "term": "natural",
+          "relevance": 0.0152
+        }
+      ],
+      "shared_topics": [
+        "Natural Language Processing",
+        "Machine Learning and Data Science"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5514,
+        "tfidf_score": 0.2878,
+        "hybrid_score": 0.9204,
+        "jaccard_score": 0.1228,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 59.9
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, learning, machine learning; shared interest in Natural Language Processing, Machine Learning and Data Science; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Mohit Iyyer": {
+      "rank": 2,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.091
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0303
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0303
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0303
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0152
+        },
+        {
+          "term": "natural",
+          "relevance": 0.0152
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning and Data Science",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5254,
+        "tfidf_score": 0.2878,
+        "hybrid_score": 0.8935,
+        "jaccard_score": 0.1228,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 58.8
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, learning, machine learning; shared interest in Machine Learning and Data Science, Natural Language Processing; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Andrew McCallum": {
+      "rank": 3,
+      "matching_keywords": [
+        {
+          "term": "learning",
+          "relevance": 0.0148
+        },
+        {
+          "term": "information",
+          "relevance": 0.0148
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0118
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0118
+        },
+        {
+          "term": "web",
+          "relevance": 0.0089
+        },
+        {
+          "term": "data",
+          "relevance": 0.0089
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.6283,
+        "tfidf_score": 0.188,
+        "hybrid_score": 0.8786,
+        "jaccard_score": 0.1277,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 71.5
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like learning, information, machine learning; shared interest in Machine Learning; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "James Caverlee": {
+      "rank": 4,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0516
+        },
+        {
+          "term": "information",
+          "relevance": 0.0344
+        },
+        {
+          "term": "web",
+          "relevance": 0.0258
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0172
+        },
+        {
+          "term": "scale",
+          "relevance": 0.0086
+        },
+        {
+          "term": "retrieval",
+          "relevance": 0.0086
+        }
+      ],
+      "shared_topics": [
+        "Web-scale information management",
+        "Distributed data-intensive systems",
+        "Information retrieval"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.526,
+        "tfidf_score": 0.2665,
+        "hybrid_score": 0.8682,
+        "jaccard_score": 0.0794,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 60.6
+      },
+      "cluster_id": 0,
+      "cluster_label": "Programming Languages / Computer Architecture / Software Engineering",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, information, web; shared interest in Web-scale information management, Distributed data-intensive systems; part of the Programming Languages / Computer Architecture / Software Engineering research cluster."
+    },
+    "Rachel Rudinger": {
+      "rank": 5,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0728
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0243
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0243
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0243
+        },
+        {
+          "term": "language",
+          "relevance": 0.0121
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0121
+        }
+      ],
+      "shared_topics": [
+        "Natural Language Processing",
+        "Machine Learning and Data Science",
+        "AI and Robotics"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5309,
+        "tfidf_score": 0.2495,
+        "hybrid_score": 0.8527,
+        "jaccard_score": 0.1186,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 62.3
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, machine learning, learning; shared interest in Natural Language Processing, Machine Learning and Data Science; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Daniel P. Miranker": {
+      "rank": 6,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.1064
+        },
+        {
+          "term": "web",
+          "relevance": 0.0319
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0071
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0071
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0071
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0035
+        }
+      ],
+      "shared_topics": [
+        "Semantic Web and the application of machine learning methods to automate data integration",
+        "Data Virtualization",
+        "Data Warehousing",
+        "Query Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5495,
+        "tfidf_score": 0.2093,
+        "hybrid_score": 0.8229,
+        "jaccard_score": 0.0805,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 66.8
+      },
+      "cluster_id": 4,
+      "cluster_label": "Machine Learning / Algorithms And Theory / Biosystems & Computational Biology",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, web, machine; shared interest in Semantic Web and the application of machine learning methods to automate data integration, Data Virtualization; part of the Machine Learning / Algorithms And Theory / Biosystems & Computational Biology research cluster."
+    },
+    "Marine Carpuat": {
+      "rank": 7,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0728
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0243
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0243
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0243
+        },
+        {
+          "term": "language",
+          "relevance": 0.0121
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0121
+        }
+      ],
+      "shared_topics": [
+        "AI and Robotics",
+        "Machine Learning and Data Science",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4974,
+        "tfidf_score": 0.2495,
+        "hybrid_score": 0.818,
+        "jaccard_score": 0.1186,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 60.8
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine learning, learning; shared interest in AI and Robotics, Machine Learning and Data Science; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Hal Daumé III": {
+      "rank": 8,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0728
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0243
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0243
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0243
+        },
+        {
+          "term": "language",
+          "relevance": 0.0121
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0121
+        }
+      ],
+      "shared_topics": [
+        "AI and Robotics",
+        "Machine Learning and Data Science",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4974,
+        "tfidf_score": 0.2495,
+        "hybrid_score": 0.818,
+        "jaccard_score": 0.1186,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 60.8
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine learning, learning; shared interest in AI and Robotics, Machine Learning and Data Science; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Peng Gao": {
+      "rank": 9,
+      "matching_keywords": [
+        {
+          "term": "systems",
+          "relevance": 0.0169
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0084
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0042
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0042
+        },
+        {
+          "term": "science",
+          "relevance": 0.0042
+        },
+        {
+          "term": "intelligent",
+          "relevance": 0.0042
+        }
+      ],
+      "shared_topics": [
+        "Artificial Intelligence and Intelligent Agents",
+        "Embedded and Real-Time Systems"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4593,
+        "tfidf_score": 0.2793,
+        "hybrid_score": 0.8147,
+        "jaccard_score": 0.15,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 56.4
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like systems, learning, machine learning; shared interest in Artificial Intelligence and Intelligent Agents, Embedded and Real-Time Systems; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Ruihong Huang": {
+      "rank": 10,
+      "matching_keywords": [
+        {
+          "term": "learning",
+          "relevance": 0.0186
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0186
+        },
+        {
+          "term": "information",
+          "relevance": 0.0186
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0186
+        },
+        {
+          "term": "language processing",
+          "relevance": 0.0093
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0093
+        }
+      ],
+      "shared_topics": [
+        "Natural language processing (NLP)",
+        "Information extraction",
+        "Machine learning"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5164,
+        "tfidf_score": 0.2198,
+        "hybrid_score": 0.8015,
+        "jaccard_score": 0.1311,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 64.4
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like learning, machine, information; shared interest in Natural language processing (NLP), Information extraction; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Kia Teymourian": {
+      "rank": 11,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0641
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0214
+        },
+        {
+          "term": "information",
+          "relevance": 0.0142
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0071
+        },
+        {
+          "term": "real",
+          "relevance": 0.0036
+        },
+        {
+          "term": "science",
+          "relevance": 0.0036
+        }
+      ],
+      "shared_topics": [
+        "Database Systems",
+        "Data Analytics",
+        "Data Stream Processing",
+        "Knowledge-based Complex Event Processing",
+        "Large-scale Semantic-Enabled Distributed Information Systems"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5644,
+        "tfidf_score": 0.1614,
+        "hybrid_score": 0.7802,
+        "jaccard_score": 0.1064,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 72.3
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, systems, information; shared interest in Database Systems, Data Analytics; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Onyeka Emebo": {
+      "rank": 12,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0565
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0188
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0188
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0188
+        },
+        {
+          "term": "information",
+          "relevance": 0.0188
+        },
+        {
+          "term": "language processing",
+          "relevance": 0.0094
+        }
+      ],
+      "shared_topics": [
+        "data analytics",
+        "information retrieval",
+        "machine learning",
+        "natural language processing",
+        "software engineering"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4485,
+        "tfidf_score": 0.2596,
+        "hybrid_score": 0.7797,
+        "jaccard_score": 0.1475,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 57.5
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine, machine learning; shared interest in data analytics, information retrieval; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Kemafor Anyanwu Ogan": {
+      "rank": 13,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0572
+        },
+        {
+          "term": "information",
+          "relevance": 0.0191
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0191
+        },
+        {
+          "term": "web",
+          "relevance": 0.0143
+        },
+        {
+          "term": "knowledge",
+          "relevance": 0.0095
+        },
+        {
+          "term": "intelligent",
+          "relevance": 0.0048
+        }
+      ],
+      "shared_topics": [
+        "Artificial Intelligence and Intelligent Agents",
+        "Data Sciences and Analytics",
+        "Embedded and Real-Time Systems",
+        "Information and Knowledge Management",
+        "Parallel and Distributed Systems"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5008,
+        "tfidf_score": 0.2122,
+        "hybrid_score": 0.7762,
+        "jaccard_score": 0.075,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 64.5
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, information, systems; shared interest in Artificial Intelligence and Intelligent Agents, Data Sciences and Analytics; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Eugenia Rho": {
+      "rank": 14,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0644
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0215
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0215
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0215
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0107
+        },
+        {
+          "term": "language",
+          "relevance": 0.0107
+        }
+      ],
+      "shared_topics": [
+        "data analytics",
+        "machine learning",
+        "natural language processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4755,
+        "tfidf_score": 0.228,
+        "hybrid_score": 0.7692,
+        "jaccard_score": 0.1167,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 61.8
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, machine; shared interest in data analytics, machine learning; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Rohini Srihari,PhD": {
+      "rank": 15,
+      "matching_keywords": [
+        {
+          "term": "information",
+          "relevance": 0.0515
+        },
+        {
+          "term": "retrieval",
+          "relevance": 0.0129
+        },
+        {
+          "term": "information retrieval",
+          "relevance": 0.0129
+        },
+        {
+          "term": "extraction",
+          "relevance": 0.0129
+        },
+        {
+          "term": "information extraction",
+          "relevance": 0.0129
+        },
+        {
+          "term": "text",
+          "relevance": 0.0129
+        }
+      ],
+      "shared_topics": [
+        "Information extraction",
+        "information retrieval",
+        "text mining"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4865,
+        "tfidf_score": 0.2106,
+        "hybrid_score": 0.7594,
+        "jaccard_score": 0.069,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 64.1
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like information, retrieval, information retrieval; shared interest in Information extraction, information retrieval; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Debswapna Bhattacharya": {
+      "rank": 16,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0589
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0196
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0196
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0196
+        },
+        {
+          "term": "information",
+          "relevance": 0.0196
+        },
+        {
+          "term": "retrieval",
+          "relevance": 0.0098
+        }
+      ],
+      "shared_topics": [
+        "data analytics",
+        "information retrieval",
+        "machine learning",
+        "natural language processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4291,
+        "tfidf_score": 0.2516,
+        "hybrid_score": 0.7499,
+        "jaccard_score": 0.1311,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 57.2
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine learning, learning; shared interest in data analytics, information retrieval; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Yu Zhang": {
+      "rank": 17,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0644
+        },
+        {
+          "term": "science",
+          "relevance": 0.0107
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0107
+        },
+        {
+          "term": "language processing",
+          "relevance": 0.0107
+        },
+        {
+          "term": "language",
+          "relevance": 0.0107
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0107
+        }
+      ],
+      "shared_topics": [
+        "Data mining",
+        "Natural language processing",
+        "Artificial intelligence (AI) for science"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4936,
+        "tfidf_score": 0.1845,
+        "hybrid_score": 0.735,
+        "jaccard_score": 0.082,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 67.2
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, science, natural language; shared interest in Data mining, Natural language processing; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Jordan Boyd-Graber": {
+      "rank": 18,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0529
+        },
+        {
+          "term": "information",
+          "relevance": 0.0353
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0176
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0176
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0176
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0176
+        }
+      ],
+      "shared_topics": [
+        "AI and Robotics",
+        "Information Retrieval and Geographic Information Systems (GIS)",
+        "Machine Learning and Data Science",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4267,
+        "tfidf_score": 0.2361,
+        "hybrid_score": 0.7285,
+        "jaccard_score": 0.1475,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 58.6
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, information, systems; shared interest in AI and Robotics, Information Retrieval and Geographic Information Systems (GIS); part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Sreyasee Das Bhattacharjee,PhD": {
+      "rank": 19,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0854
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0142
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0142
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0142
+        },
+        {
+          "term": "scale",
+          "relevance": 0.0071
+        },
+        {
+          "term": "large scale",
+          "relevance": 0.0071
+        }
+      ],
+      "shared_topics": [
+        "Computer vision",
+        "machine learning",
+        "pattern recognition",
+        "large-scale visual search and mining"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4532,
+        "tfidf_score": 0.2084,
+        "hybrid_score": 0.7222,
+        "jaccard_score": 0.125,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 62.8
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, machine, learning; shared interest in Computer vision, machine learning; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Greg Durrett": {
+      "rank": 20,
+      "matching_keywords": [
+        {
+          "term": "information",
+          "relevance": 0.0143
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0072
+        },
+        {
+          "term": "natural",
+          "relevance": 0.0072
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0072
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0072
+        },
+        {
+          "term": "science",
+          "relevance": 0.0072
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4839,
+        "tfidf_score": 0.1678,
+        "hybrid_score": 0.7046,
+        "jaccard_score": 0.1522,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 68.7
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like information, processing, natural; shared interest in Machine Learning, Natural Language Processing; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Samson Zhou": {
+      "rank": 21,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0846
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0282
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0282
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0282
+        },
+        {
+          "term": "data science",
+          "relevance": 0.0141
+        },
+        {
+          "term": "science",
+          "relevance": 0.0141
+        }
+      ],
+      "shared_topics": [
+        "Data science",
+        "Machine learning"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4129,
+        "tfidf_score": 0.2202,
+        "hybrid_score": 0.6949,
+        "jaccard_score": 0.0678,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 59.4
+      },
+      "cluster_id": 4,
+      "cluster_label": "Machine Learning / Algorithms And Theory / Biosystems & Computational Biology",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine learning, learning; shared interest in Data science, Machine learning; part of the Machine Learning / Algorithms And Theory / Biosystems & Computational Biology research cluster."
+    },
+    "David Harwath": {
+      "rank": 22,
+      "matching_keywords": [
+        {
+          "term": "learning",
+          "relevance": 0.0222
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0148
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0148
+        },
+        {
+          "term": "language",
+          "relevance": 0.0111
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0111
+        },
+        {
+          "term": "speech",
+          "relevance": 0.0074
+        }
+      ],
+      "shared_topics": [
+        "Computer Vision",
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4888,
+        "tfidf_score": 0.1525,
+        "hybrid_score": 0.6911,
+        "jaccard_score": 0.1264,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 70.7
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like learning, machine learning, machine; shared interest in Computer Vision, Machine Learning; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Sally Hamouda": {
+      "rank": 23,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0711
+        },
+        {
+          "term": "science",
+          "relevance": 0.0118
+        },
+        {
+          "term": "text",
+          "relevance": 0.0118
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0118
+        }
+      ],
+      "shared_topics": [
+        "computer science education",
+        "data analytics",
+        "text mining"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4648,
+        "tfidf_score": 0.1627,
+        "hybrid_score": 0.6787,
+        "jaccard_score": 0.0667,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 68.5
+      },
+      "cluster_id": 6,
+      "cluster_label": "Computer Science Education / Human-Computer Interaction / Education",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, science, text; shared interest in computer science education, data analytics; part of the Computer Science Education / Human-Computer Interaction / Education research cluster."
+    },
+    "Chandan Reddy": {
+      "rank": 24,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.1202
+        },
+        {
+          "term": "learning",
+          "relevance": 0.02
+        },
+        {
+          "term": "learning data",
+          "relevance": 0.01
+        },
+        {
+          "term": "text",
+          "relevance": 0.01
+        }
+      ],
+      "shared_topics": [
+        "deep learning",
+        "data analytics",
+        "big data",
+        "text mining"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4308,
+        "tfidf_score": 0.1898,
+        "hybrid_score": 0.6764,
+        "jaccard_score": 0.0484,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 63.7
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, learning data; shared interest in deep learning, data analytics; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Anuj Karpatne": {
+      "rank": 25,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.1777
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0148
+        },
+        {
+          "term": "science",
+          "relevance": 0.0148
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0148
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0148
+        },
+        {
+          "term": "data science",
+          "relevance": 0.0074
+        }
+      ],
+      "shared_topics": [
+        "data mining",
+        "machine learning",
+        "theory-guided data science",
+        "earth science data"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.3952,
+        "tfidf_score": 0.2137,
+        "hybrid_score": 0.6687,
+        "jaccard_score": 0.0635,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 59.1
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, learning, science; shared interest in data mining, machine learning; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Joseph Gonzalez": {
+      "rank": 26,
+      "matching_keywords": [
+        {
+          "term": "learning",
+          "relevance": 0.0257
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0214
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0128
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0128
+        },
+        {
+          "term": "data",
+          "relevance": 0.0128
+        },
+        {
+          "term": "including",
+          "relevance": 0.0043
+        }
+      ],
+      "shared_topics": [],
+      "score_breakdown": {
+        "semantic_score": 0.5153,
+        "tfidf_score": 0.1076,
+        "hybrid_score": 0.6639,
+        "jaccard_score": 0.0816,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 77.6
+      },
+      "cluster_id": 5,
+      "cluster_label": "Operating Systems & Networking / Networking And Distributed Systems / Cloud Computing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like learning, systems, machine learning; part of the Operating Systems & Networking / Networking And Distributed Systems / Cloud Computing research cluster."
+    },
+    "Hanan Samet": {
+      "rank": 27,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0637
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0212
+        },
+        {
+          "term": "information",
+          "relevance": 0.0212
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0106
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0106
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0106
+        }
+      ],
+      "shared_topics": [
+        "AI and Robotics",
+        "Computer Vision and Machine Perception",
+        "Databases and Big Data",
+        "Information Retrieval and Geographic Information Systems (GIS)",
+        "Machine Learning and Data Science",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.3582,
+        "tfidf_score": 0.2407,
+        "hybrid_score": 0.6631,
+        "jaccard_score": 0.1757,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 54.0
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine, information; shared interest in AI and Robotics, Computer Vision and Machine Perception; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Yizhong Wang": {
+      "rank": 28,
+      "matching_keywords": [
+        {
+          "term": "machine learning",
+          "relevance": 0.008
+        },
+        {
+          "term": "learning",
+          "relevance": 0.008
+        },
+        {
+          "term": "machine",
+          "relevance": 0.008
+        },
+        {
+          "term": "language",
+          "relevance": 0.008
+        },
+        {
+          "term": "work",
+          "relevance": 0.004
+        },
+        {
+          "term": "science",
+          "relevance": 0.004
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning",
+        "Natural Language Processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.5364,
+        "tfidf_score": 0.0764,
+        "hybrid_score": 0.6477,
+        "jaccard_score": 0.1023,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 82.8
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like machine learning, learning, machine; shared interest in Machine Learning, Natural Language Processing; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Heng Huang": {
+      "rank": 29,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0495
+        },
+        {
+          "term": "machine",
+          "relevance": 0.033
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0165
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0165
+        },
+        {
+          "term": "computer vision",
+          "relevance": 0.0083
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0083
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning and Data Science",
+        "Computer Vision and Machine Perception",
+        "Natural Language Processing",
+        "AI and Robotics"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.3723,
+        "tfidf_score": 0.2143,
+        "hybrid_score": 0.6457,
+        "jaccard_score": 0.1429,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 57.7
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine, machine learning; shared interest in Machine Learning and Data Science, Computer Vision and Machine Perception; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Liqing Zhang": {
+      "rank": 30,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0902
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0301
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0301
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0301
+        }
+      ],
+      "shared_topics": [
+        "data analytics",
+        "machine learning"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.3958,
+        "tfidf_score": 0.1836,
+        "hybrid_score": 0.6327,
+        "jaccard_score": 0.0508,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 62.6
+      },
+      "cluster_id": 4,
+      "cluster_label": "Machine Learning / Algorithms And Theory / Biosystems & Computational Biology",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, machine learning, learning; shared interest in data analytics, machine learning; part of the Machine Learning / Algorithms And Theory / Biosystems & Computational Biology research cluster."
+    },
+    "Kirk Cameron": {
+      "rank": 31,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0546
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0182
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0182
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0182
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0182
+        },
+        {
+          "term": "science",
+          "relevance": 0.0091
+        }
+      ],
+      "shared_topics": [
+        "systems",
+        "data analytics",
+        "machine learning",
+        "software engineering"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4231,
+        "tfidf_score": 0.1581,
+        "hybrid_score": 0.63,
+        "jaccard_score": 0.0794,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 67.2
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, systems, machine learning; shared interest in systems, data analytics; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Ali Vakilian": {
+      "rank": 32,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0875
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0292
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0292
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0292
+        },
+        {
+          "term": "learning data",
+          "relevance": 0.0146
+        },
+        {
+          "term": "data science",
+          "relevance": 0.0146
+        }
+      ],
+      "shared_topics": [
+        "algorithmic foundations of machine learning",
+        "data science"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4222,
+        "tfidf_score": 0.1557,
+        "hybrid_score": 0.6261,
+        "jaccard_score": 0.0678,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 67.4
+      },
+      "cluster_id": 4,
+      "cluster_label": "Machine Learning / Algorithms And Theory / Biosystems & Computational Biology",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, machine; shared interest in algorithmic foundations of machine learning, data science; part of the Machine Learning / Algorithms And Theory / Biosystems & Computational Biology research cluster."
+    },
+    "Fatma Tarlaci": {
+      "rank": 33,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0329
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0219
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0165
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0165
+        },
+        {
+          "term": "language",
+          "relevance": 0.0082
+        },
+        {
+          "term": "science",
+          "relevance": 0.0082
+        }
+      ],
+      "shared_topics": [
+        "Natural Language Understanding & Large Language Models",
+        "Data Science & Machine Learning",
+        "Computer Science Education; Advanced Learning Technologies"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4442,
+        "tfidf_score": 0.1369,
+        "hybrid_score": 0.626,
+        "jaccard_score": 0.1078,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 71.0
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, machine; shared interest in Natural Language Understanding & Large Language Models, Data Science & Machine Learning; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Mohammad Nayeem Teli": {
+      "rank": 34,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0742
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0495
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0247
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0247
+        },
+        {
+          "term": "computer vision",
+          "relevance": 0.0124
+        },
+        {
+          "term": "data science",
+          "relevance": 0.0124
+        }
+      ],
+      "shared_topics": [
+        "Computer Vision and Machine Perception",
+        "Machine Learning and Data Science"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.3319,
+        "tfidf_score": 0.2294,
+        "hybrid_score": 0.6223,
+        "jaccard_score": 0.1034,
+        "primary_driver": "balanced",
+        "explanation": "Both keyword and conceptual similarity contribute",
+        "semantic_pct": 53.3
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to both keyword and conceptual similarity to your interests; matching on terms like data, machine, learning; shared interest in Computer Vision and Machine Perception, Machine Learning and Data Science; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Amol Deshpande": {
+      "rank": 35,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.089
+        },
+        {
+          "term": "science",
+          "relevance": 0.0074
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0056
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0037
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0037
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0037
+        }
+      ],
+      "shared_topics": [
+        "Databases and Big Data",
+        "Machine Learning and Data Science"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.481,
+        "tfidf_score": 0.0997,
+        "hybrid_score": 0.6189,
+        "jaccard_score": 0.0532,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 77.7
+      },
+      "cluster_id": 5,
+      "cluster_label": "Operating Systems & Networking / Networking And Distributed Systems / Cloud Computing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, science, computer; shared interest in Databases and Big Data, Machine Learning and Data Science; part of the Operating Systems & Networking / Networking And Distributed Systems / Cloud Computing research cluster."
+    },
+    "W. Bruce Croft": {
+      "rank": 36,
+      "matching_keywords": [
+        {
+          "term": "information",
+          "relevance": 0.018
+        },
+        {
+          "term": "retrieval",
+          "relevance": 0.009
+        },
+        {
+          "term": "web",
+          "relevance": 0.0054
+        },
+        {
+          "term": "information retrieval",
+          "relevance": 0.0054
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0036
+        },
+        {
+          "term": "science",
+          "relevance": 0.0036
+        }
+      ],
+      "shared_topics": [],
+      "score_breakdown": {
+        "semantic_score": 0.4862,
+        "tfidf_score": 0.0921,
+        "hybrid_score": 0.615,
+        "jaccard_score": 0.0619,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 79.1
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like information, retrieval, web; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Niranjan Balasubramanian": {
+      "rank": 37,
+      "matching_keywords": [
+        {
+          "term": "information",
+          "relevance": 0.013
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0065
+        },
+        {
+          "term": "science",
+          "relevance": 0.0065
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0065
+        },
+        {
+          "term": "language",
+          "relevance": 0.0065
+        },
+        {
+          "term": "information retrieval",
+          "relevance": 0.0065
+        }
+      ],
+      "shared_topics": [
+        "Natural Language Processing (NLP) and information retrieval."
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4452,
+        "tfidf_score": 0.1264,
+        "hybrid_score": 0.6143,
+        "jaccard_score": 0.1047,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 72.5
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like information, processing, science; shared interest in Natural Language Processing (NLP) and information retrieval.; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Xuan Wang": {
+      "rank": 38,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0644
+        },
+        {
+          "term": "processing",
+          "relevance": 0.0107
+        },
+        {
+          "term": "natural",
+          "relevance": 0.0107
+        },
+        {
+          "term": "natural language",
+          "relevance": 0.0107
+        },
+        {
+          "term": "text",
+          "relevance": 0.0107
+        },
+        {
+          "term": "language processing",
+          "relevance": 0.0107
+        }
+      ],
+      "shared_topics": [
+        "data mining",
+        "natural language processing"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4008,
+        "tfidf_score": 0.1641,
+        "hybrid_score": 0.6142,
+        "jaccard_score": 0.0847,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 65.3
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, processing, natural; shared interest in data mining, natural language processing; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Ahmad Esmaili": {
+      "rank": 39,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0318
+        },
+        {
+          "term": "web",
+          "relevance": 0.0159
+        },
+        {
+          "term": "science",
+          "relevance": 0.0106
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0106
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0106
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0106
+        }
+      ],
+      "shared_topics": [
+        "AI Tools in Teaching and Learning",
+        "Web and Cloud-Based Technologies",
+        "Information Systems and Data Management",
+        "Computer Science Education and Pedagogy"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.427,
+        "tfidf_score": 0.1367,
+        "hybrid_score": 0.6079,
+        "jaccard_score": 0.0779,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 70.2
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, web, science; shared interest in AI Tools in Teaching and Learning, Web and Cloud-Based Technologies; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Timothy Menzies": {
+      "rank": 40,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0417
+        },
+        {
+          "term": "information",
+          "relevance": 0.0278
+        },
+        {
+          "term": "knowledge",
+          "relevance": 0.0069
+        },
+        {
+          "term": "intelligent",
+          "relevance": 0.0069
+        },
+        {
+          "term": "languages",
+          "relevance": 0.0069
+        },
+        {
+          "term": "engineering",
+          "relevance": 0.0069
+        }
+      ],
+      "shared_topics": [
+        "Artificial Intelligence and Intelligent Agents",
+        "Data Sciences and Analytics",
+        "Information and Knowledge Management",
+        "Software Engineering and Programming Languages"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.3833,
+        "tfidf_score": 0.1732,
+        "hybrid_score": 0.6071,
+        "jaccard_score": 0.0882,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 63.1
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, information, knowledge; shared interest in Artificial Intelligence and Intelligent Agents, Data Sciences and Analytics; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "David Bamman": {
+      "rank": 41,
+      "matching_keywords": [
+        {
+          "term": "text",
+          "relevance": 0.0072
+        },
+        {
+          "term": "information",
+          "relevance": 0.0072
+        },
+        {
+          "term": "language",
+          "relevance": 0.0072
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0072
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0072
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0072
+        }
+      ],
+      "shared_topics": [],
+      "score_breakdown": {
+        "semantic_score": 0.42,
+        "tfidf_score": 0.1377,
+        "hybrid_score": 0.602,
+        "jaccard_score": 0.1264,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 69.8
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like text, information, language; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Ritwik Banerjee": {
+      "rank": 42,
+      "matching_keywords": [
+        {
+          "term": "information",
+          "relevance": 0.0149
+        },
+        {
+          "term": "science",
+          "relevance": 0.0111
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0111
+        },
+        {
+          "term": "language",
+          "relevance": 0.0074
+        },
+        {
+          "term": "nlp",
+          "relevance": 0.0074
+        },
+        {
+          "term": "extraction",
+          "relevance": 0.0074
+        }
+      ],
+      "shared_topics": [
+        "Natural Language Processing (NLP)",
+        "Information Extraction"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4184,
+        "tfidf_score": 0.1363,
+        "hybrid_score": 0.5985,
+        "jaccard_score": 0.092,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 69.9
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like information, science, computer; shared interest in Natural Language Processing (NLP), Information Extraction; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Alberto Cano": {
+      "rank": 43,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0677
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0226
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0226
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0226
+        },
+        {
+          "term": "learning data",
+          "relevance": 0.0113
+        }
+      ],
+      "shared_topics": [
+        "machine learning",
+        "data streams"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4512,
+        "tfidf_score": 0.1082,
+        "hybrid_score": 0.5983,
+        "jaccard_score": 0.0484,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 75.4
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, machine learning; shared interest in machine learning, data streams; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Hamed Zamani": {
+      "rank": 44,
+      "matching_keywords": [
+        {
+          "term": "information",
+          "relevance": 0.0278
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0139
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0093
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0093
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0093
+        },
+        {
+          "term": "retrieval",
+          "relevance": 0.007
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4597,
+        "tfidf_score": 0.1,
+        "hybrid_score": 0.5972,
+        "jaccard_score": 0.0638,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 77.0
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like information, systems, machine; shared interest in Machine Learning; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Dan Sheldon": {
+      "rank": 45,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0659
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0088
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0088
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0088
+        },
+        {
+          "term": "scale",
+          "relevance": 0.0066
+        },
+        {
+          "term": "large",
+          "relevance": 0.0044
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.408,
+        "tfidf_score": 0.1426,
+        "hybrid_score": 0.5954,
+        "jaccard_score": 0.0816,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 68.5
+      },
+      "cluster_id": 4,
+      "cluster_label": "Machine Learning / Algorithms And Theory / Biosystems & Computational Biology",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, machine learning; shared interest in Machine Learning; part of the Machine Learning / Algorithms And Theory / Biosystems & Computational Biology research cluster."
+    },
+    "Raymond Mooney": {
+      "rank": 46,
+      "matching_keywords": [
+        {
+          "term": "learning",
+          "relevance": 0.0346
+        },
+        {
+          "term": "data",
+          "relevance": 0.0207
+        },
+        {
+          "term": "language",
+          "relevance": 0.0069
+        },
+        {
+          "term": "information",
+          "relevance": 0.0069
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0069
+        },
+        {
+          "term": "text",
+          "relevance": 0.0069
+        }
+      ],
+      "shared_topics": [
+        "Natural Language Learning",
+        "Connecting Language and Perception",
+        "Information Extraction",
+        "Transfer and Active Learning",
+        "Text Categorization and Clustering",
+        "Text Data Mining"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4391,
+        "tfidf_score": 0.1157,
+        "hybrid_score": 0.595,
+        "jaccard_score": 0.0909,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 73.8
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like learning, data, language; shared interest in Natural Language Learning, Connecting Language and Perception; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Ina Fiterau Brostean": {
+      "rank": 47,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0424
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0235
+        },
+        {
+          "term": "machine",
+          "relevance": 0.0141
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.0141
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0047
+        },
+        {
+          "term": "information",
+          "relevance": 0.0047
+        }
+      ],
+      "shared_topics": [
+        "Machine Learning"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4837,
+        "tfidf_score": 0.0745,
+        "hybrid_score": 0.591,
+        "jaccard_score": 0.0625,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 81.8
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, machine; shared interest in Machine Learning; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    },
+    "Shuiwang Ji": {
+      "rank": 48,
+      "matching_keywords": [
+        {
+          "term": "learning",
+          "relevance": 0.019
+        },
+        {
+          "term": "machine",
+          "relevance": 0.019
+        },
+        {
+          "term": "machine learning",
+          "relevance": 0.019
+        },
+        {
+          "term": "science",
+          "relevance": 0.0095
+        },
+        {
+          "term": "engineering",
+          "relevance": 0.0095
+        },
+        {
+          "term": "language",
+          "relevance": 0.0095
+        }
+      ],
+      "shared_topics": [
+        "Machine learning",
+        "Artificial intelligence (AI) for science and engineering",
+        "Language models and agents"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4491,
+        "tfidf_score": 0.1036,
+        "hybrid_score": 0.5905,
+        "jaccard_score": 0.0806,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 76.1
+      },
+      "cluster_id": 8,
+      "cluster_label": "Machine Learning / Natural Language Processing / Machine Learning And Data Science",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like learning, machine, machine learning; shared interest in Machine learning, Artificial intelligence (AI) for science and engineering; part of the Machine Learning / Natural Language Processing / Machine Learning And Data Science research cluster."
+    },
+    "Oliver Kennedy,PhD": {
+      "rank": 49,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.136
+        },
+        {
+          "term": "languages",
+          "relevance": 0.0076
+        },
+        {
+          "term": "science",
+          "relevance": 0.0076
+        },
+        {
+          "term": "data science",
+          "relevance": 0.0076
+        }
+      ],
+      "shared_topics": [
+        "programming languages",
+        "user interfaces for data science",
+        "data structures"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.3825,
+        "tfidf_score": 0.1592,
+        "hybrid_score": 0.5893,
+        "jaccard_score": 0.0455,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 64.9
+      },
+      "cluster_id": 0,
+      "cluster_label": "Programming Languages / Computer Architecture / Software Engineering",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, languages, science; shared interest in programming languages, user interfaces for data science; part of the Programming Languages / Computer Architecture / Software Engineering research cluster."
+    },
+    "Thomas Price": {
+      "rank": 50,
+      "matching_keywords": [
+        {
+          "term": "data",
+          "relevance": 0.0526
+        },
+        {
+          "term": "learning",
+          "relevance": 0.0088
+        },
+        {
+          "term": "computer",
+          "relevance": 0.0088
+        },
+        {
+          "term": "intelligent",
+          "relevance": 0.0066
+        },
+        {
+          "term": "science",
+          "relevance": 0.0066
+        },
+        {
+          "term": "systems",
+          "relevance": 0.0044
+        }
+      ],
+      "shared_topics": [
+        "Artificial Intelligence and Intelligent Agents",
+        "Data Sciences and Analytics"
+      ],
+      "score_breakdown": {
+        "semantic_score": 0.4322,
+        "tfidf_score": 0.1163,
+        "hybrid_score": 0.5885,
+        "jaccard_score": 0.066,
+        "primary_driver": "semantic",
+        "explanation": "Conceptually similar research (embedding match)",
+        "semantic_pct": 73.4
+      },
+      "cluster_id": 2,
+      "cluster_label": "Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing",
+      "summary": "Recommended due to strong conceptual alignment with your research interests; matching on terms like data, learning, computer; shared interest in Artificial Intelligence and Intelligent Agents, Data Sciences and Analytics; part of the Artificial Intelligence / Artificial Intelligence And Intelligent Agents / Natural Language Processing research cluster."
+    }
+  }
+}

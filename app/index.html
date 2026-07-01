@@ -1,0 +1,765 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Academic Research Discovery</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0a0e17;--card:#111827;--card2:#1a2332;--border:#1e293b;--text:#e2e8f0;--muted:#94a3b8;--accent:#3b82f6;--accent2:#8b5cf6;--green:#22c55e;--orange:#f59e0b;--red:#ef4444;--pink:#ec4899}
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);line-height:1.6;overflow-x:hidden}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+
+/* Hero */
+.hero{padding:60px 40px;text-align:center;background:linear-gradient(135deg,#0f172a 0%,#1e1b4b 50%,#0f172a 100%);border-bottom:1px solid var(--border);position:relative;overflow:hidden}
+.hero::before{content:'';position:absolute;top:-50%;left:-50%;width:200%;height:200%;background:radial-gradient(circle at 30% 50%,rgba(59,130,246,0.08) 0%,transparent 50%),radial-gradient(circle at 70% 50%,rgba(139,92,246,0.06) 0%,transparent 50%);animation:pulse 8s ease-in-out infinite alternate}
+@keyframes pulse{0%{opacity:0.5;transform:scale(1)}100%{opacity:1;transform:scale(1.05)}}
+.hero h1{font-size:2.5rem;font-weight:700;background:linear-gradient(135deg,#60a5fa,#a78bfa,#f472b6);-webkit-background-clip:text;-webkit-text-fill-color:transparent;margin-bottom:12px;position:relative}
+.hero p{color:var(--muted);font-size:1.05rem;max-width:700px;margin:0 auto 30px;position:relative}
+.stats-row{display:flex;justify-content:center;gap:24px;flex-wrap:wrap;position:relative}
+.stat-card{background:rgba(255,255,255,0.04);backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,0.08);border-radius:14px;padding:20px 28px;min-width:150px;transition:transform 0.2s,border-color 0.3s}
+.stat-card:hover{transform:translateY(-3px);border-color:rgba(59,130,246,0.3)}
+.stat-card .num{font-size:2rem;font-weight:700;color:var(--accent)}
+.stat-card .label{font-size:0.8rem;color:var(--muted);text-transform:uppercase;letter-spacing:1px;margin-top:4px}
+
+/* Tabs */
+.tabs{display:flex;justify-content:center;gap:4px;padding:20px 40px 0;background:var(--bg);position:sticky;top:0;z-index:100;border-bottom:1px solid var(--border)}
+.tab{padding:12px 24px;cursor:pointer;color:var(--muted);font-weight:500;font-size:0.9rem;border-bottom:2px solid transparent;transition:all 0.2s}
+.tab:hover{color:var(--text)}
+.tab.active{color:var(--accent);border-bottom-color:var(--accent)}
+
+/* Sections */
+.section{display:none;padding:30px 40px;max-width:1200px;margin:0 auto}
+.section.active{display:block}
+.section h2{font-size:1.6rem;font-weight:600;margin-bottom:20px;display:flex;align-items:center;gap:10px}
+
+/* Search */
+.search-bar{display:flex;gap:12px;margin-bottom:24px;flex-wrap:wrap}
+.search-bar input,.search-bar select{background:var(--card);border:1px solid var(--border);color:var(--text);padding:10px 16px;border-radius:10px;font-size:0.9rem;font-family:inherit;outline:none;transition:border-color 0.2s}
+.search-bar input{flex:1;min-width:240px}
+.search-bar input:focus,.search-bar select:focus{border-color:var(--accent)}
+.search-bar select{min-width:160px;cursor:pointer}
+
+/* Table */
+.prof-table{width:100%;border-collapse:separate;border-spacing:0;font-size:0.88rem}
+.prof-table thead th{background:var(--card2);color:var(--muted);font-weight:600;text-transform:uppercase;font-size:0.75rem;letter-spacing:0.5px;padding:12px 14px;text-align:left;position:sticky;top:52px;cursor:pointer;user-select:none;border-bottom:1px solid var(--border)}
+.prof-table thead th:hover{color:var(--text)}
+.prof-table tbody tr{transition:background 0.15s;cursor:pointer}
+.prof-table tbody tr:hover{background:rgba(59,130,246,0.06)}
+.prof-table tbody td{padding:12px 14px;border-bottom:1px solid rgba(255,255,255,0.04);vertical-align:top}
+.prof-table .rank{color:var(--muted);font-weight:600;width:40px}
+.prof-table .name-cell{font-weight:500}
+.prof-table .uni{font-size:0.78rem;color:var(--muted)}
+.score-badge{display:inline-block;padding:3px 8px;border-radius:6px;font-size:0.78rem;font-weight:600;min-width:52px;text-align:center}
+.score-high{background:rgba(34,197,94,0.15);color:#4ade80}
+.score-mid{background:rgba(245,158,11,0.15);color:#fbbf24}
+.score-low{background:rgba(239,68,68,0.12);color:#f87171}
+
+/* Expanded row */
+.expand-row{display:none;background:var(--card)}
+.expand-row.open{display:table-row}
+.expand-content{padding:20px;display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.expand-content h4{font-size:0.85rem;color:var(--accent);text-transform:uppercase;letter-spacing:0.5px;margin-bottom:8px}
+.expand-content p,.expand-content li{font-size:0.85rem;color:var(--muted);line-height:1.5}
+.expand-content ul{list-style:none;padding:0}
+.expand-content li::before{content:'>';color:var(--accent);margin-right:8px}
+.paper-item{background:var(--card2);border-radius:8px;padding:10px 14px;margin-bottom:8px;border-left:3px solid var(--accent2)}
+.paper-item .paper-title{font-weight:500;font-size:0.83rem;color:var(--text)}
+.paper-item .paper-year{font-size:0.75rem;color:var(--muted)}
+
+/* Comparison cards */
+.comp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-bottom:30px}
+.comp-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:22px;transition:transform 0.2s}
+.comp-card:hover{transform:translateY(-2px)}
+.comp-card h3{font-size:1rem;margin-bottom:12px;color:var(--text)}
+.comp-card .metric{font-size:2.2rem;font-weight:700}
+.comp-card .sublabel{font-size:0.8rem;color:var(--muted);margin-top:4px}
+
+/* Finding box */
+.finding{background:linear-gradient(135deg,rgba(59,130,246,0.08),rgba(139,92,246,0.08));border:1px solid rgba(59,130,246,0.2);border-radius:14px;padding:28px;margin-bottom:30px}
+.finding h3{color:var(--accent);margin-bottom:12px;font-size:1.1rem}
+.finding p{color:var(--muted);font-size:0.95rem}
+.finding strong{color:var(--text)}
+
+/* Precision table */
+.pr-table{width:100%;max-width:500px;border-collapse:collapse;margin:16px 0}
+.pr-table th,.pr-table td{padding:10px 16px;text-align:left;border-bottom:1px solid var(--border)}
+.pr-table th{color:var(--muted);font-size:0.78rem;text-transform:uppercase}
+.pr-table td{font-size:0.9rem}
+.pr-table tr.best td{color:var(--green);font-weight:600}
+
+/* Bar chart */
+.bar-chart{margin:16px 0}
+.bar-row{display:flex;align-items:center;margin-bottom:8px;gap:10px}
+.bar-label{width:80px;font-size:0.82rem;color:var(--muted);text-align:right}
+.bar-track{flex:1;height:28px;background:var(--card2);border-radius:6px;overflow:hidden;position:relative}
+.bar-fill{height:100%;border-radius:6px;display:flex;align-items:center;justify-content:flex-end;padding-right:10px;font-size:0.75rem;font-weight:600;transition:width 0.8s ease}
+.bar-value{width:50px;font-size:0.82rem;font-weight:600;text-align:left}
+
+/* Responsive */
+@media(max-width:768px){
+  .hero{padding:40px 20px}.hero h1{font-size:1.8rem}
+  .section{padding:20px 16px}.stats-row{gap:12px}
+  .search-bar{flex-direction:column}.search-bar input,.search-bar select{width:100%}
+  .expand-content{grid-template-columns:1fr}
+  .tabs{overflow-x:auto;justify-content:flex-start;padding:12px 16px 0}
+}
+.count-badge{font-size:0.8rem;color:var(--muted);font-weight:400;margin-left:8px}
+
+/* Research Map */
+.map-container{position:relative;background:var(--card);border:1px solid var(--border);border-radius:14px;overflow:hidden}
+.map-container canvas{display:block;width:100%;cursor:crosshair}
+.map-tooltip{position:absolute;background:rgba(17,24,39,0.95);border:1px solid var(--accent);border-radius:10px;padding:12px 16px;pointer-events:none;display:none;z-index:10;max-width:280px;backdrop-filter:blur(8px)}
+.map-tooltip .tt-name{font-weight:600;font-size:0.9rem;color:var(--text)}
+.map-tooltip .tt-uni{font-size:0.78rem;color:var(--muted);margin:2px 0 6px}
+.map-tooltip .tt-cluster{font-size:0.78rem;color:var(--accent);padding:3px 8px;background:rgba(59,130,246,0.12);border-radius:6px;display:inline-block}
+.map-legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.legend-item{display:flex;align-items:center;gap:6px;padding:6px 12px;background:var(--card);border:1px solid var(--border);border-radius:8px;font-size:0.78rem;cursor:pointer;transition:all 0.2s;user-select:none}
+.legend-item:hover{border-color:var(--accent);transform:translateY(-1px)}
+.legend-item.active{border-color:var(--accent);background:rgba(59,130,246,0.08)}
+.legend-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.legend-label{color:var(--muted);max-width:200px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.legend-count{color:var(--accent);font-weight:600;margin-left:4px}
+.map-info{display:flex;gap:16px;margin-bottom:16px;flex-wrap:wrap}
+.map-info-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 18px;flex:1;min-width:180px}
+.map-info-card .mic-label{font-size:0.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.5px}
+.map-info-card .mic-value{font-size:1.4rem;font-weight:700;color:var(--accent);margin-top:4px}
+</style>
+</head>
+<body>
+
+<!-- Hero -->
+<div class="hero">
+  <h1>Academic Research Discovery</h1>
+  <p>Multi-method IR evaluation: 6 retrieval methods, 768 CS faculty from 9 US universities, 162 graded relevance judgments across 5 queries. Reranked fusion achieves best mean NDCG@10 (0.477) across queries; TF-IDF is significantly worse than all other methods (p &lt; 0.001, Bonferroni corrected).</p>
+  <div class="stats-row" id="statsRow"></div>
+</div>
+
+<!-- Tabs -->
+<div class="tabs">
+  <div class="tab active" data-tab="explore">Explore Faculty</div>
+  <div class="tab" data-tab="researchmap">Research Map</div>
+  <div class="tab" data-tab="analytics">Analytics</div>
+  <div class="tab" data-tab="comparison">Comparison</div>
+  <div class="tab" data-tab="findings">Research Finding</div>
+</div>
+
+<!-- Explore Section -->
+<div class="section active" id="explore">
+  <h2>Faculty Explorer <span class="count-badge" id="resultCount"></span></h2>
+  <div class="search-bar">
+    <input type="text" id="searchInput" placeholder="Search by name, research area, or keyword...">
+    <select id="uniFilter"><option value="">All Universities</option></select>
+    <select id="sortBy">
+      <option value="hybrid_score">Sort: Hybrid Score</option>
+      <option value="bm25_score">Sort: BM25 Score</option>
+      <option value="reranked_score">Sort: Reranked Score</option>
+      <option value="semantic_score">Sort: Semantic Score</option>
+      <option value="tfidf_score">Sort: TF-IDF Score</option>
+      <option value="name">Sort: Name</option>
+    </select>
+  </div>
+  <table class="prof-table">
+    <thead>
+      <tr>
+        <th>#</th><th>Name</th><th>University</th><th>Research</th>
+        <th>Semantic</th><th>BM25</th><th>TF-IDF</th><th>Hybrid</th><th>Reranked</th>
+      </tr>
+    </thead>
+    <tbody id="profBody"></tbody>
+  </table>
+</div>
+
+<!-- Comparison Section -->
+<div class="section" id="comparison">
+  <h2>Method Comparison</h2>
+  <div class="comp-grid" id="compGrid"></div>
+  <h3 style="margin:24px 0 12px;font-size:1.1rem">Precision & Recall @ 10</h3>
+  <div id="prTableWrap"></div>
+  <h3 style="margin:24px 0 12px;font-size:1.1rem">Score Distributions (Mean)</h3>
+  <div id="scoreBarChart" class="bar-chart"></div>
+</div>
+
+<!-- Research Map Section -->
+<div class="section" id="researchmap">
+  <h2>Research Landscape Map</h2>
+  <p style="color:var(--muted);margin-bottom:16px;font-size:0.9rem">UMAP projection of 384-dimensional sentence embeddings. Each dot is a professor, colored by research cluster. The <strong style="color:var(--pink)">★ star</strong> marks your research interest position.</p>
+  <div class="map-info" id="mapInfo"></div>
+  <div class="map-container">
+    <canvas id="mapCanvas" width="1100" height="600"></canvas>
+    <div class="map-tooltip" id="mapTooltip"></div>
+  </div>
+  <div class="map-legend" id="mapLegend"></div>
+</div>
+
+<!-- Findings Section -->
+<div class="section" id="findings">
+  <div class="finding">
+    <h3>Key Research Findings</h3>
+    <p style="margin-bottom:12px"><strong>5-query evaluation (162 graded relevance judgments):</strong><br>
+    <strong>Reranked fusion</strong> (BM25 + TF-IDF + Semantic) achieves the best mean NDCG@10 across all 5 queries (<strong>0.477</strong>), followed by Semantic (0.450), Hybrid (0.421), BM25 (0.406), Jaccard (0.303), and TF-IDF (0.246).<br>
+    After Bonferroni correction across 15 method pairs, <strong>TF-IDF is significantly worse than all other methods</strong> (p&nbsp;&lt;&nbsp;0.001). No other pair is distinguishable at 5 queries.</p>
+    <p style="margin-bottom:12px"><strong>Single-query Q1 evaluation (67 labels):</strong><br>
+    TF-IDF and Semantic top-10 agree on only <strong>40% of professors</strong> (Spearman ρ = 0.624). Semantic achieves <strong>50% Precision@10 vs 10% for TF-IDF</strong> — a 5× improvement on Q1.</p>
+    <p style="margin-bottom:12px"><strong>Field ablation:</strong><br>
+    Biography is the most important profile field — removing it drops NDCG@10 by 0.130 (22%). Research area tags alone score 0.427.</p>
+    <p><strong>arXiv concatenation (controlled experiment):</strong><br>
+    Appending paper abstracts <em>reduces</em> NDCG@10 by 0.176 on the same subpopulation (0.772 → 0.596). Relevant professors are hurt more than irrelevant ones (avg Δ −0.238 vs −0.139), supporting jargon-dilution as the mechanism. A late-fusion architecture is the recommended fix.</p>
+  </div>
+  <h3 style="margin-bottom:16px">Side-by-Side Top 10</h3>
+  <div id="sideBySide" style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px"></div>
+</div>
+
+<!-- Analytics Section -->
+<div class="section" id="analytics">
+  <h2>Advanced Analytics</h2>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:32px">
+    <div class="finding" style="padding:24px">
+      <h3 style="margin-bottom:16px">LTR Feature Importance</h3>
+      <p style="color:var(--muted);font-size:0.85rem;margin-bottom:16px">GradientBoosting model trained on 67 relevance labels. NDCG@10 = <strong style="color:var(--green)">0.568</strong></p>
+      <div id="featureImportance"></div>
+    </div>
+    <div class="finding" style="padding:24px">
+      <h3 style="margin-bottom:16px">Ablation Study</h3>
+      <p style="color:var(--muted);font-size:0.85rem;margin-bottom:16px">Impact of removing each data component on NDCG@10</p>
+      <div id="ablationChart"></div>
+    </div>
+  </div>
+  <h3 style="margin-bottom:16px">LDA Research Topics (12 Discovered)</h3>
+  <div id="ldaTopics" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px"></div>
+  <h3 style="margin:32px 0 16px">University-Topic Heatmap</h3>
+  <div id="uniHeatmap" style="overflow-x:auto"></div>
+</div>
+
+<script>
+let allProfs = [], comparison = {}, stats = {}, clusters = {}, explanations = {};
+let ldaData = {}, ltrData = {}, ablationData = {};
+
+const CLUSTER_COLORS = [
+  '#3b82f6','#22c55e','#f59e0b','#ef4444','#8b5cf6',
+  '#ec4899','#06b6d4','#f97316','#84cc16','#6366f1',
+  '#14b8a6','#e879f9'
+];
+
+async function loadData() {
+  try {
+    const [pRes, cRes, sRes, clRes, exRes, ldaRes, ltrRes, ablRes, mqRes] = await Promise.all([
+      fetch('data/professors.json'), fetch('data/comparison.json'),
+      fetch('data/statistics.json'),
+      fetch('data/clusters.json').catch(()=>({json:()=>({})})),
+      fetch('data/explanations.json').catch(()=>({json:()=>({})})),
+      fetch('data/lda_topics.json').catch(()=>({json:()=>({})})),
+      fetch('data/ltr_results.json').catch(()=>({json:()=>({})})),
+      fetch('data/ablation_results.json').catch(()=>({json:()=>({})})),
+      fetch('data/multi_query_results.json').catch(()=>({json:()=>({})}))
+    ]);
+    const pData = await pRes.json();
+    allProfs = pData.professors || [];
+    comparison = await cRes.json();
+    stats = await sRes.json();
+    clusters = await clRes.json();
+    explanations = (await exRes.json()).explanations || {};
+    ldaData = await ldaRes.json();
+    ltrData = await ltrRes.json();
+    ablationData = await ablRes.json();
+    // NOTE: window.multiQueryData is loaded for future use but is not yet
+    // rendered dynamically -- the "Key Research Findings" panel text in the
+    // HTML above is currently static and was hand-written from the same
+    // numbers in data/final/multi_query_results.json. If that file is
+    // regenerated with different results, update the panel text manually
+    // (or implement dynamic rendering from window.multiQueryData).
+    window.multiQueryData = mqRes && mqRes.json ? await mqRes.json() : {};
+    init();
+  } catch(e) { document.body.innerHTML = '<div style="padding:60px;text-align:center;color:#94a3b8"><h2>Run export first</h2><p>python app/export_ui_data.py</p></div>'; }
+}
+
+function init() {
+  renderStats();
+  populateFilters();
+  renderTable();
+  renderComparison();
+  renderFindings();
+  let mapRendered = false;
+  let analyticsRendered = false;
+  document.getElementById('searchInput').addEventListener('input', renderTable);
+  document.getElementById('uniFilter').addEventListener('change', renderTable);
+  document.getElementById('sortBy').addEventListener('change', renderTable);
+  document.querySelectorAll('.tab').forEach(t => t.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+    document.querySelectorAll('.section').forEach(x => x.classList.remove('active'));
+    t.classList.add('active');
+    document.getElementById(t.dataset.tab).classList.add('active');
+    if (t.dataset.tab === 'researchmap' && !mapRendered && clusters.professors) {
+      setTimeout(() => { renderResearchMap(); mapRendered = true; }, 50);
+    }
+    if (t.dataset.tab === 'analytics' && !analyticsRendered) {
+      setTimeout(() => { renderAnalytics(); analyticsRendered = true; }, 50);
+    }
+  }));
+}
+
+function renderStats() {
+  const unis = [...new Set(allProfs.map(p => p.university))].length;
+  const withPapers = allProfs.filter(p => p.arxiv_papers && p.arxiv_papers.length).length;
+  const allAreas = allProfs.flatMap(p => {
+    if (p.research_areas && p.research_areas.length) return p.research_areas;
+    if (p.research_text) return p.research_text.split(/,\s*/).filter(a => a.length > 2);
+    return [];
+  });
+  const areas = [...new Set(allAreas)].length;
+  document.getElementById('statsRow').innerHTML = [
+    {n: allProfs.length, l: 'Professors'}, {n: unis, l: 'Universities'},
+    {n: areas, l: 'Research Areas'}, {n: withPapers, l: 'With arXiv Papers'},
+    {n: '0.70', l: 'Best Precision@10'}
+  ].map(s => `<div class="stat-card"><div class="num">${s.n}</div><div class="label">${s.l}</div></div>`).join('');
+}
+
+function populateFilters() {
+  const unis = [...new Set(allProfs.map(p => p.university))].sort();
+  const sel = document.getElementById('uniFilter');
+  unis.forEach(u => { const o = document.createElement('option'); o.value = u; o.textContent = u; sel.appendChild(o); });
+}
+
+function scoreBadge(val) {
+  if (!val && val !== 0) return '<span class="score-badge score-low">--</span>';
+  const display = val > 1 ? val.toFixed(1) : val.toFixed(3);
+  const norm = val > 1 ? Math.min(val / 40, 1) : val;  // normalize BM25 range
+  const cls = norm >= 0.4 ? 'score-high' : norm >= 0.2 ? 'score-mid' : 'score-low';
+  return `<span class="score-badge ${cls}">${display}</span>`;
+}
+
+function getFiltered() {
+  const q = document.getElementById('searchInput').value.toLowerCase();
+  const uni = document.getElementById('uniFilter').value;
+  const sort = document.getElementById('sortBy').value;
+  let filtered = allProfs.filter(p => {
+    if (uni && p.university !== uni) return false;
+    if (q && !(p.name.toLowerCase().includes(q) || (p.research_text||'').toLowerCase().includes(q) || (p.research_areas||[]).join(' ').toLowerCase().includes(q))) return false;
+    return true;
+  });
+  filtered.sort((a,b) => {
+    if (sort === 'name') return a.name.localeCompare(b.name);
+    return (b[sort]||0) - (a[sort]||0);
+  });
+  return filtered;
+}
+
+function renderTable() {
+  const filtered = getFiltered();
+  document.getElementById('resultCount').textContent = `${filtered.length} results`;
+  const body = document.getElementById('profBody');
+  body.innerHTML = filtered.map((p, i) => {
+    const papers = (p.arxiv_papers||[]).map(paper =>
+      `<div class="paper-item"><div class="paper-title">${paper.title}</div><div class="paper-year">${paper.year} | ${(paper.categories||[]).join(', ')}</div></div>`
+    ).join('') || '<p style="color:var(--muted)">No arXiv papers found</p>';
+    return `
+      <tr onclick="toggleExpand('exp${i}')">
+        <td class="rank">${i+1}</td>
+        <td class="name-cell">${p.name}<div class="uni">${p.title||''}</div></td>
+        <td>${p.university}</td>
+        <td style="max-width:250px;font-size:0.82rem;color:var(--muted)">${(p.research_text||'').substring(0,120)}${(p.research_text||'').length>120?'...':''}</td>
+        <td>${scoreBadge(p.semantic_score)}</td>
+        <td>${scoreBadge(p.bm25_score)}</td>
+        <td>${scoreBadge(p.tfidf_score)}</td>
+        <td>${scoreBadge(p.hybrid_score)}</td>
+        <td>${scoreBadge(p.reranked_score)}</td>
+      </tr>
+      <tr class="expand-row" id="exp${i}"><td colspan="9">
+        <div class="expand-content" style="grid-template-columns:1fr 1fr 1fr">
+          <div>
+            <h4>Profile</h4>
+            <p>${p.biography||'No biography available'}</p>
+            ${p.email?`<p style="margin-top:8px"><strong>Email:</strong> ${p.email}</p>`:''}
+            ${p.profile_url?`<p><strong>Profile:</strong> <a href="${p.profile_url}" target="_blank">${p.profile_url.substring(0,50)}...</a></p>`:''}
+            ${p.google_scholar?`<p><strong>Scholar:</strong> <a href="${p.google_scholar}" target="_blank">Google Scholar</a></p>`:''}
+            <h4 style="margin-top:16px">Research Areas</h4>
+            <ul>${(p.research_areas||[]).map(a=>`<li>${a}</li>`).join('')||'<li>Not listed</li>'}</ul>
+          </div>
+          <div>
+            <h4>arXiv Papers (${(p.arxiv_papers||[]).length})</h4>
+            ${papers}
+          </div>
+          <div>${renderExplanation(p.name)}</div>
+        </div>
+      </td></tr>`;
+  }).join('');
+}
+
+function toggleExpand(id) {
+  const row = document.getElementById(id);
+  row.classList.toggle('open');
+}
+
+function renderExplanation(name) {
+  const ex = explanations[name];
+  if (!ex) return '<h4>Why Recommended</h4><p style="color:var(--muted);font-size:0.82rem">Not in top 50 — no explanation generated</p>';
+
+  const kw = (ex.matching_keywords||[]).map(k =>
+    `<span style="display:inline-block;padding:3px 10px;margin:2px;background:rgba(59,130,246,0.12);border:1px solid rgba(59,130,246,0.25);border-radius:6px;font-size:0.75rem;color:var(--accent)">${k.term}</span>`
+  ).join('') || '<span style="color:var(--muted);font-size:0.82rem">None detected</span>';
+
+  const topics = (ex.shared_topics||[]).map(t =>
+    `<span style="display:inline-block;padding:3px 10px;margin:2px;background:rgba(34,197,94,0.12);border:1px solid rgba(34,197,94,0.25);border-radius:6px;font-size:0.75rem;color:var(--green)">${t}</span>`
+  ).join('') || '<span style="color:var(--muted);font-size:0.82rem">None shared</span>';
+
+  const sb = ex.score_breakdown||{};
+  const semPct = sb.semantic_pct || 0;
+  const driverColor = sb.primary_driver==='semantic'?'var(--accent)':sb.primary_driver==='keyword'?'var(--green)':'var(--accent2)';
+  const driverIcon = sb.primary_driver==='semantic'?'🧠':sb.primary_driver==='keyword'?'🔑':'⚖️';
+
+  return `
+    <h4>Why Recommended</h4>
+    <p style="font-size:0.82rem;color:var(--muted);margin-bottom:10px;line-height:1.5">${ex.summary||''}</p>
+    <h4 style="margin-top:12px;font-size:0.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.5px">Matching Keywords</h4>
+    <div style="margin:6px 0 12px">${kw}</div>
+    <h4 style="font-size:0.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.5px">Shared Topics</h4>
+    <div style="margin:6px 0 12px">${topics}</div>
+    <h4 style="font-size:0.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:0.5px">Score Driver ${driverIcon}</h4>
+    <div style="margin:6px 0;font-size:0.82rem;color:${driverColor};font-weight:600">${sb.explanation||''}</div>
+    <div style="background:var(--border);border-radius:6px;height:8px;margin:8px 0;overflow:hidden;display:flex">
+      <div style="width:${semPct}%;background:var(--accent);height:100%"></div>
+      <div style="width:${100-semPct}%;background:var(--green);height:100%"></div>
+    </div>
+    <div style="display:flex;justify-content:space-between;font-size:0.72rem;color:var(--muted)">
+      <span>Semantic ${semPct.toFixed(0)}%</span><span>Keyword ${(100-semPct).toFixed(0)}%</span>
+    </div>
+    ${ex.cluster_label?`<div style="margin-top:10px;font-size:0.78rem;color:var(--muted)">📍 Cluster: <strong style="color:var(--text)">${ex.cluster_label}</strong></div>`:''}
+  `;
+}
+
+function renderComparison() {
+  const c = comparison;
+  const overlap = c.overlap_analysis || {};
+  const corr = c.rank_correlations || {};
+  const pr = c.precision_recall || {};
+
+  const tfsOvl = overlap.tfidf_vs_semantic || {};
+  document.getElementById('compGrid').innerHTML = [
+    {m: (tfsOvl.overlap_count||0) + '/10', l:'TF-IDF vs Semantic Overlap', c:'var(--accent)'},
+    {m: (corr.tfidf_vs_semantic||0).toFixed(2), l:'Spearman rho (TF-IDF<>Sem)', c:'var(--accent2)'},
+    {m: (corr.hybrid_vs_semantic||0).toFixed(2), l:'Spearman rho (Hybrid<>Sem)', c:'var(--green)'},
+    {m: c.config?.total_professors||768, l:'Total Professors Compared', c:'var(--orange)'},
+  ].map(x => `<div class="comp-card"><h3>${x.l}</h3><div class="metric" style="color:${x.c}">${x.m}</div></div>`).join('');
+
+  // Precision/Recall table
+  if (pr && Object.keys(pr).length) {
+    const methods = ['semantic','hybrid','tfidf','jaccard'];
+    let html = '<table class="pr-table"><thead><tr><th>Method</th><th>Precision</th><th>Recall</th><th>F1</th></tr></thead><tbody>';
+    methods.forEach((m,i) => {
+      const d = pr[m]||{};
+      html += `<tr class="${i===0?'best':''}"><td>${m.charAt(0).toUpperCase()+m.slice(1)}</td><td>${d.precision_at_k||'--'}</td><td>${d.recall_at_k||'--'}</td><td>${d.f1_at_k||'--'}</td></tr>`;
+    });
+    html += '</tbody></table>';
+    document.getElementById('prTableWrap').innerHTML = html;
+  }
+
+  // Score bar chart
+  const sd = c.score_statistics || {};
+  const colors = {semantic:'var(--accent)',tfidf:'var(--green)',hybrid:'var(--accent2)',jaccard:'var(--orange)'};
+  const maxMean = Math.max(...Object.values(sd).map(s=>s.mean||0));
+  document.getElementById('scoreBarChart').innerHTML = Object.entries(sd).map(([m,s]) => {
+    const pct = ((s.mean||0)/maxMean*100).toFixed(0);
+    return `<div class="bar-row"><div class="bar-label">${m}</div><div class="bar-track"><div class="bar-fill" style="width:${pct}%;background:${colors[m]||'var(--accent)'}"></div></div><div class="bar-value">${(s.mean||0).toFixed(4)}</div></div>`;
+  }).join('');
+}
+
+function renderFindings() {
+  const topK = comparison.top_k_results || {};
+  const methods = ['tfidf','semantic','hybrid'];
+  const labels = {tfidf:'TF-IDF',semantic:'Semantic',hybrid:'Hybrid'};
+  const colors = {tfidf:'var(--green)',semantic:'var(--accent)',hybrid:'var(--accent2)'};
+  document.getElementById('sideBySide').innerHTML = methods.map(m => {
+    const list = (topK[m]||[]).slice(0,10);
+    return `<div style="background:var(--card);border-radius:12px;padding:18px;border-top:3px solid ${colors[m]}">
+      <h4 style="margin-bottom:12px;color:${colors[m]};font-size:0.9rem">${labels[m]} Top 10</h4>
+      ${list.map((p,i)=>`<div style="display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--border);font-size:0.82rem">
+        <span>${i+1}. ${p.name}</span><span style="color:var(--muted)">${p.score.toFixed(3)}</span></div>`).join('')}
+    </div>`;
+  }).join('');
+}
+
+function renderResearchMap() {
+  const profs = clusters.professors || [];
+  const clusterInfo = clusters.clusters || {};
+  const myPos = clusters.my_position || {};
+  if (!profs.length) return;
+
+  // Info cards
+  const nClusters = Object.keys(clusterInfo).length;
+
+  // Compute nearest cluster to user's query position
+  const myX = myPos.umap_x || 12.42;
+  const myY = myPos.umap_y || 8.13;
+  const centroids = {};
+  profs.forEach(p => {
+    const cid = String(p.cluster_id);
+    if (!centroids[cid]) centroids[cid] = {sx: 0, sy: 0, n: 0};
+    centroids[cid].sx += p.umap_x;
+    centroids[cid].sy += p.umap_y;
+    centroids[cid].n++;
+  });
+  let nearestCid = '8';
+  let minDist = Infinity;
+  Object.entries(centroids).forEach(([cid, c]) => {
+    const cx = c.sx / c.n;
+    const cy = c.sy / c.n;
+    const dist = Math.sqrt((cx - myX) ** 2 + (cy - myY) ** 2);
+    if (dist < minDist) { minDist = dist; nearestCid = cid; }
+  });
+  const nearestLabel = clusterInfo[nearestCid]?.label?.split('/')[0]?.trim() || 'ML / NLP';
+
+  document.getElementById('mapInfo').innerHTML = [
+    {v: profs.length, l:'Professors Mapped'},
+    {v: nClusters, l:'Research Clusters'},
+    {v: '384→2D', l:'UMAP Reduction'},
+    {v: nearestLabel, l:'Your Nearest Cluster'}
+  ].map(x=>`<div class="map-info-card"><div class="mic-label">${x.l}</div><div class="mic-value">${x.v}</div></div>`).join('');
+
+  // Legend
+  let activeCluster = null;
+  document.getElementById('mapLegend').innerHTML = Object.entries(clusterInfo).map(([id,info])=>
+    `<div class="legend-item" data-cid="${id}"><div class="legend-dot" style="background:${CLUSTER_COLORS[id%10]}"></div><span class="legend-label">${info.label}</span><span class="legend-count">${info.size}</span></div>`
+  ).join('');
+
+  document.querySelectorAll('.legend-item').forEach(el=>{
+    el.addEventListener('click',()=>{
+      const cid = parseInt(el.dataset.cid);
+      if (activeCluster === cid) { activeCluster = null; el.classList.remove('active'); }
+      else { document.querySelectorAll('.legend-item').forEach(x=>x.classList.remove('active')); activeCluster = cid; el.classList.add('active'); }
+      drawMap();
+    });
+  });
+
+  // Canvas setup
+  const canvas = document.getElementById('mapCanvas');
+  const container = canvas.parentElement;
+  const dpr = window.devicePixelRatio || 1;
+  const rect = container.getBoundingClientRect();
+  const W = rect.width;
+  const H = Math.max(500, Math.min(650, W * 0.55));
+  canvas.width = W * dpr;
+  canvas.height = H * dpr;
+  canvas.style.width = W + 'px';
+  canvas.style.height = H + 'px';
+  const ctx = canvas.getContext('2d');
+  ctx.scale(dpr, dpr);
+
+  // Coordinate mapping
+  const xs = profs.map(p=>p.umap_x);
+  const ys = profs.map(p=>p.umap_y);
+  const pad = 50;
+  const xMin = Math.min(...xs), xMax = Math.max(...xs);
+  const yMin = Math.min(...ys), yMax = Math.max(...ys);
+  const xRange = xMax - xMin || 1, yRange = yMax - yMin || 1;
+  const toX = v => pad + (v - xMin) / xRange * (W - 2*pad);
+  const toY = v => pad + (v - yMin) / yRange * (H - 2*pad);
+
+  let hoverIdx = -1;
+
+  function drawMap() {
+    ctx.clearRect(0, 0, W, H);
+
+    // Grid
+    ctx.strokeStyle = 'rgba(255,255,255,0.03)';
+    ctx.lineWidth = 1;
+    for (let i = 0; i <= 10; i++) {
+      const x = pad + (W-2*pad)*i/10;
+      const y = pad + (H-2*pad)*i/10;
+      ctx.beginPath(); ctx.moveTo(x, pad); ctx.lineTo(x, H-pad); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(pad, y); ctx.lineTo(W-pad, y); ctx.stroke();
+    }
+
+    // Draw professors
+    profs.forEach((p, i) => {
+      const px = toX(p.umap_x);
+      const py = toY(p.umap_y);
+      const cid = p.cluster_id;
+      const color = CLUSTER_COLORS[cid % 10];
+      const isActive = activeCluster === null || activeCluster === cid;
+      const isHovered = i === hoverIdx;
+      const alpha = isActive ? (isHovered ? 1 : 0.75) : 0.08;
+      const radius = isHovered ? 7 : 4;
+
+      ctx.beginPath();
+      ctx.arc(px, py, radius, 0, Math.PI * 2);
+      ctx.fillStyle = color;
+      ctx.globalAlpha = alpha;
+      ctx.fill();
+
+      if (isHovered) {
+        ctx.globalAlpha = 0.3;
+        ctx.beginPath();
+        ctx.arc(px, py, 14, 0, Math.PI * 2);
+        ctx.fillStyle = color;
+        ctx.fill();
+      }
+      ctx.globalAlpha = 1;
+    });
+
+    // Draw user position as star
+    if (myPos.umap_x != null) {
+      const ux = toX(myPos.umap_x);
+      const uy = toY(myPos.umap_y);
+      drawStar(ctx, ux, uy, 5, 12, 6);
+      ctx.fillStyle = '#ec4899';
+      ctx.fill();
+      ctx.strokeStyle = '#fff';
+      ctx.lineWidth = 1.5;
+      ctx.stroke();
+      // Glow
+      ctx.globalAlpha = 0.15;
+      ctx.beginPath();
+      ctx.arc(ux, uy, 22, 0, Math.PI*2);
+      ctx.fillStyle = '#ec4899';
+      ctx.fill();
+      ctx.globalAlpha = 1;
+      // Label
+      ctx.font = '11px Inter, sans-serif';
+      ctx.fillStyle = '#ec4899';
+      ctx.fillText('You', ux + 16, uy + 4);
+    }
+  }
+
+  function drawStar(ctx, cx, cy, spikes, outerR, innerR) {
+    let rot = Math.PI / 2 * 3, step = Math.PI / spikes;
+    ctx.beginPath();
+    ctx.moveTo(cx, cy - outerR);
+    for (let i = 0; i < spikes; i++) {
+      ctx.lineTo(cx + Math.cos(rot) * outerR, cy + Math.sin(rot) * outerR);
+      rot += step;
+      ctx.lineTo(cx + Math.cos(rot) * innerR, cy + Math.sin(rot) * innerR);
+      rot += step;
+    }
+    ctx.closePath();
+  }
+
+  // Tooltip
+  const tooltip = document.getElementById('mapTooltip');
+  canvas.addEventListener('mousemove', e => {
+    const br = canvas.getBoundingClientRect();
+    const mx = e.clientX - br.left;
+    const my = e.clientY - br.top;
+    let closest = -1, closestDist = 20;
+    profs.forEach((p, i) => {
+      const dx = toX(p.umap_x) - mx;
+      const dy = toY(p.umap_y) - my;
+      const d = Math.sqrt(dx*dx + dy*dy);
+      if (d < closestDist) { closestDist = d; closest = i; }
+    });
+    if (closest !== hoverIdx) {
+      hoverIdx = closest;
+      drawMap();
+      if (closest >= 0) {
+        const p = profs[closest];
+        const cInfo = clusterInfo[p.cluster_id] || {};
+        tooltip.innerHTML = `<div class="tt-name">${p.name}</div><div class="tt-uni">${p.university}</div><div class="tt-cluster">${cInfo.label||'Unknown'}</div>`;
+        tooltip.style.display = 'block';
+        const tx = Math.min(toX(p.umap_x) + 15, W - 290);
+        const ty = Math.max(toY(p.umap_y) - 30, 5);
+        tooltip.style.left = tx + 'px';
+        tooltip.style.top = ty + 'px';
+      } else {
+        tooltip.style.display = 'none';
+      }
+    }
+  });
+  canvas.addEventListener('mouseleave', () => { hoverIdx = -1; tooltip.style.display = 'none'; drawMap(); });
+
+  drawMap();
+}
+
+loadData();
+
+function renderAnalytics() {
+  // -- LTR Feature Importance --
+  const fi = ltrData.feature_importances || {};
+  const fiEntries = Object.entries(fi).sort((a,b) => b[1] - a[1]);
+  const maxFi = fiEntries.length ? fiEntries[0][1] : 1;
+  const fiColors = ['#3b82f6','#8b5cf6','#ec4899','#f59e0b','#22c55e','#06b6d4','#f97316','#84cc16','#6366f1'];
+  const fiContainer = document.getElementById('featureImportance');
+  const hasArxivNote = fi.has_arxiv === 0 ?
+    `<p style="color:var(--muted);font-size:0.78rem;margin-bottom:12px;font-style:italic">
+       Note: "Has Arxiv" is 0.0% because this feature checks the wrong data field
+       (a known implementation limitation, not a finding that arXiv coverage is
+       uninformative) -- see analysis/learn_to_rank.py for details.
+     </p>` : '';
+  fiContainer.innerHTML = hasArxivNote + fiEntries.map((e, i) => {
+    const pct = (e[1] / maxFi * 100).toFixed(0);
+    const label = e[0].replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    return `<div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
+      <span style="width:130px;font-size:0.82rem;color:var(--muted);text-align:right">${label}</span>
+      <div style="flex:1;height:24px;background:rgba(255,255,255,0.04);border-radius:6px;overflow:hidden;position:relative">
+        <div style="width:${pct}%;height:100%;background:linear-gradient(90deg,${fiColors[i % 9]},${fiColors[(i+1) % 9]});border-radius:6px;transition:width 0.8s ease"></div>
+      </div>
+      <span style="width:50px;font-size:0.82rem;font-weight:600;color:${fiColors[i % 9]}">${(e[1]*100).toFixed(1)}%</span>
+    </div>`;
+  }).join('');
+
+  // -- Ablation Study --
+  const ablations = (ablationData.ablations || []);
+  const baseline = ablations.length ? ablations[0].ndcg_at_k : 0;
+  const ablColors = {'Full Model':'#22c55e', '-Biography':'#f59e0b', '-Research Areas':'#ef4444', '-arXiv Papers':'#3b82f6', '-Bio -arXiv (profile only)':'#ec4899', 'Research Areas Only':'#8b5cf6'};
+  document.getElementById('ablationChart').innerHTML = ablations.map(a => {
+    const pct = (a.ndcg_at_k / (baseline || 1) * 100).toFixed(0);
+    const delta = a.ndcg_delta !== 0 ? ` (${a.ndcg_delta > 0 ? '+' : ''}${a.ndcg_delta.toFixed(3)})` : ' (baseline)';
+    const clr = ablColors[a.ablation] || '#94a3b8';
+    return `<div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
+      <span style="width:180px;font-size:0.82rem;color:var(--muted);text-align:right">${a.ablation}</span>
+      <div style="flex:1;height:22px;background:rgba(255,255,255,0.04);border-radius:6px;overflow:hidden">
+        <div style="width:${pct}%;height:100%;background:${clr};border-radius:6px;opacity:0.8;transition:width 0.8s ease"></div>
+      </div>
+      <span style="width:100px;font-size:0.8rem;color:${clr};font-weight:500">${a.ndcg_at_k.toFixed(3)}${delta}</span>
+    </div>`;
+  }).join('');
+
+  // -- LDA Topics --
+  const topics = ldaData.topics || [];
+  function renderWord(w, wi, maxW, topWeights, colorIdx) {
+    const opacity = (0.4 + 0.6 * (topWeights ? topWeights[wi] / maxW : 1)).toFixed(2);
+    const size = (0.7 + 0.25 * (1 - wi / 8)).toFixed(2);
+    const clr = CLUSTER_COLORS[colorIdx % 12];
+    return '<span style="background:' + clr + '18;color:' + clr + ';padding:3px 8px;border-radius:6px;font-size:' + size + 'rem;opacity:' + opacity + '">' + w + '</span>';
+  }
+  document.getElementById('ldaTopics').innerHTML = topics.map((t, i) => {
+    const words = (t.top_words || []).slice(0, 8);
+    const maxW = t.top_weights ? t.top_weights[0] : 1;
+    const profs = (t.top_professors || []).slice(0, 3);
+    const wordHtml = words.map((w, wi) => renderWord(w, wi, maxW, t.top_weights, i)).join('');
+    const profHtml = profs.map(p => '<div style="font-size:0.78rem;color:var(--muted);margin-bottom:3px"><span style="color:var(--text)">' + p.name + '</span> <span style="opacity:0.6">' + p.university + '</span></div>').join('');
+    return `<div style="background:var(--card);border:1px solid var(--border);border-radius:14px;padding:20px;transition:transform 0.2s,border-color 0.3s" onmouseover="this.style.borderColor='${CLUSTER_COLORS[i%12]}';this.style.transform='translateY(-2px)'" onmouseout="this.style.borderColor='var(--border)';this.style.transform='none'">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+        <span style="font-weight:600;font-size:0.9rem">Topic ${t.id}</span>
+        <span style="background:${CLUSTER_COLORS[i%12]}22;color:${CLUSTER_COLORS[i%12]};padding:2px 10px;border-radius:20px;font-size:0.75rem;font-weight:600">${t.n_professors} profs</span>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px">${wordHtml}</div>
+      <div style="border-top:1px solid var(--border);padding-top:10px">${profHtml}</div>
+    </div>`;
+  }).join('');
+
+  // -- University-Topic Heatmap --
+  const uniCounts = ldaData.university_topic_counts || {};
+  const unis = Object.keys(uniCounts).sort();
+  if (unis.length && topics.length) {
+    let maxCount = 0;
+    unis.forEach(u => uniCounts[u].forEach(c => { if (c > maxCount) maxCount = c; }));
+    let html = '<table style="width:100%;border-collapse:separate;border-spacing:2px;font-size:0.78rem">';
+    html += '<thead><tr><th style="text-align:left;padding:8px;color:var(--muted)">University</th>';
+    topics.forEach((t, i) => html += `<th style="padding:6px 4px;color:${CLUSTER_COLORS[i%12]};font-size:0.7rem;text-align:center;max-width:80px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis" title="${t.label}">T${i}</th>`);
+    html += '</tr></thead><tbody>';
+    unis.forEach(uni => {
+      html += `<tr><td style="padding:8px;color:var(--text);font-weight:500;white-space:nowrap">${uni}</td>`;
+      uniCounts[uni].forEach((count, i) => {
+        const intensity = maxCount > 0 ? count / maxCount : 0;
+        const bg = intensity > 0 ? `${CLUSTER_COLORS[i%12]}${Math.round(intensity * 180 + 20).toString(16).padStart(2, '0')}` : 'transparent';
+        html += `<td style="text-align:center;padding:6px;background:${bg};border-radius:4px;color:${intensity > 0.4 ? '#fff' : 'var(--muted)'}">${count || ''}</td>`;
+      });
+      html += '</tr>';
+    });
+    html += '</tbody></table>';
+    document.getElementById('uniHeatmap').innerHTML = html;
+  }
+}
+</script>
+</body>
+</html>
