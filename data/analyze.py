@@ -62,7 +62,7 @@ def apply_dark_style(fig, ax):
 # Statistics Computation
 
 def compute_statistics(professors: list) -> dict:
-    """Compute comprehensive dataset statistics."""
+    """Compute detailed dataset statistics."""
 
     total = len(professors)
 

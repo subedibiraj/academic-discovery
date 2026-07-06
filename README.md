@@ -232,7 +232,7 @@ academic-discovery/
   title  = {Comparing Retrieval Methods for Academic Advisor Discovery},
   author = {Subedi, Biraj},
   year   = {2026},
-  note   = {arXiv preprint, cs.IR},
+  note   = {Preprint},
   url    = {https://github.com/subedibiraj/academic-discovery}
 }
 ```
